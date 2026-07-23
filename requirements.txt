@@ -1,0 +1,7 @@
+jupyter
+ipykernel
+sympy
+numpy
+matplotlib
+ipywidgets
+manim
