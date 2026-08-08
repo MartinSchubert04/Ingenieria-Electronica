@@ -108,3 +108,45 @@ $\frac{1}{2*-1^2+5+3}=\frac{1}{10}$
 d) $(h o g)(2)$
 
 $2(\frac{1}{2+3})-6=-\frac{28}{5} $
+
+### 6.
+
+a) $f(x)= 3x - 1$
+
+$ y = 3x -1 $  
+$ \frac{y + 1}{3} = x $
+
+b) $f(x)= 2x^3 - 1$
+
+$ y = 2x^3 -1 $  
+$ \sqrt[3]{\frac{y + 1}{2}} = x $
+
+c) $f(x)=2-\sqrt{x+7}$
+
+$y=2-\sqrt{x+7}$  
+$-y+2=\sqrt{x+7}$  
+$(-y+2)^2-7=x$
+
+d) $f(x)=\frac{3-2x}{x+1}$
+
+$y=\frac{3-2x}{x+1}$  
+$y*(x+1)=3-2x$  
+$yx+y=3-2x$  
+$yx+2x=3-y$  
+$x(y+2)=3-y$  
+$x=\frac{3-y}{y+2}$
+
+e) $f(x)=\sqrt[3]{3x-1}$  
+$y=\sqrt[3]{3x-1}$  
+$\frac{y^3+1}{3}=x$
+
+f) $f(x)=x^2-5, (Dom f:(-\infty,0])$
+
+$y=x^2-5$  
+$y+5=x^2$  
+$\sqrt{y+5}=\lvert x \lvert$  
+$\sqrt{y+5}=  x_1 \implies \empty \text{ no incluido en el dominio, ya que dara x siempre x positivos}$  
+$-\sqrt{y+5}=  x_2 \text{}$
+
+$y + 5 \geq 0$  
+$y \geq -5$

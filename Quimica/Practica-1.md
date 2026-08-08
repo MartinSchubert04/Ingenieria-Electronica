@@ -40,6 +40,33 @@ Se podrian colocar 18 electrones y corresponderia a el Argon
 
 ### 7.
 
+### 8.
+
+$Ne (z=10) = 1s^2, 2s^2, 2p^6 \implies \text{CEE } 2s^2,2p^6$  
+$Na (z=11) = 1s^2, 2s^2, 2p^6, 3s^1 \implies \text{CEE } 3s^1$  
+$Cl (z=17) = 1s^2, 2s^2, 2p^6, 3s^2, 3p^5 \implies \text{CEE } 3s^2, 3s^5$  
+$Ti (z=22) = 1s^2, 2s^2, 2p^6, 3s^2, 3p^6, 4s^2, 3d^{2}\implies \text{CEE } 4s^2, 3d^2$
+
+### 12.
+
+La notacion indica su gas noble mas cercano menos en el c, aunque en el c es claramente Ne el mas cercano
+
+a) $[Xe] 4f^{14},5d^{10},6s^2,6p^2 \implies \text{CEE } 6s^2, 6p^2 \text{ | Grupo: 14 | Periodo: 6}$  
+b) $[Ar] 3d^5,4s^2 \implies \text{CEE } 3d^5, 4s^2 \text{ | Grupo: 7 | Periodo: 4}$  
+c) $1s^2 2s^2,2p^6,3s^2 \implies \text{CEE } 3s^2 \text{ | Grupo: 2 | Periodo: 3}$  
+d) $[Kr] 4d^{10},5s^2,5p^6 \implies \text{CEE } 5s^2, 5p^6 \text{ | Grupo: 18 | Periodo: 5}$
+
+### 14.
+
+Un átomo del elemento Q al ganar 1 electrón forma un ion isoelectrónico con el catión R2+.
+Sabiendo que R tiene número atómico 38, indicar la configuración electrónica del ion y del
+elemento.
+
+Sabemos que $R$ perdio dos electrones para $Q^-$ forme el ion isoelectronico, por lo cual $Q$ tiene numero atomico 35 ya que ganaria 1 para formar con los 36 e- de $R^{2+}$
+
+$Q^- = 1s^2, 2s^2, 2p^6, 3s^2, 3p^6, 4s^2, 3d^{10}, 4p^6$  
+$Q = 1s^2, 2s^2, 2p^6, 3s^2, 3p^6, 4s^2, 3d^{10}, 4p^5$
+
 ## Fuera de clase
 
 ### 1.
@@ -137,3 +164,7 @@ Entonces le corresponde a esa union un anion que seria $W^-$
 Por lo cual W seria del periodo 2 y grupo 17
 
 $W = 1s^2, 2s^2, 2p^5 \implies \text {Grupo: 14, Periodo: 3, Z=9}$
+
+### 9.
+
+Gas noble = $1s^2,2s^2,2p^6$
