@@ -1,3 +1,31 @@
+### 1.
+
+Siendo que 1 angstrom es 10⁻¹⁰m, entonces:
+
+0,2x10^-3m / 1.54x10^-10m = 1298701.299 atomos de carbono
+
+### 2.
+
+E = h*v = h * c/λ
+
+h = 6,63 x 10^-34 J.s  
+c = 3,0 x 10^8 m/s
+
+E = 6,63x10-34 J.s \* 3,0x108 m/s / 656x10^-9m = 3.03x10^-19 J
+
+3.03x10^-19 J \* 6,02214076×10²³ 1/m = 182,2 Kj/mopiada para describir las propiedades
+de la materia a nivel atómico.
+
+### 3.
+
+La respuesta a es la de mayor longitud de onda y la d es la de menor energia
+
+### 4.
+
+a)La mecánica cuántica **es** una herramienta apr
+b) Los electrones **no son** considerados como partículas en el marco de la mecánica cuántica.
+c) Un orbital **no es** la trayectoria descripta por un electrón alrededor del núcleo de un átomo
+
 ### 5.
 
 a) Orbital $p_z$  
