@@ -130,13 +130,97 @@ Módulo introductorio al campo académico CTS. Recorre la imagen clásica de la 
 
 ---
 
-## Conexión entre los cuatro textos
+## 5. Karin Knorr-Cetina – *La fabricación del conocimiento* (1981), Estudio preliminar de Pablo Kreimer y Cap. I: "El científico como razonador práctico: introducción a una teoría constructivista y contextual del conocimiento"
 
-Los cuatro textos son complementarios para la unidad 1 y pueden leerse como capas sucesivas de un mismo argumento:
+*(El PDF disponible incluye tapas, el estudio preliminar de Kreimer y el Capítulo I completo del libro, secciones 1 a 13, páginas 51-108 de la edición de la UNQ.)*
+
+### Estudio preliminar (Pablo Kreimer)
+
+- Ubica a Knorr-Cetina dentro de la sociología del conocimiento científico que surge tras **Robert Merton** (programa funcionalista clásico: normas como imparcialidad, comunismo científico, universalismo, escepticismo organizado) y su cuestionamiento por la **Escuela de Edimburgo / Programa Fuerte** (Bloor, Barnes): Merton explicaba la ciencia "verdadera" apelando a la autonomía normativa de la comunidad científica, mientras que el conocimiento "falso" se explicaba por factores sociales externos — Bloor le reprocha esta asimetría y propone el principio de **simetría** (explicar con las mismas causas sociales tanto el conocimiento verdadero como el falso).
+- **Punto interesante** — a partir de la adopción del recurso histórico de los sociólogos e historiadores de la ciencia (marcada por Kuhn), se pasa de preguntar *por qué* una comunidad cree lo que cree a preguntar *cómo* se construye el conocimiento: emerge la corriente **constructivista**, que ve a la ciencia como producto de negociaciones sociales y decisiones contingentes, no como reflejo directo de la naturaleza.
+- **Punto interesante** — el "descubrimiento simultáneo" de los **estudios de laboratorio** a fines de los 70 (Latour y Woolgar, *Laboratory Life*, 1979; Knorr-Cetina, este libro, 1981; Lynch, *Art and Artefact in Laboratory Science*, 1982) como nuevo objeto/método: en vez de estudiar el contexto social "alrededor" de la ciencia, entrar a observar **in situ** lo que los científicos efectivamente hacen dentro del laboratorio (etnografía de la práctica científica).
+
+### 1. La ciencia como algo "dado" y como construcción
+
+- Contrapone dos "rostros" de la ciencia mediante una tabla: **ciencia hecha** (rostro anciano — "la ciencia no se deja intimidar por una multitud de opiniones", "una vez que la máquina funciona, todos los hechos son inútiles") vs. **ciencia mientras se hace** (rostro joven — "¿cómo ser más fuerte que una multitud de opiniones?", "mientras las cosas se mantienen, se convierten en verdaderas").
+- **Punto interesante** — la propuesta central del libro es estudiar la ciencia en su faceta de "rostro joven": no el producto terminado y naturalizado, sino el **proceso de fabricación** con toda su incertidumbre, tanteo y contingencia todavía visibles.
+
+### 2. La interpretación constructivista I: la "naturaleza" y el laboratorio
+
+- La interpretación **constructivista** de la ciencia sostiene que los hechos científicos no se "descubren" leyendo directamente la naturaleza, sino que se **fabrican** mediante una intervención activa y artificial sobre ella.
+- **Punto interesante** — el laboratorio no es una ventana transparente hacia la naturaleza sino un espacio profundamente **artificial**: reactivos purificados, instrumentos calibrados, condiciones controladas y hasta los propios objetos de estudio (cultivos, muestras, preparados) son productos manufacturados, "poco naturales", que no se encuentran así en la naturaleza "en bruto".
+- El vocabulario mismo de la investigación ("funciona"/"no funciona") es pragmático más que estrictamente descriptivo: algo "funciona" en el laboratorio si produce los resultados esperados dentro de esa red local de instrumentos y expectativas, no porque refleje una verdad última sobre la naturaleza.
+
+### 3. La interpretación constructivista II: la "carga de decisiones" en la fabricación de los hechos
+
+- No existe un proceso de investigación puramente descriptivo: en cada paso (qué medir, con qué instrumento, qué contar como dato válido, qué descartar como ruido) el científico enfrenta **decisiones** entre alternativas que podrían haberse resuelto de otro modo — de ahí la metáfora de la "carga de decisiones" (*decision-ladenness*) de los hechos científicos, análoga a la "carga teórica" (*theory-ladenness*) de la observación discutida en filosofía de la ciencia.
+- **Punto interesante** — estas decisiones no son arbitrarias ni azarosas en el vacío, pero tampoco están dictadas únicamente por "la naturaleza": están orientadas por selecciones **situacionalmente contingentes**, es decir, por el contexto local (recursos disponibles, tradición del laboratorio, intereses en juego).
+
+### 4-5. El laboratorio como contexto de descubrimiento y de justificación / la contextualidad de la construcción del laboratorio
+
+- Cuestiona la distinción clásica de **Reichenbach** entre *contexto de descubrimiento* (proceso psicológico/creativo, sin interés filosófico) y *contexto de justificación* (validación lógica, el único que importaría epistemológicamente): en la práctica de laboratorio observada, ambos están **entremezclados** — la "justificación" ocurre también mediante negociaciones y decisiones situadas, no solo mediante lógica pura.
+- El laboratorio mismo es un producto **contextual**: su organización, sus prioridades de investigación y sus instrumentos dependen de factores externos (financiamiento, mercado, política científica) que se traducen puertas adentro en decisiones aparentemente "técnicas".
+
+### 6-7. La contingencia contextual como principio de cambio / innovación y selección
+
+- Propone una analogía (parcial, con cuidado de sus límites) con la **evolución biológica**: la innovación científica surgiría de una combinación de **variación azarosa** (ideas, intentos, errores en el trabajo cotidiano del científico) y **selección social/contextual** (qué resultados se publican, financian, citan y reconocen), y no de un plan racional trazado de antemano.
+- **Punto interesante** — a diferencia de la selección natural darwiniana, en ciencia la "selección" no es totalmente ciega: hay reflexividad, pero está igualmente **desviada hacia el contexto** (becas, prestigio, competencia entre laboratorios) más que hacia un ideal puro de verdad.
+
+### 8-10. Fuentes de reconstrucción, metodologías sensitivas y frías, de la pregunta por el qué a la pregunta por el cómo
+
+- Distingue entre reconstrucciones "internas" (lo que la propia comunidad científica dice que hace) y "externas" (lo que un observador social registra que realmente ocurre) del proceso de conocimiento, subrayando la frecuente brecha entre ambas.
+- **Punto interesante** — defiende una **metodología "sensitiva"** (observación participante, etnografía cercana, intersubjetividad con los actores) frente a las metodologías "frías" (encuestas, cuestionarios estandarizados, distancia metodológica), porque solo la primera permite captar el *cómo* cotidiano de la producción de conocimiento, más allá del *qué* o el *por qué* que suelen preguntar los enfoques macrosociológicos tradicionales.
+- Dialoga críticamente con la **etnometodología** (Garfinkel) y el **interaccionismo simbólico**, de los que toma la atención a la interacción cara a cara y al lenguaje ordinario de los científicos, pero a los que critica por permanecer a menudo en estudios "domésticos" alejados del corazón técnico de la práctica científica.
+
+### 11-13. El científico como razonador práctico / cognitivo y práctico / los datos y la presentación
+
+- Distingue al **razonador cognitivo** (el estudio de los procesos mentales individuales del científico, propio de la psicología/sociología cognitiva de la ciencia) del **razonador práctico**, que es el foco del libro: el científico entendido como alguien que resuelve problemas concretos, situados, con los recursos y restricciones que tiene a mano — un "bricoleur" más que un lógico puro.
+- Reivindica las **cinco reglas de procedimiento racional** que, según Garfinkel, gobiernan la práctica científica cotidiana (más cercanas a la "racionalidad práctica" del sentido común metodizado que a un ideal normativo abstracto).
+- **Punto interesante** — describe su propio trabajo de campo: observación directa en un centro de investigación en Berkeley (California), entre octubre de 1976 y enero de 1977, con acceso a laboratorios de química, física, microbiología y análisis de alimentos, entrevistas, notas de campo y recolección de documentos (protocolos, borradores, grabaciones) — el mismo tipo de "giro etnográfico" que caracteriza a los estudios de laboratorio de la época (Latour y Woolgar, Lynch).
+
+---
+
+## 6. Bruno Latour – "Dadme un laboratorio y levantaré el mundo" (1983)
+
+*(Publicado originalmente como "Give Me a Laboratory and I Will Raise the World", en K. Knorr-Cetina y M. Mulkay (eds.), *Science Observed*, Sage, 1983. El PDF disponible es el artículo completo.)*
+
+### Planteo del problema
+
+- Los estudios de laboratorio (como los de Knorr-Cetina o el propio Latour con Woolgar) dieron una imagen más precisa de lo que los científicos hacen puertas adentro, pero corren el riesgo de caer en un enfoque **"internalista"**: si no logran conectar sus microanálisis con cuestiones "macro" (política científica, historia de la ciencia, financiamiento), quedan aislados y son fácilmente descalificados por los especialistas en esos temas "grandes".
+- **Punto interesante** — retrata la vieja disputa "internalismo/externalismo" bajo ropajes nuevos: ahora se contraponen las **"micronegociaciones"**, el **"oportunismo"** y el **"folclore de laboratorio"** (que estudian los etnógrafos de laboratorio) frente a las **"tiras y aflojes económicos a gran escala"** y la **"política pública"** (que estudian los analistas de CTS más "macro"). Ambas escuelas siguen creyendo, pese a los cambios de vocabulario, en una diferencia **real** de escala entre lo micro y lo macro — creencia que Latour se propone desmontar.
+- Propone conservar la metodología de los estudios de campo en laboratorios, pero desplazar el foco: no estudiar el laboratorio en sí mismo, sino **la construcción del laboratorio y su posición en el medio social** — mostrando que la diferencia dentro/fuera, y la diferencia de escala micro/macro, es precisamente lo que los laboratorios están construidos para desestabilizar.
+
+### El caso Pasteur y el ántrax: tres movimientos
+
+- **Movimiento 1 — Captar los intereses de otros:** para que a alguien le importe lo que pasa en su laboratorio, Pasteur debe primero **traducir** un problema ajeno (la epidemia de ántrax, que preocupa a granjeros, veterinarios y agrónomos) a un problema que su laboratorio pueda resolver (aislar y cultivar el bacilo). Antes de esto, "nada de lo que ocurre en un laboratorio de París tiene que ver con una granja en Beauce".
+- **Movimiento 2 — Mover el punto de apoyo de una posición débil a una fuerte:** Pasteur devuelve el elemento capturado (el microbio) a su propio terreno (el laboratorio de la École Normale), donde —a diferencia de la granja— puede cultivarlo en aislamiento, purificarlo y manipularlo a voluntad (atenuar o aumentar su virulencia). **Punto interesante** — al cambiar de escala, se invierte la relación de fuerzas: fuera del laboratorio, el hombre es más débil que el bacilo invisible; dentro de él, el científico se vuelve más fuerte que el microbio.
+- **Movimiento 3 — Mover el mundo con la palanca:** una vez demostrado el dominio en el laboratorio, Pasteur organiza el experimento público de campo de **Pouilly-le-Fort** (vacunación teatral ante periodistas y ganaderos), extiende su "método" al resto de Francia y, mediante las instituciones estadísticas estatales (que registran la caída del ántrax allí donde llega la vacuna), consigue que toda la agricultura francesa "compruebe" la eficacia de un producto salido de su laboratorio.
+
+### Disolución de la dicotomía dentro/fuera y de las diferencias de escala
+
+- **Punto interesante** — tesis central: la distinción entre "dentro" y "fuera" del laboratorio, y entre "micro" y "macro", **no es una diferencia real de escala** sino un efecto retórico y práctico que los propios laboratorios producen y explotan. El título parodia la frase de Arquímedes ("dadme un lugar donde apoyarme y moveré la Tierra"): el laboratorio funciona como una **palanca** porque permite invertir, a pequeña escala y bajo control, la jerarquía de fuerzas entre actores (microbio/granja, científico/veterinario) para luego proyectar esa inversión "hacia afuera".
+- Introduce el concepto de **artefactos de inscripción** (*inscription devices*): la fuerza de la ciencia no reside en ninguna cualidad cognitiva o social especial de los científicos, sino en la capacidad de sus instrumentos para transformar fenómenos complejos e invisibles en **trazos escritos simples** (curvas, tablas, mapas, cifras) que se pueden acumular, comparar y oponer a cualquier contraargumento — "en el laboratorio todo vale, excepto los instrumentos de inscripción y los papeles" (parafraseando a Feyerabend).
+
+### Cómo el más débil se convierte en el más fuerte
+
+- **Punto interesante** — compara al científico con el político: se suele creer que difieren por cualidades cognitivas o morales (el científico "riguroso" y desinteresado vs. el político "corto de vista"), pero la diferencia real está en que el laboratorio permite trabajar a **escala reducida**, multiplicar los intentos y los errores lejos del escrutinio público, y solo "salir" cuando ya se acumuló certeza — de ahí la fuerza persuasiva y política de la ciencia, que no depende de ninguna superioridad cognitiva innata.
+- Cierra con dos parodias encadenadas: primero la de Arquímedes ("dadme un laboratorio y levantaré la sociedad"); y luego, sobre el lema de Clausewitz, propone que **"la ciencia es política ejercida por otros medios"** — medios nuevos e imprevisibles (los desplazamientos de escala vía el laboratorio), y no los medios de la política tradicional.
+
+### Conclusión metodológica
+
+- Los sociólogos de la ciencia no deberían restringirse tímidamente al "nivel" del laboratorio por temor a la acusación de hacer solo "micro-sociología": deben perseguir a su objeto (el hecho científico) a través de **todas** sus transformaciones y desplazamientos, incluso hacia el macronivel — porque es precisamente en los laboratorios donde se generan hoy la mayoría de las nuevas fuentes de poder social.
+
+---
+
+## Conexión entre los textos
+
+Los seis textos son complementarios para la unidad 1 y pueden leerse como capas sucesivas de un mismo argumento:
 
 - **López Cerezo** da el panorama histórico-político del campo CTS: cómo se pasó del "modelo lineal" ingenuo a la regulación social de la ciencia, y qué es el campo académico CTS (investigación, política pública, educación).
 - **Massarini y Schnek** trabajan en el plano epistemológico: qué es un "problema científico" vs. una "problemática social", por qué no conviene poner a la ciencia como autoridad exclusiva, y cómo abordar problemáticas socio-tecnocientíficas concretas (con el caso de la pesca y los OGM como ejemplos aplicados) — además de introducir la relación ciencia-ética.
-- **Kuhn** aporta la base epistemológica "internalista" que los otros tres textos dan por conocida o cuestionan desde afuera: qué es un paradigma, cómo funciona la ciencia normal puertas adentro de una comunidad científica, y por qué esa misma comunidad tiende a ser hermética con los legos — el "abismo" entre expertos y público que Funtowicz y Ravetz retoman explícitamente al hablar del laboratorio y sus expertos.
-- **Funtowicz y Ravetz** llevan la discusión al límite: cuando los problemas son globales, de alta incertidumbre y con mucho en juego (riesgo ambiental), el modelo de "ciencia normal" kuhniano —con su comunidad de pares cerrada y su confianza en el control experimental— deja de alcanzar, y proponen una **ciencia posnormal** con comunidad de pares *extendida* a actores no científicos.
+- **Kuhn** aporta la base epistemológica "internalista" que los otros textos dan por conocida o cuestionan desde afuera: qué es un paradigma, cómo funciona la ciencia normal puertas adentro de una comunidad científica, y por qué esa misma comunidad tiende a ser hermética con los legos — el "abismo" entre expertos y público que Funtowicz y Ravetz retoman explícitamente al hablar del laboratorio y sus expertos.
+- **Funtowicz y Ravetz** llevan la discusión al límite: cuando los problemas son globales, de alta incertidumbre y con mucho en juego (riesgo ambiental), el modelo de "ciencia normal" kuhniano —con su comunidad de pares cerrada y su confianza en el control experimental— deja de alcanzar, y proponen una **ciencia posnormal** con comunidad de pares *extendida* a actores no científicos. Es, no casualmente, el texto que retoma explícitamente la metáfora del laboratorio de Latour ("lo salvaje ha penetrado en el laboratorio") para plantear su diagnóstico.
+- **Knorr-Cetina** baja el análisis al piso del laboratorio mismo: muestra, con metodología etnográfica, que los hechos científicos no se descubren sino que se **fabrican** mediante una cadena de decisiones contingentes y situadas — el correlato empírico, a nivel micro, de la idea de "ciencia como producto social" que López Cerezo y Massarini/Schnek plantean en términos más generales, y una alternativa al enfoque puramente "interno" de Kuhn (para quien el contenido de la ciencia normal no se cuestiona, solo su marco paradigmático).
+- **Latour** parte del mismo terreno empírico que Knorr-Cetina (los estudios de laboratorio) pero da el paso que a los estudios de laboratorio "tímidos" les faltaba: mostrar que el laboratorio no es un espacio aislado y "micro", sino una **palanca** que fabrica activamente lo "macro" (redes, instituciones, política, la propia sociedad) — con lo cual la dicotomía interior/exterior del laboratorio que atraviesa a los cinco textos anteriores (el "abismo" de Kuhn, el laboratorio "invadido" de Funtowicz y Ravetz, la carga de decisiones de Knorr-Cetina) queda, en cierto sentido, disuelta.
 
-El hilo que atraviesa a los cuatro es el mismo: rechazar la imagen de la ciencia como actividad **neutral, autónoma y jerárquicamente superior**, y pensarla en cambio como una práctica social situada — ya sea porque está atravesada por factores no epistémicos (López Cerezo), porque debe dialogar con problemáticas sociales complejas (Massarini y Schnek), porque su propia dinámica interna es sociológica antes que puramente lógica (Kuhn), o porque frente al riesgo global debe abrirse a una comunidad de pares extendida y a la incertidumbre irreducible (Funtowicz y Ravetz).
+El hilo que atraviesa a los seis es el mismo: rechazar la imagen de la ciencia como actividad **neutral, autónoma y jerárquicamente superior**, y pensarla en cambio como una práctica social situada — ya sea porque está atravesada por factores no epistémicos (López Cerezo), porque debe dialogar con problemáticas sociales complejas (Massarini y Schnek), porque su propia dinámica interna es sociológica antes que puramente lógica (Kuhn), porque frente al riesgo global debe abrirse a una comunidad de pares extendida y a la incertidumbre irreducible (Funtowicz y Ravetz), porque sus hechos se fabrican mediante decisiones contextuales concretas (Knorr-Cetina), o porque el propio laboratorio es la fuente activa de nuevas formas de poder social, y no un refugio aislado de la sociedad (Latour).
