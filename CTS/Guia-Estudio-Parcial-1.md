@@ -1,163 +1,252 @@
 # Guía de estudio – 1er Parcial CTS (2C 2026)
 
-Armada cruzando [Resumenes-unidad-1.md](Resumenes-unidad-1.md), [Resumenes-unidad-2.md](Resumenes-unidad-2.md) y los **16 parciales reales** de la carpeta `Parciales/` (2019 a 2022, todas las comisiones que había). El objetivo es decirte **qué se pregunta de verdad** y qué priorizar.
+Reescrita tomando como base los **dos parciales reales de 1C 2026** (`Parciales/2026_1C.jpg` — Comisión Miércoles, Tema 1; y `Parciales/2026_1C_2.jpeg` — Comisión C1B), que son los únicos exámenes tomados **bajo el programa actual** (con unidades 1 y 2 tal como están hoy). Los parciales viejos 2019–2022 quedan como referencia secundaria: sirven para el *estilo de redacción* y la *rúbrica*, pero **su selección de temas ya no representa lo que se toma** (ver sección 6).
+
+Cruzada con [Resumenes-unidad-1.md](Resumenes-unidad-1.md) y [Resumenes-unidad-2.md](Resumenes-unidad-2.md). Los dos parciales de 2026 están **resueltos y comentados** en [Parciales-2026-Resueltos.md](Parciales-2026-Resueltos.md) (respuestas modelo con citas + cómo llegar a cada una). Diccionario de **todos los conceptos por texto** (incluidos los complementarios) en [Resumen-Parcial-Conceptos.md](Resumen-Parcial-Conceptos.md).
 
 ---
 
-## 0. Qué entra en este parcial — leer esto primero
+## 0. Lo que cambió respecto de la guía anterior — leer primero
 
-Según el `cronograma.png` (2C 2026), el parcial es la semana del **1 al 5 de septiembre**, y antes de esa fecha se dan:
-- **Unidad 1** (4-22 agosto): López Cerezo, Massarini y Schnek, Kuhn, Funtowicz y Ravetz, Knorr-Cetina, Latour.
-- **Unidad 2** (25-29 agosto, justo antes del parcial): Mazzucato y Sábato.
+La versión anterior de esta guía estaba armada sobre 16 parciales de 2019–2022 y concluía que "no entra Sábato ni Mazzucato", que Funtowicz y Ravetz eran "baja prioridad" y que el examen consistía en analizar artículos periodísticos. **Los parciales de 2026 muestran que eso ya no es así.** Correcciones:
 
-**Punto importante**: en los 16 parciales viejos que revisé (2019-2022) **no aparece ni una sola pregunta sobre Mazzucato o Sábato** — el 100% de las consignas son sobre epistemología/sociología de la ciencia (lo que hoy es "Unidad 1"). Esto probablemente se debe a que en esos años el programa estaba organizado distinto (esos parciales no traen el rótulo "Unidad 1/2", y no hay garantía de que la división de unidades fuera la misma que la actual). Como el cronograma **actual** ubica a Sábato y Mazzucato justo antes del parcial de este cuatrimestre, **no asumas que quedan afuera solo porque no salieron antes** — confirmá con el/la docente de tu comisión, pero preparalos igual (ver sección 4).
-
-Lo que sí es información sólida y transferible entre años: **el estilo de pregunta, la forma de corregir (rúbrica) y el peso brutal que tienen Kuhn, Latour y Knorr-Cetina** se repite en todas las comisiones y todos los años sin excepción.
+| Tema | Guía vieja decía | Parciales 2026 muestran |
+|---|---|---|
+| **Sábato y Botana (Unidad 2)** | "por si entra" | **Entró en los DOS parciales**, una consigna entera cada uno (Triángulo de Sábato / modelo de organización de capacidades) |
+| **Funtowicz y Ravetz** | "no aparecieron, menor prioridad" | **Entró**: ciencia posnormal, comunidad de pares extendida, insuficiencia de la ciencia normal ante riesgo global |
+| **Massarini y Schnek** | "mención puntual" | **Tema central en los dos parciales**: "ciencia entre todxs", democratización, ciencia no neutral ni autónoma, problema científico vs. problemática social compleja |
+| **Constructivismo** (Knorr-Cetina + Latour) | disperso en "construcción del hecho científico" | Consigna directa en los dos parciales: "¿qué es el constructivismo?", "estudiar la ciencia mientras se hace" |
+| **Formato del examen** | "te dan 1–2 artículos periodísticos y aplicás" | **Sin artículo.** Preguntas puramente teóricas; cuando piden un caso, lo ponés vos ("proponga un ejemplo propio") |
+| **Latour, *Crónicas de un amante de las ciencias*** (Complementarios) | no figuraba | La consigna 1 de Comisión Miércoles es una **cita textual** de ese texto (p. 40) → está en uso |
+| Merton / Bourdieu / Pardo / Echeverría / Díaz y Rivera | "muy frecuentes, prioridad alta" | **No aparecen en 2026** y no están en los resúmenes ni en `Contenidos/`. Ver sección 6 |
 
 ---
 
-## 1. Cómo es el examen en la práctica (patrón de 16 parciales reales)
+## 1. Cómo son los parciales 2026 (formato real)
 
-### Formato más común (13 de 16 parciales)
-- Te dan **1 o 2 artículos periodísticos** (a veces + 1 video de YouTube) sobre un hecho científico/tecnológico de actualidad (agujero negro, vacunas COVID, barbijos nanotecnológicos, descubrimientos antárticos, etc.).
-- Las consignas piden **aplicar conceptos teóricos al caso concreto**: identificar el paradigma/perspectiva epistemológica, explicar cómo se construye el hecho científico del artículo, vincular una frase citada de un autor con lo que dice la noticia.
-- Casi siempre piden **justificar citando literalmente el artículo** ("cite el artículo", "utilizando párrafos/citas de la noticia") **y** nombrar al autor teórico que estás usando.
+### Los dos exámenes, transcritos
 
-### Formato alternativo (visto en Comisión 2, 2022 — 1° de septiembre, la fecha más parecida a la tuya)
-- Un **banco de 8 preguntas puramente teóricas** (sin artículo), agrupadas en 4 bloques de 2 opciones cada uno. Elegís **1 pregunta de cada bloque = 4 respuestas totales**, "en forma concisa, citando conceptos fundamentales":
-  1. ¿Qué es CTS? ¿en qué tiempo/contexto surge? — *o* — ¿cuál es la perspectiva CTS respecto a Ciencia y Tecnología?
-  2. Explicar qué es y cómo surge/se establece un paradigma — *o* — características del Modelo Epocal Moderno
-  3. Describir y comparar Merton, Bourdieu y Knorr-Cetina — *o* — en qué etapa/por qué Echeverría inserta el debate ético
-  4. Qué es un "hecho científico" para Kreimer — *o* — relación entre "descajanegrizar laboratorios" y "etnografía de laboratorios"
+**Comisión Miércoles – Tema 1** (4 consignas, todas obligatorias, sin artículo):
 
-  Este formato es el más eficiente para armar tu propia tabla de estudio, porque son básicamente **los 8 temas más importantes de la unidad**, resumidos por la cátedra misma.
+1. Explique la frase sobre la obra de Kuhn: *"El paradigma funciona ante todo como las anteojeras que uno debe procurarse para no captar el mundo directamente a riesgo de perderse en él"* (Latour, 2010, p. 40).
+2. ¿Qué significa que la sociología constructivista estudia **la ciencia mientras se hace** en vez de estudiar la ciencia hecha?
+3. ¿Qué proponen Massarini y Schnek (2015) cuando hablan de una **"ciencia entre todxs"**? ¿Cómo se relaciona con la **democratización del conocimiento**?
+4. A partir del concepto de **"triángulo de la innovación" de Jorge Sábato (1970)**, explique cuál es el rol del Estado, las empresas y el sistema científico-tecnológico en los procesos de innovación. Si lo considera pertinente, relacione este enfoque con otros autores de la unidad.
 
-### Formalidades que piden siempre
-- Times New Roman 11/12, interlineado 1,5, márgenes 2,5.
-- Extensión máxima habitual: **3 páginas**.
-- Nombre y apellido en cada hoja, número de consigna antes de cada respuesta.
-- Aclaran en varios parciales que copiar de internet o de compañeros = **desaprobado directo y recursada**.
+**Comisión C1B** (consignas U1A, U1B, U1C, U2):
 
-### Cómo se corrige (rúbrica real, Comisión 2 — 2022)
+- **U1A:** Explique por qué, según Massarini y Schnek (2015), la ciencia **no es neutral ni autónoma** en la actualidad. Para ello: diferencie un *"problema científico"* de una *"problemática social compleja"* (carácter práctico, particular y complejo de esta última). Proponga un **ejemplo propio** de una problemática social actual y mencione qué factores (políticos, económicos o ambientales) la vuelven compleja más allá de lo puramente técnico.
+- **U1B:** Defina el concepto de **"ciencia normal" de Kuhn** y explique por qué **Funtowicz y Ravetz (2000)** consideran que este modelo es insuficiente ante riesgos globales e incertidumbres altas. Elija un ejemplo de una tecnología o riesgo ambiental y justifique por qué sería necesaria una **"comunidad de pares extendida"** (participación de ciudadanos y actores afectados) para evaluar su calidad.
+- **U1C:** ¿Qué es el **constructivismo**? ¿Qué le aportó **Latour (1983)** al utilizar el caso del desarrollo de la vacuna contra el ántrax de Pasteur?
+- **U2:** ¿Cuál es el **modelo de organización de las capacidades** que proponen **Sábato y Botana (1994)**? Explicar sus partes y relaciones.
+
+### Patrón que se repite en las 8 consignas
+
+- **Sin texto periodístico.** No hay caso dado. Cuando quieren un ejemplo, lo aportás vos ("ejemplo propio", "elija un ejemplo de una tecnología o riesgo ambiental").
+- Toda consigna nombra **autor + año** explícitamente y pide **ese** marco, no uno genérico.
+- Estructura de las consignas, cuatro moldes:
+  - **A – Exponer un concepto/frase de un autor.** "Explique la frase…", "¿Qué es el constructivismo?", "¿Cuál es el modelo… de Sábato y Botana?". Se responde: nombrar autor → definir con precisión → desplegar los componentes → cerrar con la idea de fondo.
+  - **B – Concepto + vínculo.** "¿Qué proponen… ¿cómo se relaciona con…?". Definís el concepto y después construís el puente explícito con el segundo concepto.
+  - **C – Dos autores + ejemplo propio.** "Defina X de Kuhn y explique por qué Funtowicz y Ravetz… Elija un ejemplo… y justifique". Definir autor 1 → mostrar el límite/crítica del autor 2 → aplicar a tu caso.
+  - **D – Aplicar un marco + integrar.** "A partir del concepto de Sábato… explique… Si lo considera pertinente, relacione con otros autores de la unidad". Exponés el marco, lo hacés funcionar y sumás una conexión con otro autor (Mazzucato, López Cerezo).
+- Casi siempre hay **dos movimientos** en cada consigna: (1) definición precisa de cátedra, (2) o bien un vínculo con otro autor, o bien un ejemplo concreto tuyo. Responder solo (1) es media consigna.
+
+### Formalidades (estables desde 2019, siguen en 2026)
+
+- Nombre y apellido en **cada** hoja; número de consigna antes de cada respuesta; respuestas seguidas.
+- Times New Roman 11/12, interlineado 1,5, márgenes 2,5; extensión habitual máx. **3 páginas**.
+- **Plagio o copia entre alumnos = desaprobado directo + recursada** (lo aclara el encabezado de los dos parciales 2026).
+- Resultados de aprendizaje que se evalúan (encabezado 2026, útil para entender qué buscan): A) identificar los principales abordajes teóricos del campo CTS según la bibliografía; B) comprender el carácter social de las actividades científicas y tecnológicas aplicando los fundamentos de CTS; C) exponer argumentativamente las conexiones entre ciencia, tecnología y sociedad sobre la base de lo visto en el curso.
+
+### Cómo corrigen (rúbrica real, sigue vigente)
 
 | Categoría | Peso | Qué mide |
 |---|---|---|
-| Lectura académica | 20% (2 pts) | Lectura comprensiva de los textos, apropiación de las ideas |
-| Escritura académica | 30% (3 pts) | Coherencia y cohesión del texto, precisión conceptual, ortografía/sintaxis |
-| Competencia cognitiva | **50% (5 pts)** | Nivel de **análisis** y **síntesis** conceptual, apropiación/incorporación/comprensión conceptual, **integración de la lectura con lo visto en clase** |
+| Lectura académica | 20% | Lectura comprensiva de los textos, apropiación de las ideas |
+| Escritura académica | 30% | Coherencia, cohesión, precisión conceptual, ortografía/sintaxis |
+| Competencia cognitiva | **50%** | **Análisis y síntesis**, apropiación conceptual, **integración de la lectura con lo visto en clase** |
 
-**Conclusión práctica**: la mitad de la nota depende de que **analices y sintetices**, no de que definas de memoria. No alcanza con "citar la definición de paradigma" — hay que **aplicarla al caso**, compararla con otro autor, y mostrar que integraste lo leído con lo dado en clase. Los parciales mejor puntuados (8-8,6 en los ejemplos que vi) siempre citan **texto literal del artículo entre comillas** y lo cruzan con **el concepto exacto del autor** (no una paráfrasis vaga).
-
----
-
-## 2. Los "hits" del parcial — lo que hay que saber sí o sí
-
-Ordenado por frecuencia real en los 16 exámenes. Para cada uno, dónde está en tu resumen y un ejemplo textual de pregunta ya tomada.
-
-### 2.1 Kuhn: paradigma, ciencia normal, anomalía, crisis, revolución científica *(aparece en el 100% de los años)*
-- Ver [Resumenes-unidad-1.md § 3](Resumenes-unidad-1.md) (Kuhn, Caps. II y III).
-- Preguntas reales: *"Según la perspectiva de Kuhn, ¿la ciencia progresa acumulando conocimientos? Justifique"* (2020 2C, 2021 1C C4) · *"¿Qué define Kuhn como 'ciencia normal'? Responda explicando el concepto de Paradigma"* · *"¿Cómo denominaría Kuhn a esta situación?"* (aplicado a un hallazgo que no encaja en la teoría vigente → **anomalía**).
-- Agregá a tu resumen el concepto de **inconmensurabilidad**: el conocimiento se acumula *dentro* de un paradigma (ciencia normal), pero un paradigma nuevo no es comparable/continuo con el anterior — son formas distintas e inconmensurables de ver el mundo. Es la palabra clave que más faltó en las respuestas de nota más baja.
-- Practicá el circuito completo de memoria: **ciencia normal → anomalías → acumulación de anomalías → crisis → pre-ciencia (modelos en competencia) → revolución científica → nuevo paradigma → nueva ciencia normal**.
-
-### 2.2 Construcción de un "hecho científico" (Latour / Knorr-Cetina / Kreimer) *(aparece en el 100% de los años, casi siempre como consigna aparte)*
-- Ver [Resumenes-unidad-1.md § 5](Resumenes-unidad-1.md) (Knorr-Cetina, puntos 2-3) y § 6 (Latour, "artefactos de inscripción").
-- Pregunta que se repite casi textual todos los años: *"Explique cómo se construye un hecho científico [a partir del artículo / desde la perspectiva de Latour]"*.
-- **El esquema que hay que poder dibujar de memoria** (reconstruido de un parcial con nota 10):
-  1. Un hecho científico arranca como un **enunciado débil** (afirmación exploratoria, fácilmente refutable).
-  2. Se **fortalece mediante inscripciones**: pruebas producidas por "inscriptores" (instrumentos: telescopios, modelos estadísticos, fotografías, etc.) — esto es lo que Latour llama *artefactos de inscripción*.
-  3. Con esas inscripciones se arma una **argumentación** que hay que presentar y **defender ante otros** (pares, financiadores, la sociedad) para **convencerlos**.
-  4. Si convence, el enunciado pasa a ser aceptado como **hecho científico** — pero la verdad sigue siendo **provisoria**, nunca definitiva/absoluta.
-- Vincular siempre con **Knorr-Cetina: arenas transepistémicas** (el espacio heterogéneo y variable — no solo científicos, también actores no científicos: financiadores, Estado, empresas, voluntarios — donde se negocian esos recursos) y con **relaciones de recursos** (no solo dinero: también relaciones interpersonales, materiales, institucionales).
-
-### 2.3 Latour: laboratorio como red, los "tres movimientos", enfoque internalista/externalista, "descajanegrizar"
-- Ver [Resumenes-unidad-1.md § 6](Resumenes-unidad-1.md) ("Dadme un laboratorio y levantaré el mundo").
-- Preguntas reales: *"¿Cuáles son los elementos que permiten pensar el laboratorio [X] como red, de acuerdo a la propuesta de Latour? ¿Se cumplen los tres desplazamientos/traducciones?"* (aparece en 3 parciales distintos, con distintos casos: "Sembryo", barbijos nanotecnológicos UNSAM, vacuna argentina) · *"¿A qué se refiere Latour con 'enfoque internalista' y 'enfoque externalista'? ¿Qué similitudes/diferencias con sus estudios de laboratorio?"*.
-- Repasá los **tres movimientos del caso Pasteur** (§6.2 del resumen) y sepan aplicarlos a *cualquier* caso de laboratorio moderno: (1) capturar un problema ajeno y traducirlo a un problema resoluble en el laboratorio, (2) volver al laboratorio propio donde el investigador tiene ventaja, (3) escalar el resultado hacia afuera (experimento público, redes, instituciones).
-- **"Descajanegrizar"** (abrir la caja negra): mirar dentro del proceso de producción de un hecho/artefacto científico-tecnológico en vez de tomarlo como algo ya terminado y neutral — concepto que se pregunta seguido cruzado con "etnografía de laboratorios" (Knorr-Cetina/Latour observando *in situ* lo que los científicos hacen).
-
-### 2.4 Comparar comunidad científica: Merton vs. Bourdieu vs. Knorr-Cetina *(muy frecuente, casi siempre como consigna de comparación explícita)*
-Esto es lo que **menos cubre tu resumen actual** — ver la sección 3 más abajo para el detalle. Preguntas reales: *"Explique las características de la 'comunidad científica' para Merton, el concepto de 'campo científico' de Bourdieu y el de 'arenas transepistémicas' de Knorr-Cetina. ¿Cuál es el aporte de cada propuesta? ¿qué intentan explicar?"* · *"Describir y comparar las conceptualizaciones de Merton, Bourdieu y Knorr Cettina"*.
-
-### 2.5 Modelos epocales / paradigmas de Pardo: premoderno, moderno, posmoderno *(muy frecuente)*
-También ausente de tu resumen — ver sección 3. Preguntas reales: *"¿En qué perspectiva epistemológica y concepción de ciencia enmarcaría [tal hallazgo]? Justifique"* · *"¿Dentro de qué paradigma o modelo epocal catalogaría al artículo propuesto? ¿Por qué?"* · *"Explicar las características del Modelo Epocal Moderno"*.
-
-### 2.6 Echeverría: los 4 contextos de la actividad científica *(muy frecuente)*
-Ausente de tu resumen — ver sección 3. Pregunta que se repite casi igual todos los años: *"Vincule la clasificación de la actividad científica descrita por Javier Echeverría, identificando sus distintos contextos (educación, innovación, evaluación y aplicación) con lo relatado en el artículo"* · *"¿En qué etapa y por qué Echeverría considera que se debe insertar el debate ético?"* (→ la respuesta es siempre el **contexto de evaluación**).
-
-### 2.7 Díaz y Rivera: la reflexión ética sobre la ciencia y la tecnología
-Ausente de tu resumen — ver sección 3. Preguntas reales: *"Explique desde la perspectiva de la reflexión ética... ¿qué significa la educación ética propuesta en el artículo? Dé un ejemplo, enmarcándolo en alguno de los paradigmas de Pardo"* · *"Díaz y Rivera hacen una propuesta acerca de los objetivos y la reflexión ética que debería guiar a la ciencia... ¿qué perspectiva epistemológica critican y cuál retoman?"*.
-
-### 2.8 Por qué y cuándo surge el campo CTS
-Esto **sí está bien cubierto** en tu resumen — ver [Resumenes-unidad-1.md § 1](Resumenes-unidad-1.md) (López Cerezo: Sputnik, Silent Spring, Mayo del 68, agencias reguladoras EPA/OTA, "silogismo CTS"). Pregunta real: *"¿Cuándo surge el campo CTS? Describa las características principales del campo"* · *"¿Qué es CTS? ¿En qué tiempo/contexto surge?"*.
-
-### 2.9 Menciones puntuales (menor frecuencia, pero aparecieron)
-- **Valderrama**: teoría de la Construcción Social de la Tecnología y teoría del Actor-Red — apareció una vez como consigna completa ("Explique la teoría de la Construcción Social de la Tecnología y la teoría del Actor Red presentadas en el texto de Valderrama"). **No tengo material de este texto** (no está en la carpeta `Contenidos/`) — si tu programa lo incluye, conseguilo aparte; es la única laguna real de contenido, no solo de resumen.
-- **Massarini** (2011, citada dentro de una respuesta): participación ciudadana en política científico-tecnológica — esto ya está cubierto en [Resumenes-unidad-1.md § 2](Resumenes-unidad-1.md).
-- Funtowicz y Ravetz **no aparecieron citados en ningún parcial viejo** pese a estar en el programa — están en tu resumen igual ([§4](Resumenes-unidad-1.md)), no los descartes solo por esto, pero son menor prioridad relativa según la evidencia histórica.
+**Consecuencia práctica:** la mitad de la nota es *analizar, sintetizar e integrar*. Definir de memoria no alcanza: hay que **relacionar autores** y **bajar a un ejemplo concreto**. Es exactamente lo que piden los dos movimientos de cada consigna 2026.
 
 ---
 
-## 3. Lo que hay que reforzar aparte del resumen (glosario mínimo)
+## 2. Los temas que hay que dominar (ranking según 2026)
 
-Estos conceptos se preguntan seguido pero **no están (o están poco) desarrollados** en `Resumenes-unidad-1.md`, porque vienen de teóricos que no forman parte de los PDFs de `Contenidos/Unidad-1/` (probablemente de clases/PPT). Reconstruí las definiciones a partir de respuestas ya corregidas en los parciales, para que tengas algo con qué arrancar — conviene chequearlas contra tus apuntes de clase.
+Los 5 primeros salieron en los parciales de 2026 y hay que llevarlos a fondo. Para cada uno: dónde está en el resumen, qué se preguntó y cómo estructurar la respuesta.
 
-**Merton — el "ethos" de la ciencia** (comunidad científica autónoma, regida por normas tácitas):
-- **Universalismo**: todo conocimiento debe someterse a criterios impersonales, preestablecidos; los resultados válidos deben ser aceptados por todos.
-- **Comunismo / comunalismo**: las innovaciones son producto de cooperación social y luego pasan a ser propiedad de la sociedad (del "común").
-- **Desinterés**: ningún interés personal/particular debe primar sobre los intereses comunes de la comunidad.
-- **Escepticismo organizado**: toda idea o hipótesis debe ser analizada crítica y libremente antes de ser aceptada como conocimiento.
-- Para Merton la ciencia es **autónoma** y libre de intervención social/política — la comunidad científica se autorregula por este ethos.
+### 2.1 Kuhn: paradigma y ciencia normal — *salió en los dos parciales*
 
-**Bourdieu — el "campo científico"**:
-- El quehacer científico se desarrolla en un **campo de lucha** (no armónico como en Merton) por la autoridad, el prestigio y el poder.
-- **Capital científico**: lo que se acumula publicando investigaciones reconocidas; no está "claramente definido" (a diferencia de Knorr-Cetina, que sí lo define con precisión) y puede alterar la jerarquía entre financiadores/investigadores.
-- **Dominantes** (poseen mayor capital científico, imponen normas, tienen autoridad) vs. **dominados** (recién llegados o investigaciones poco relevantes, con menor capital/reconocimiento).
-- El campo se rige por un **habitus**: el conjunto de valores, percepciones y técnicas que los científicos incorporan y que orienta cómo se establecen los objetos de estudio, se buscan soluciones y se evalúan alternativas.
-- Diferencia clave con Merton: para Bourdieu los científicos **no son iguales entre sí** ni sus intereses son neutrales — hay jerarquías y condicionamientos.
+Resumen: [Resumenes-unidad-1.md § 3](Resumenes-unidad-1.md).
 
-**Knorr-Cetina (repaso comparativo)**: a diferencia de Merton y Bourdieu, no habla de "comunidad" ni "campo" sino de **arenas transepistémicas** — espacios heterogéneos y variables donde intervienen también actores **no científicos**. Es la única de las tres que incorpora explícitamente a actores externos a la ciencia como condicionantes de la práctica científica misma (ver también [Resumenes-unidad-1.md § 5](Resumenes-unidad-1.md)).
+**Preguntas 2026:** (Miércoles 1) explicar la frase de Latour sobre el paradigma como "anteojeras"; (C1B U1B) definir "ciencia normal".
 
-**Pardo — los tres "modelos epocales" o paradigmas de la ciencia**:
-- **Premoderno**: primaba la fe por sobre todo lo demás; el conocimiento no necesitaba fundamento racional/empírico propio.
-- **Moderno** (aprox. siglo XVI a mediados del XX): cambio de paradigma respecto al anterior — la **razón** se pone por sobre todo. Cambia la forma de ver y entender el mundo: la mirada se vuelve **racionalista**, la matemática pasa a ser el lenguaje "unívoco" de comprensión. Todo conocimiento científico debe poder razonarse/demostrarse. Hay una ruptura entre ciencia y religión: la ciencia se vuelve "laica", sin intromisión de la fe en el ámbito científico.
-- **Posmoderno** (desde mediados del s. XX): las verdades son **provisorias y contingentes**, no universales. Reconoce valores, sesgos y condicionantes de la ciencia; la práctica científica **no es neutral** y está atravesada por luchas de poder e intereses particulares (empalma directamente con Bourdieu). El científico debe tener carácter crítico, anteponiendo la duda al dogma, cuestionando constantemente a la ciencia y al cientificismo.
-- Se usa muchísimo para **clasificar un artículo periodístico** ("¿en qué paradigma epocal enmarcaría esto?") — normalmente la respuesta esperada es posmoderno cuando el artículo reconoce incertidumbre, revisión por pares, provisoriedad de resultados, o intereses económicos/políticos en juego.
+**Qué tenés que poder escribir de memoria:**
+- **Paradigma** = realización científica pasada que una comunidad reconoce, durante un tiempo, como fundamento de su práctica. Dos rasgos: (1) *sin precedentes* → atrae un grupo duradero de partidarios apartándolos de actividades rivales; (2) *abierta/incompleta* → deja muchos problemas por resolver.
+- **Ciencia normal** = investigación basada firmemente en uno o más paradigmas; trabajo de "limpieza" (*mopping-up*): articular y precisar la promesa del paradigma, **no** buscar novedades. Tres tipos de problemas fácticos (precisar hechos reveladores; contrastar con predicciones; articular la teoría —constantes, leyes cuantitativas—) y sus paralelos teóricos.
+- **Restricción productiva de la visión** (Cap. III): la ciencia normal *tiende a no ver* lo que no encaja en el paradigma, y eso —lejos de ser un defecto— es lo que permite investigar con una profundidad imposible sin esa restricción. **Este es el núcleo de la frase de las "anteojeras".**
+- **Inconmensurabilidad**: el conocimiento se acumula *dentro* de un paradigma; un paradigma nuevo no es continuo ni comparable con el anterior.
+- Circuito completo (para cualquier consigna sobre cambio científico): ciencia normal → anomalías → acumulación de anomalías → crisis → competencia de modelos → revolución científica → nuevo paradigma → nueva ciencia normal.
 
-**Echeverría — los 4 contextos de la actividad tecnocientífica** (clasificación complementaria a "descubrimiento/justificación"):
-- **Contexto de educación**: formación y aprendizaje de quienes hacen ciencia.
-- **Contexto de innovación**: el hecho de producir algo nuevo (descubrimiento o invento), un "punto de inflexión" en el conocimiento.
-- **Contexto de evaluación**: cuando se pondera/perfecciona lo producido — **es acá donde Echeverría dice que debe insertarse el debate ético** (pregunta que se repite todos los años).
-- **Contexto de aplicación**: la eficacia del hecho científico en términos de rentabilidad económica y utilidad social — los diseños/inventos se valoran según su viabilidad, competitividad y utilidad frente a alternativas.
+**Para la consigna de la frase "anteojeras" (Latour, *Crónicas de un amante de las ciencias*, 2010, p. 40 — está en `Contenidos/Unidad-1/Complementarios/`):**
+- La frase es de Latour comentando a Kuhn, en el capítulo *"¿Necesitamos 'paradigmas'?"*. Hay que explicar **la idea de Kuhn** que la frase condensa y **el matiz que agrega Latour**:
+  - *Kuhn:* el paradigma limita deliberadamente la mirada ("aspecto obstinado, voluntariamente estúpido de una disciplina"). No se capta "el mundo directamente" porque sin un marco que seleccione qué hechos importan, la investigación se pierde en un "marasmo" de datos sin criterio (etapa pre-paradigmática). La restricción es la condición de la ciencia normal.
+  - *Latour:* el paradigma **no es una metáfora óptica** — no es una "visión del mundo", ni una interpretación, ni una cárcel con barrotes. Es una **práctica**, un *modus operandi* que permite que "aterricen" hechos nuevos (lo compara con la pista pavimentada de un aeropuerto). Por eso incluye instrumentos, instituciones, "queridos colegas" que comparten presuposiciones.
+  - *Paradigma ≠ teoría:* una teoría condiciona la mirada pero es *fluida* (se cambia rápido); el paradigma es *viscoso* ("las teorías golpean como un rayo; los paradigmas progresan como glaciares"). Cambiar de paradigma tiene un "costo fantástico" → la ciencia avanza de forma conservadora y lenta.
+- Cierre útil: la frase muestra que para Kuhn la ciencia **no** progresa acumulando verdades sobre un mundo transparente, sino operando dentro de marcos que a la vez habilitan y limitan lo que se puede ver y hacer.
 
-**Díaz y Rivera — la carga ética de la actividad científica**:
-- Proponen pensar la ética de la ciencia **no como algo externo/obstáculo** (herencia positivista, primera postura de Massarini y Schnek) sino como parte constitutiva de la formación del científico: **"ciencia y conciencia propia y social"**.
-- Critican la perspectiva **moderna/neutral** de la ciencia (que separa hechos de valores) y retoman la perspectiva **posmoderna/constructivista** para plantear su propuesta.
-- Insisten en que el debate ético debe instalarse desde la **educación básica** del futuro científico, no solo al final del proceso (evaluación de aplicaciones).
-- Se vincula directamente con Echeverría (contexto de evaluación) y con Pardo (paradigma posmoderno).
+### 2.2 Massarini y Schnek (2015), *Ciencia entre todxs* — *salió en los dos parciales*
+
+Resumen: [Resumenes-unidad-1.md § 2](Resumenes-unidad-1.md).
+
+**Preguntas 2026:** (Miércoles 3) qué proponen con "ciencia entre todxs" y relación con la democratización del conocimiento; (C1B U1A) por qué la ciencia no es neutral ni autónoma + diferenciar problema científico / problemática social compleja + ejemplo propio.
+
+**Qué tenés que poder escribir de memoria:**
+- **La ciencia no es neutral ni autónoma:** si se enfatiza solo el *método*, parece neutral; si se atiende al **contexto histórico-social** que condiciona la producción y legitimación del saber (financiamiento, "Gran ciencia"/Big Science, tecnociencia fusionada con intereses económicos y militares desde la 2ª Guerra), la neutralidad y la autonomía se caen. Recuperan la distinción de Reichenbach: contexto de descubrimiento / contexto de justificación.
+- **Problema de las ciencias naturales** — *teórico* (depende de marcos teóricos), *general* (busca leyes universales; "el universo escrito en lenguaje matemático") y *simple* (recorta variables; ligado al reduccionismo).
+- **Problemática social compleja** — *práctica* (no busca una ley sino resolver/intervenir), *particular* (situada en una comunidad y un ambiente concretos, aunque conectada a procesos globales) y *compleja* (Rolando García: la complejidad no viene de la cantidad de elementos sino de su **interdefinibilidad y mutua dependencia funcional**).
+- **Dos formas de relacionar ciencia y sociedad:** (A) posición dominante → las ciencias naturales como autoridad central que "resuelve racionalmente" los conflictos, invisibilizando relaciones de poder y la distribución desigual de riesgos/beneficios; (B) visión alternativa de las autoras → partir de la **problemática social** y ver a la ciencia como *un aporte parcial más*, no como punto de partida ni autoridad excluyente.
+- **"Ciencia entre todxs" / democratización del conocimiento:** abrir la producción y evaluación del conocimiento a **actores no científicos** (comunidades afectadas, saberes de oficio —los pescadores del caso pesquero—, ciudadanía). El conocimiento científico es *una voz más, no totalizante*. Enlaza directo con la **comunidad de pares extendida** de Funtowicz y Ravetz y con la **participación social** de López Cerezo (silogismo CTS).
+- Método de 4 pasos para analizar una problemática social: (1) identificar actores/agentes; (2) interpretar sus discursos; (3) analizar cómo se relacionan esos discursos (incluidas relaciones de poder); (4) comprensión general (estilo de desarrollo, sustentabilidad, calidad de vida).
+
+**Para el "ejemplo propio" (C1B U1A):** elegí una problemática donde se vea que lo técnico no alcanza. Ejemplos que funcionan: agrotóxicos/fumigaciones y pueblos fumigados; megaminería y uso del agua; humedales e incendios; gestión de residuos; acceso a medicamentos; inundaciones urbanas. Para cada uno mostrá los tres rasgos: es *práctica* (hay que decidir qué hacer, ya), *particular* (tal cuenca, tal barrio, tal cultivo) y *compleja* (intereses económicos del sector, decisión política/regulatoria, impacto ambiental y sanitario, saberes de los afectados) — y nombrá factores políticos, económicos y ambientales concretos.
+
+### 2.3 Constructivismo: Knorr-Cetina + Latour — *salió en los dos parciales*
+
+Resumen: [Resumenes-unidad-1.md § 5](Resumenes-unidad-1.md) (Knorr-Cetina) y [§ 6](Resumenes-unidad-1.md) (Latour).
+
+**Preguntas 2026:** (Miércoles 2) qué significa estudiar "la ciencia mientras se hace" en vez de la ciencia hecha; (C1B U1C) qué es el constructivismo y qué aportó Latour con el caso del ántrax de Pasteur.
+
+**Qué es el constructivismo (para las dos consignas):**
+- Los hechos científicos **no se descubren** leyendo la naturaleza: se **fabrican** mediante una intervención activa y artificial. El laboratorio no es una ventana transparente sino un espacio artificial (reactivos purificados, instrumentos calibrados, objetos manufacturados que no existen así "en bruto").
+- **"Carga de decisiones"** (*decision-ladenness*): en cada paso (qué medir, con qué instrumento, qué cuenta como dato y qué como ruido) el científico decide entre alternativas; esas decisiones son **situacionalmente contingentes** (recursos, tradición del laboratorio, intereses), no dictadas por "la naturaleza" ni azarosas.
+- Origen (estudio preliminar de Kreimer): tras Merton, la Escuela de Edimburgo / Programa Fuerte introduce el **principio de simetría** (explicar con las mismas causas el conocimiento verdadero y el falso); de preguntar *por qué* se cree algo se pasa a preguntar **cómo** se construye → estudios de laboratorio de fines de los '70 (Latour y Woolgar 1979; Knorr-Cetina 1981; Lynch 1982).
+
+**"La ciencia mientras se hace" vs. "la ciencia hecha" (Miércoles 2 — es la tabla de los dos rostros de Knorr-Cetina):**
+- **Ciencia hecha** ("rostro anciano"): el producto terminado, naturalizado, incuestionable — "una vez que la máquina funciona, todos los hechos son inútiles". Se la mira como resultado y se pierde de vista cómo se llegó ahí.
+- **Ciencia mientras se hace** ("rostro joven"): el **proceso de fabricación** con su incertidumbre, tanteo, controversias abiertas y contingencia todavía visibles — "mientras las cosas se mantienen, se convierten en verdaderas". Es lo que estudia la sociología constructivista, y solo se capta con **metodología etnográfica "sensitiva"** (observación participante *in situ*), no con encuestas "frías".
+- Por qué importa: si mirás solo la ciencia hecha, parece que los hechos "estuvieron siempre ahí" y la ciencia es neutral; mirándola mientras se hace se ve que cada hecho es resultado de decisiones sociales situadas que pudieron ser otras.
+
+**Qué aportó Latour con el caso Pasteur/ántrax (C1B U1C):**
+- Latour toma el terreno empírico de los estudios de laboratorio pero da el paso que faltaba: mostrar que el laboratorio **no es un espacio aislado y "micro"**, sino una **palanca** que fabrica lo "macro" (redes, instituciones, política). Disuelve la dicotomía dentro/fuera y la diferencia de escala micro/macro.
+- **Tres movimientos del caso Pasteur:**
+  1. *Captar los intereses de otros:* Pasteur **traduce** un problema ajeno (la epidemia de ántrax que preocupa a granjeros y veterinarios) a un problema que su laboratorio puede resolver (aislar y cultivar el bacilo).
+  2. *Mover el punto de apoyo de una posición débil a una fuerte:* lleva el microbio a su laboratorio de la École Normale, donde puede cultivarlo, purificarlo y manipular su virulencia. Cambia la escala → se **invierte la relación de fuerzas**: fuera del laboratorio el bacilo invisible es más fuerte que el hombre; dentro, el científico es más fuerte que el microbio.
+  3. *Mover el mundo con la palanca:* el experimento público de **Pouilly-le-Fort** (vacunación teatral ante prensa y ganaderos) y luego las estadísticas estatales que registran la caída del ántrax → toda la agricultura francesa "comprueba" un producto salido del laboratorio.
+- **Artefactos de inscripción** (*inscription devices*): la fuerza de la ciencia no está en ninguna cualidad cognitiva especial de los científicos, sino en instrumentos que convierten fenómenos invisibles en **trazos escritos simples** (curvas, tablas, cifras) acumulables y oponibles a cualquier contraargumento.
+- Frase de cierre: *"la ciencia es política ejercida por otros medios"* — medios nuevos (los desplazamientos de escala vía laboratorio), no los de la política tradicional.
+
+### 2.4 Funtowicz y Ravetz (2000): ciencia posnormal — *salió en C1B*
+
+Resumen: [Resumenes-unidad-1.md § 4](Resumenes-unidad-1.md).
+
+**Pregunta 2026:** (C1B U1B) por qué el modelo de "ciencia normal" es insuficiente ante riesgos globales e incertidumbres altas + ejemplo de tecnología/riesgo ambiental + justificar la comunidad de pares extendida.
+
+**Qué tenés que poder escribir de memoria:**
+- **Por qué la ciencia normal no alcanza:** los problemas ambientales globales son de **escala global y larga duración**, con datos radicalmente inadecuados, complejos, novedosos y variables. La ciencia rara vez puede dar teorías comprobadas experimentalmente: en el mejor caso, modelos y simulaciones **no testeables**. La variabilidad aleatoria tradicional (valores *p*, intervalos de confianza) es **pequeña frente a otras incertidumbres** más difíciles de manejar. Cuando la ciencia se aplica a temas políticos **no puede dar certeza ni resolver los valores en conflicto**, y esos valores no pueden ignorarse ni al plantear el problema.
+- **"Lo salvaje ha penetrado en el laboratorio":** inversión de la metáfora de Latour (Pasteur extendiendo el laboratorio a la campiña). Los "experimentos" tecnológicos de escala regional —Hiroshima, Chernobyl, Bhopal, Exxon Valdez— **no se pueden detener a voluntad, no son aislados ni repetibles**; ya no hay equilibrio entre datos controlados y teoría.
+- **Tres niveles de incertidumbre:** *técnico* (inexactitud; se resuelve con estadística estándar), *metodológico* (no confiabilidad; exige juicio experto, "arte aprendido"), *epistemológico* (el límite con la ignorancia; incluye la "ignorancia de la ignorancia").
+- **Comunidad de pares extendida** (*extended peer community*): cuando hay **alta incertidumbre** y **mucho en juego** (decisiones con fuerte carga de valores), evaluar la calidad de la ciencia ya no puede quedar solo en la revisión por pares tradicional: hay que **incluir en el diálogo a ciudadanos y actores afectados**, que aportan saberes locales y ponen sobre la mesa los valores. Calidad "p al cubo": evaluar no solo los *productos* sino el *proceso* y las *personas*.
+- Enlace obligado: es la contracara de la **"ciencia entre todxs"** de Massarini y Schnek y de la **participación social** del silogismo CTS de López Cerezo. Contraste con Kuhn: la comunidad de pares **cerrada** de la ciencia normal es justamente lo que se vuelve insuficiente.
+
+**Para el "ejemplo propio":** transgénicos y uso de agroquímicos, energía nuclear y gestión de residuos radiactivos, fracking, geoingeniería, glifosato, cambio climático, un químico nuevo de persistencia desconocida. Mostrá: incertidumbre alta (efectos a largo plazo no testeables), mucho en juego (salud, ambiente, economía regional), valores en conflicto → por eso hace falta que evalúen la calidad también los afectados, no solo el panel técnico.
+
+### 2.5 Sábato y Botana (1968/1994): Triángulo de Sábato — *salió en los dos parciales*
+
+Resumen: [Resumenes-unidad-2.md § 1](Resumenes-unidad-2.md).
+
+**Preguntas 2026:** (Miércoles 4) rol del Estado, las empresas y el sistema científico-tecnológico en la innovación, a partir del "triángulo de la innovación"; (C1B U2) modelo de organización de las capacidades: partes y relaciones.
+
+> Nota sobre el año: la consigna de Miércoles cita "Sábato (1970)" y la de C1B "Sábato y Botana (1994)"; el texto de `Contenidos/` es de 1968 ("La ciencia y la tecnología en el desarrollo futuro de América Latina"). Son distintas ediciones/reimpresiones del mismo planteo — respondé con ese texto.
+
+**Qué tenés que poder escribir de memoria:**
+- **Objetivo estratégico:** lograr **capacidad técnico-científica de decisión propia**, insertando la ciencia y la técnica en la trama misma del desarrollo (en las decisiones políticas, económicas y sociales). América Latina debe pasar de **espectador** a **protagonista**.
+- **Investigación ≠ innovación:** la *innovación* es la incorporación del conocimiento —propio o ajeno— para generar un proceso productivo. Tener buena infraestructura científica **no** garantiza capacidad innovadora (contraste Gran Bretaña —mucha investigación, poca innovación— vs. Japón).
+- **Los tres vértices del triángulo:**
+  - **Gobierno** — vértice que diseña y conduce la política; capacidad propia que necesita: **capacidad de acción deliberada** (formular e implementar políticas, asignar recursos).
+  - **Infraestructura científico-tecnológica** — sistema educativo que forma investigadores, laboratorios e institutos, sistema de planificación y promoción (Consejos, Academias), marco jurídico-administrativo, recursos. Capacidad propia: **capacidad creadora** (atributo de las *personas*, no del equipamiento: "un laboratorio no vale por las dimensiones del edificio sino por la calidad y cantidad de inteligencia de los hombres que lo integran").
+  - **Estructura productiva** — el conjunto de sectores que proveen los bienes y servicios que la sociedad demanda (las "empresas" de la consigna de Miércoles). Capacidad propia: **capacidad empresarial** (Schumpeter: reformar o revolucionar el sistema de producción explotando un invento).
+- **Los vértices se definen por función, no por propiedad legal:** una empresa estatal de acero está en *estructura productiva*, no en *gobierno*; el laboratorio de una empresa privada está en *infraestructura científico-tecnológica*.
+- **Relaciones:**
+  - **Intra-relaciones:** dentro de cada vértice, desarrollar la capacidad propia (deliberada / creadora / empresarial).
+  - **Inter-relaciones:** flujos de demandas entre vértices — *verticales* (gobierno↔infraestructura, gobierno↔estructura productiva) y *horizontales* (infraestructura↔estructura productiva). Ejemplo: la bomba atómica (la idea nace en la infraestructura, el gobierno la traduce en demanda explícita y asigna recursos).
+  - **Extra-relaciones:** con el contorno externo (otras sociedades). El **éxodo de talentos / "fuga de cerebros"** es la consecuencia típica en A.L. de la *falta de inter-relaciones internas*: el científico aislado del gobierno y de la estructura productiva locales emigra a un triángulo ya armado en un país desarrollado.
+- **Estrategia realista:** como no existe un triángulo pleno a escala de toda la sociedad, implantar triángulos en **unidades limitadas** (instituciones, conglomerados industriales públicos o privados) que sirvan de modelo replicable. Ejemplos citados: **INTA**, SATI.
+
+**Para la consigna D de Miércoles ("relacione con otros autores de la unidad"):** el vínculo directo es **Mazzucato** — el vértice-gobierno "con capacidad de acción deliberada" es prácticamente el **"Estado que dinamiza"** de Mazzucato: no se limita a corregir fallas de mercado ni a financiar "lo básico", sino que **dirige** activamente la inversión hacia áreas estratégicas de alto riesgo. El BNDES de Brasil que cita Mazzucato es una realización tardía del tipo de institución que Sábato imaginaba con el INTA. También se puede cruzar con la crítica al **modelo lineal** de López Cerezo (`+ciencia = +riqueza = +bienestar` no alcanza: hace falta organizar deliberadamente las relaciones entre los vértices).
+
+### 2.6 Mazzucato (2013): el Estado emprendedor — *no salió directo en 2026, pero es "el otro autor de la unidad 2"*
+
+Resumen: [Resumenes-unidad-2.md § 2](Resumenes-unidad-2.md).
+
+Prepararlo como apoyo de la consigna D (relacionar con Sábato) y por si aparece como consigna propia. Núcleo mínimo:
+- Desmonta el mito "sector privado innovador vs. Estado inercia/burocracia" — es una **batalla discursiva** (Tony Judt).
+- El Estado no solo **incentiva** (*crowding in*) la inversión privada: la **dinamiza** — crea la visión, la misión y el plan. Pasa de "corrector" de mercados a **moldeador y creador**; de "reducir el riesgo" del privado a **asumir el riesgo**.
+- **Incertidumbre knightiana:** el riesgo genuinamente *no medible* de la innovación real. La mayoría de los intentos fracasan.
+- Evidencia empírica: el Estado financió las tecnologías que hacen "inteligente" al iPhone (Internet, GPS, pantalla táctil, Siri); DARPA/ARPA-E; bancos de desarrollo de Brasil (BNDES) y China que *dirigen* el crédito a economía verde y biotecnología.
 
 ---
 
-## 4. Unidad 2 (Sábato-Botana y Mazzucato) — por si entra
+## 3. Cómo estructurar cada tipo de respuesta (según los 4 moldes de 2026)
 
-Aunque no salió en los parciales viejos, el cronograma actual la ubica justo antes del parcial. Si entra, lo más probable —siguiendo el mismo estilo de consigna que usa la cátedra (aplicar un concepto a un caso, comparar autores, justificar con citas)— es que te pidan algo como:
+**Molde A – Exponer un concepto/frase.** (Ej.: frase de las "anteojeras"; "¿qué es el constructivismo?"; "modelo de Sábato y Botana".)
+1. Nombrar autor, texto y año.
+2. Definición precisa, con el vocabulario exacto de la cátedra.
+3. Desplegar los componentes (los 2 rasgos del paradigma; los 3 vértices + 3 relaciones; la carga de decisiones + el laboratorio artificial…).
+4. Una frase de cierre con la idea de fondo (para qué sirve el concepto, qué imagen de la ciencia implica).
 
-- Explicar el **Triángulo de Sábato** (gobierno / infraestructura científico-tecnológica / estructura productiva) y aplicarlo a un caso de un artículo (ej. identificar qué vértice falla en una problemática de innovación).
-- Vincular el "Estado que dinamiza" de **Mazzucato** con la crítica al **modelo lineal** de López Cerezo (ambos cuestionan que "más ciencia" o "más mercado libre" alcancen solos para generar desarrollo/bienestar — ver la conexión que ya armé al final de [Resumenes-unidad-2.md](Resumenes-unidad-2.md)).
-- Pedirte que reconozcas la **incertidumbre knightiana** o el concepto de **innovación** (distinta de investigación) de Sábato-Botana en un caso concreto de desarrollo tecnológico.
-- Comparar el diagnóstico de "éxodo de talentos"/infraestructura débil de Sábato-Botana con algún ejemplo latinoamericano actual.
+**Molde B – Concepto + vínculo.** (Ej.: "ciencia entre todxs" ↔ democratización del conocimiento.)
+1. Definir el primer concepto (los pasos del molde A, abreviados).
+2. Definir el segundo.
+3. **Puente explícito**: "esto se relaciona con… porque…". Acá se juega la mitad cognitiva de la nota.
 
-Repasá especialmente: qué son los 3 vértices y por qué se definen por **función y no por propiedad legal** (Sábato-Botana), y la frase-resumen de Mazzucato: el Estado pasa de "reducir el riesgo" a "asumir el riesgo", de "corrector" a "moldeador/creador" de mercados.
+**Molde C – Dos autores + ejemplo propio.** (Ej.: "ciencia normal" de Kuhn → por qué Funtowicz y Ravetz la ven insuficiente → tu ejemplo.)
+1. Definir el concepto del autor 1.
+2. Exponer la crítica/límite que marca el autor 2, contrastándolos punto por punto (comunidad de pares cerrada vs. extendida; certeza vs. incertidumbre irreducible).
+3. Tu caso concreto: nombrarlo, mostrar por qué cumple las condiciones (alta incertidumbre + mucho en juego + valores en conflicto) y qué implica (por qué hace falta la comunidad de pares extendida ahí).
+
+**Molde D – Aplicar un marco + integrar.** (Ej.: triángulo de Sábato → rol de cada actor → relacionar con otro autor.)
+1. Exponer el marco completo (vértices + capacidades + tipos de relación).
+2. Hacerlo funcionar sobre la pregunta puntual (rol del Estado / empresas / sistema científico en la innovación).
+3. Conexión con otro autor de la unidad (Mazzucato, López Cerezo), explicitando en qué coinciden y en qué se diferencian.
+
+**Regla general 2026:** ninguna consigna se responde solo definiendo. Siempre hay un segundo movimiento: un vínculo entre autores o un ejemplo tuyo. Si tu respuesta no lo tiene, está incompleta.
 
 ---
 
-## 5. Plan de estudio sugerido (orden de prioridad)
+## 4. Mapa de conexiones entre autores (para la mitad "integración" de la rúbrica)
 
-1. **Kuhn** completo (paradigma, ciencia normal, anomalía, crisis, revolución, inconmensurabilidad) — sale seguro.
-2. **Construcción de hechos científicos** (Latour + Knorr-Cetina + Kreimer): memorizar el esquema de 4 pasos de la sección 2.2 — sale seguro.
-3. **Comparar Merton / Bourdieu / Knorr-Cetina** — practicá escribir la comparación de memoria usando el glosario de la sección 3.
-4. **Pardo (3 paradigmas epocales)** + **Echeverría (4 contextos)** + **Díaz y Rivera (ética)** — practicá aplicar los tres juntos a una noticia de ciencia cualquiera (es literalmente el ejercicio que toman todos los años).
-5. **Latour**: tres movimientos de Pasteur, laboratorio como red, "descajanegrizar", internalismo/externalismo.
-6. **López Cerezo**: por qué y cuándo surge CTS (ya lo tenés bien cubierto, repaso rápido).
-7. **Sábato-Botana y Mazzucato** (Unidad 2) — por las dudas, con la guía de la sección 4.
-8. Buscá 2-3 artículos periodísticos de ciencia recientes (tipo los que usa la cátedra: descubrimientos, vacunas, tecnología) y practicá responder las preguntas de la sección 2 aplicándolas — es el mejor simulacro posible dado el formato real del examen.
+- **Ciencia no neutral ni autónoma:** López Cerezo (crítica al modelo lineal y a la imagen esencialista) → Massarini y Schnek (contexto histórico-social condiciona el saber) → Knorr-Cetina (los hechos se fabrican con decisiones contingentes) → Latour (el laboratorio fabrica poder social).
+- **Abrir la ciencia a actores no científicos:** López Cerezo (silogismo CTS → evaluación y control social) → Massarini y Schnek ("ciencia entre todxs", democratización) → Funtowicz y Ravetz (comunidad de pares extendida). Es la misma idea en tres registros; citalos juntos.
+- **El laboratorio:** Knorr-Cetina (espacio artificial, carga de decisiones) → Latour (palanca que disuelve dentro/fuera y micro/macro; Pasteur) → Funtowicz y Ravetz (inversión de la metáfora: "lo salvaje penetró en el laboratorio", los experimentos globales no se detienen).
+- **Kuhn como base y como límite:** Kuhn (ciencia normal, comunidad de pares cerrada, restricción productiva de la visión) es el punto de partida que Funtowicz y Ravetz declaran **insuficiente** para el riesgo global, y que Latour (*Crónicas*) reinterpreta como *práctica* y no como "visión del mundo".
+- **Rol del Estado:** Sábato y Botana (vértice-gobierno con capacidad de acción deliberada; triángulo) ↔ Mazzucato (Estado que dinamiza, asume el riesgo, moldea mercados). Coinciden en el diagnóstico; difieren en el énfasis (Sábato: diagnóstico institucional de A.L.; Mazzucato: desmontar el mito del privado innovador con casos).
+
+---
+
+## 5. Plan de estudio (orden de prioridad, según 2026)
+
+1. **Kuhn** — paradigma (2 rasgos), ciencia normal (mopping-up, 3 tipos de problemas), restricción productiva de la visión, inconmensurabilidad, circuito de la revolución. Practicar la frase de las "anteojeras" con el matiz de Latour. *Salió en los 2 parciales.*
+2. **Massarini y Schnek** — ciencia no neutral ni autónoma; problema científico (teórico/general/simple) vs. problemática social compleja (práctica/particular/compleja); posición dominante vs. visión alternativa; "ciencia entre todxs" = democratización. Tener **2 ejemplos propios** listos de problemática social compleja. *Salió en los 2 parciales.*
+3. **Constructivismo (Knorr-Cetina + Latour)** — qué es el constructivismo (hechos que se fabrican, carga de decisiones, origen post-Merton/Edimburgo); "ciencia mientras se hace" vs. "ciencia hecha" (los dos rostros); los 3 movimientos de Pasteur + artefactos de inscripción. *Salió en los 2 parciales.*
+4. **Funtowicz y Ravetz** — por qué la ciencia normal no alcanza (datos inadecuados, modelos no testeables, valores en conflicto); 3 niveles de incertidumbre; comunidad de pares extendida; "lo salvaje penetró en el laboratorio". Tener **1 ejemplo propio** de tecnología/riesgo ambiental. *Salió en C1B.*
+5. **Sábato y Botana** — objetivo estratégico; investigación ≠ innovación; 3 vértices + 3 capacidades; intra/inter/extra-relaciones; fuga de cerebros; triángulos en unidades limitadas (INTA). Practicar la conexión con Mazzucato. *Salió en los 2 parciales.*
+6. **Mazzucato** — Estado que dinamiza (no solo incentiva); de corrector a creador de mercados; incertidumbre knightiana; iPhone/DARPA/BNDES. Como apoyo de Sábato y por si es consigna propia.
+7. **López Cerezo** — cuándo y por qué surge CTS (Sputnik, *Silent Spring*, Mayo del 68, agencias EPA/OTA), silogismo CTS, modelo lineal, glosario (Programa Fuerte, constructivismo, actor-red). Repaso; sirve de marco para casi todas las consignas.
+8. **Latour, *Crónicas de un amante de las ciencias* (Complementarios)** — leer el capítulo "¿Necesitamos 'paradigmas'?" (10 págs.): es de donde salió la cita de la consigna 1 de 2026.
+9. Escribir de memoria, cronometrado, **una respuesta de cada uno de los 4 moldes** de la sección 3. Es el mejor simulacro dado el formato real.
+
+---
+
+## 6. Temas de la guía vieja: qué se sostiene y qué no
+
+La versión anterior daba prioridad alta a varios temas por su frecuencia en 2019–2022. Revisión a la luz de 2026 y del contenido real de `Contenidos/`:
+
+**Sí está en el material (aunque no salió en 2026): Merton, Bourdieu y Knorr-Cetina comparados.** El texto complementario **Kreimer, *El científico también es un ser humano* (2009), cap. 3 "Comunidades, campos, arenas y playas"** desarrolla en detalle el **ethos de Merton** (universalismo, comunismo/comunalismo, desinterés, escepticismo organizado; sistema de recompensas, eponimia, efecto Mateo), el **campo científico de Bourdieu** (capital científico, autoridad, dominantes/dominados, habitus, pares-competidores) y las **arenas transepistémicas de Knorr-Cetina** (relaciones de recursos). Está todo desarrollado en [Resumen-Parcial-Conceptos.md § 8](Resumen-Parcial-Conceptos.md). No salió en los parciales 2026, pero es contenido vigente y la consigna de comparación era clásica: **preparalo en segundo nivel de prioridad** (después de los 5 hits de la sección 2, junto con López Cerezo y Mazzucato).
+
+**No está en el material actual (probablemente de un programa anterior):**
+- **Pardo (modelos epocales: premoderno / moderno / posmoderno)** — no figura en `Contenidos/`.
+- **Echeverría (4 contextos: educación, innovación, evaluación, aplicación)** — no figura.
+- **Díaz y Rivera (reflexión ética, "ciencia y conciencia")** — no figura; el tema ética aparece hoy vía Massarini y Schnek (Sección II: moral vs. ética, las cuatro posturas).
+- **Valderrama (construcción social de la tecnología / actor-red como consigna entera)** — no figura.
+
+**Recomendación:** no dedicar tiempo a Pardo, Echeverría, Díaz y Rivera ni Valderrama salvo que tu docente los haya dado explícitamente en clase o estén en el programa 2C 2026 de tu comisión. Si tenés el programa oficial de tu comisión, confirmá contra él. La bibliografía confirmada por los parciales 2026 es la de los puntos 1–8 de la sección 5; Merton/Bourdieu/Knorr-Cetina vía Kreimer es el agregado de segundo nivel.
