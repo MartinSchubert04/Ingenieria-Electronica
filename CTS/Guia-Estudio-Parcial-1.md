@@ -2,7 +2,7 @@
 
 Reescrita tomando como base los **dos parciales reales de 1C 2026** (`Parciales/2026_1C.jpg` — Comisión Miércoles, Tema 1; y `Parciales/2026_1C_2.jpeg` — Comisión C1B), que son los únicos exámenes tomados **bajo el programa actual** (con unidades 1 y 2 tal como están hoy). Los parciales viejos 2019–2022 quedan como referencia secundaria: sirven para el *estilo de redacción* y la *rúbrica*, pero **su selección de temas ya no representa lo que se toma** (ver sección 6).
 
-Cruzada con [Resumenes-unidad-1.md](Resumenes-unidad-1.md) y [Resumenes-unidad-2.md](Resumenes-unidad-2.md). Los dos parciales de 2026 están **resueltos y comentados** en [Parciales-2026-Resueltos.md](Parciales-2026-Resueltos.md) (respuestas modelo con citas + cómo llegar a cada una). Diccionario de **todos los conceptos por texto** (incluidos los complementarios) en [Resumen-Parcial-Conceptos.md](Resumen-Parcial-Conceptos.md).
+Cruzada con [Resumenes-unidad-1.md](Resumenes-unidad-1.md) y [Resumenes-unidad-2.md](Resumenes-unidad-2.md). Los parciales reales (los dos de 2026 y el recuperatorio de 2°C 2025) están **resueltos y comentados** en [Parciales-Resueltos.md](Parciales-Resueltos.md) (respuestas modelo con citas + cómo llegar a cada una). Diccionario de **todos los conceptos por texto** (incluidos los complementarios) en [Resumen-Parcial-Conceptos.md](Resumen-Parcial-Conceptos.md).
 
 ---
 

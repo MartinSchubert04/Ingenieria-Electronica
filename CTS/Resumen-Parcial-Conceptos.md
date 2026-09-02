@@ -2,7 +2,7 @@
 
 Diccionario de conceptos de **todos los textos de `Contenidos/`** (Unidad 1 y 2, base y complementarios), desarrollados "de mínima": cada entrada tiene una definición y una explicación breve suficiente para responder en el parcial. Marcado con ⭐ lo que **salió en los parciales de 2026** o está directamente conectado.
 
-Complementa a [Resumenes-unidad-1.md](Resumenes-unidad-1.md), [Resumenes-unidad-2.md](Resumenes-unidad-2.md), la [Guia-Estudio-Parcial-1.md](Guia-Estudio-Parcial-1.md) y los [Parciales-2026-Resueltos.md](Parciales-2026-Resueltos.md).
+Complementa a [Resumenes-unidad-1.md](Resumenes-unidad-1.md), [Resumenes-unidad-2.md](Resumenes-unidad-2.md), la [Guia-Estudio-Parcial-1.md](Guia-Estudio-Parcial-1.md) y los [Parciales-Resueltos.md](Parciales-Resueltos.md).
 
 > Convención de citas: cuando digo "cita textual" es frase literal del texto; el resto es paráfrasis fiel. Los años son los de cada edición usada por la cátedra.
 

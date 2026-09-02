@@ -1,6 +1,6 @@
-# Parciales CTS 1C 2026 — resueltos y comentados
+# Parciales CTS — resueltos y comentados
 
-Resolución de los **dos parciales de 1er cuatrimestre 2026** (`Parciales/2026_1C.jpg` — Comisión Miércoles, Tema 1; `Parciales/2026_1C_2.jpeg` — Comisión C1B). Para cada consigna hay tres bloques:
+Resolución de los **tres parciales reales tomados bajo el programa actual**: los dos parciales de 1er cuatrimestre 2026 (`Parciales/2026_1C.jpg` — Comisión Miércoles, Tema 1; `Parciales/2026_1C_2.jpeg` — Comisión C1B) y el **recuperatorio de 2°C 2025, Comisión Jueves** (`Parciales/2025.png`), agregado después y resuelto con el mismo criterio. Para cada consigna hay tres bloques:
 
 - **Cómo se llega a esta respuesta** — el razonamiento previo: qué te está pidiendo la consigna, qué autor y qué concepto, qué estructura conviene.
 - **Respuesta modelo** — redactada como la entregarías, con citas y desarrollo de las ideas del autor. Lo marcado como *(ampliación)* es lo que sumás si te sobra espacio; el resto es el piso.
@@ -288,3 +288,117 @@ En síntesis: la innovación surge de un sistema de relaciones entre gobierno, i
 - Mezclar intra, inter y extra-relaciones o saltearse alguna. La consigna pide "partes **y relaciones**".
 - No mencionar que los vértices se definen **por función**: es un punto que la cátedra suele buscar.
 - Confundir investigación con innovación.
+
+---
+
+# PARCIAL 3 — Recuperatorio, Comisión Jueves, 2°C 2025
+
+*4 consignas, sin texto periodístico. Confirma exactamente la misma bibliografía y el mismo estilo de consigna que los dos parciales 2026 — ningún autor nuevo respecto de lo que ya cubre este documento.*
+
+---
+
+## Consigna 1
+
+> Explicar por qué es posible "salir" de la dicotomía de los enfoques tradicionales referidos a la práctica científica (Massarini-Schneck, 2015).
+
+### Cómo se llega a esta respuesta
+
+Molde A. La "dicotomía de los enfoques tradicionales" son los dos polos entre los que oscila la imagen clásica de la ciencia: **autónoma** (lógica interna, ajena a lo social) vs. **determinada por lo social** (reducida a sus condicionamientos, sin contenido propio). Hay que: (1) explicar cada polo; (2) mostrar por qué ninguno alcanza para explicar la práctica científica real; (3) exponer el "tercer lugar" al que llegan Massarini y Schnek.
+
+### Respuesta modelo
+
+Massarini y Schnek (2015) identifican una dicotomía clásica en la reflexión sobre la práctica científica: por un lado, la imagen de una ciencia **autónoma**, que avanza según una lógica interna propia (el método) al margen de lo social y solo puede beneficiar a la sociedad si "se olvida" de ella para perseguir la verdad; por el otro, la imagen especular de una ciencia enteramente **determinada por lo social** —reducida a sus condicionamientos políticos, económicos o culturales, sin lógica ni contenido propios—. La primera es la imagen esencialista heredada del empirismo lógico; la segunda, la versión más radical de la crítica sociológica.
+
+Es posible salir de esa dicotomía porque ninguno de los dos polos alcanza para explicar la práctica científica real. Si se define la ciencia solo por su método, en efecto parece neutral y autónoma; pero apenas se atiende al **contexto histórico-social** que condiciona qué se investiga, con qué recursos y cómo se legitima el saber producido —la fusión ciencia-tecnología en la **tecnociencia**, la lógica de eficiencia y rentabilidad de la **Gran Ciencia** posterior a la Segunda Guerra—, la neutralidad se cae. Pero eso no implica que el conocimiento científico carezca de todo valor o contenido propio: retomando la distinción de Reichenbach entre **contexto de descubrimiento** (la atmósfera cultural y social donde surgen las ideas) y **contexto de justificación** (su validación experimental), las autoras sostienen que ambos están **entremezclados** —también la "justificación" ocurre mediante decisiones y negociaciones situadas—, en lugar de aceptar la separación tajante que exigiría la imagen autónoma.
+
+La salida que proponen no es entonces "la ciencia es pura ideología" ni "la ciencia es pura verdad neutral", sino un tercer lugar: tratar al conocimiento científico como **un aporte parcial más**, "una voz más, no totalizante", dentro del análisis de una **problemática social compleja**. Esto permite sostener a la vez que la ciencia tiene un contenido cognitivo con capacidad explicativa y predictiva real (no es "pura política") y que ese contenido está atravesado, desde su génesis, por factores no epistémicos que la imagen autónoma invisibiliza.
+
+*(ampliación)* Es la misma superación de la dicotomía interno/externo que después retoman, cada uno a su modo, Knorr-Cetina (la carga de decisiones no es ni azar puro ni determinismo natural) y Latour (el laboratorio como espacio donde lo epistémico y lo político dejan de poder separarse).
+
+### Errores que bajan nota
+
+- Explicar solo un polo de la dicotomía (por ejemplo, describir la imagen autónoma) sin mostrar el otro extremo ni el "tercer lugar" al que llegan las autoras.
+- Confundir "salir de la dicotomía" con "la ciencia es puramente social/política": eso sería quedarse en el otro extremo, no salir de la dicotomía.
+- No anclar la respuesta en algún concepto propio del texto (tecnociencia, Gran Ciencia, contexto de descubrimiento/justificación, "una voz más, no totalizante").
+
+---
+
+## Consigna 2
+
+> Explicar por qué la actividad científica (Knorr Cetina, 2005) puede ser conciliable tanto con la concepción de Merton, como con el concepto de Paradigma (Kuhn, 1962) (puede relacionar con Dicotomía de Massarini-Schneck, 2015).
+
+### Cómo se llega a esta respuesta
+
+Consigna de integración a tres puntas. No pide elegir entre Merton, Kuhn y Knorr-Cetina, sino mostrar que describen **niveles de análisis distintos y complementarios** del mismo fenómeno. Estructura: (1) qué explica cada uno; (2) por qué son conciliables y no mutuamente excluyentes; (3) cerrar con el vínculo a la dicotomía de Massarini-Schnek que la consigna pide explícitamente.
+
+### Respuesta modelo
+
+A primera vista, la mirada de **Knorr-Cetina** (1981/2005) —la ciencia como fabricación situada, atravesada por una **carga de decisiones** contingentes y por relaciones con actores no científicos en **arenas transepistémicas**— parece incompatible tanto con la comunidad científica ordenada por normas de **Merton** como con el **paradigma** de **Kuhn** (1962). Sin embargo, son conciliables porque describen **niveles de análisis distintos** del mismo fenómeno, no teorías rivales sobre el mismo nivel.
+
+**Con Merton.** El ethos mertoniano (universalismo, comunalismo, desinterés, escepticismo organizado) es una descripción **normativa y macro-institucional**: explica qué normas debería seguir la comunidad científica para que la ciencia cumpla su función social de generar conocimiento certificado, y cómo funciona el sistema de intercambio conocimiento/reconocimiento (eponimia, efecto Mateo). Knorr-Cetina no niega que exista ese marco normativo ni que la ciencia produzca, a nivel macro, un "edificio colectivo" de conocimiento legitimado —lo que ella misma llamaría la "ciencia hecha"—. Lo que agrega es el nivel **micro**: cómo, en la práctica cotidiana del laboratorio, ese conocimiento legitimado se **fabrica** en primer lugar, mediante decisiones concretas que las normas de Merton no describen. Ambas miradas son conciliables si se entiende que el ethos de Merton describe el marco normativo que legitima *después* lo que Knorr-Cetina muestra que se produce mediante negociación situada *durante* el proceso.
+
+**Con Kuhn.** La conciliación es incluso más directa, porque el propio Kuhn —retomado por la sociología constructivista— sostiene que todo colectivo científico tiene una **doble existencia, social y cognitiva, indisociable**: el paradigma no es solo un contenido teórico sino, como subraya también la lectura que hace Latour de Kuhn, una **práctica**, un *modus operandi* que incluye instrumentos, instituciones y una colectividad de colegas que comparten presuposiciones. La **ciencia normal** es, precisamente, el trabajo cotidiano de **articular y precisar** la promesa de un paradigma: ese trabajo de articulación es exactamente lo que Knorr-Cetina describe en detalle etnográfico, mostrando **cómo**, decisión por decisión, se va rellenando el paradigma con resultados concretos. Dicho de otro modo: Kuhn explica a **gran escala** por qué la ciencia normal restringe productivamente la mirada de una comunidad durante un período (las "anteojeras"); Knorr-Cetina explica a **escala micro** qué ocurre exactamente dentro de esa restricción, laboratorio por laboratorio. No hay contradicción: hay un cambio de resolución del análisis.
+
+**Relación con la dicotomía de Massarini-Schnek.** Esta triple conciliación es, en sí misma, un ejemplo de **salir de la dicotomía** entre una ciencia puramente autónoma-cognitiva (la lectura ingenua de Kuhn: "solo cambian las teorías") y una ciencia puramente social-determinada (la lectura caricaturizada de la sociología del conocimiento: "todo es negociación de poder, no hay contenido"). Merton, Kuhn y Knorr-Cetina, leídos juntos, muestran que lo normativo-institucional, lo cognitivo-paradigmático y lo micro-práctico-social son tres capas **entremezcladas** de un mismo proceso, no polos opuestos entre los que haya que elegir.
+
+### Errores que bajan nota
+
+- Presentar a los tres autores como si dijeran lo mismo, sin marcar el **nivel de análisis** distinto de cada uno: eso vacía la pregunta.
+- Presentarlos como simplemente contradictorios, sin resolver la "conciliación" que pide la consigna.
+- No cerrar con el vínculo a la dicotomía de Massarini-Schnek: la consigna lo pide explícitamente entre paréntesis.
+
+---
+
+## Consigna 3
+
+> A partir del relato sobre el caso de Pasteur (Latour, 1983), explicar cómo se desarrolla el hecho científico y si es un caso para ser tratado por la "Ciencia Posnormal" (Funtowicz-Kravetz, 2000).
+
+### Cómo se llega a esta respuesta
+
+Molde C. Primero desarrollar el caso Pasteur tal como lo cuenta Latour (los tres movimientos + artefactos de inscripción), después evaluar explícitamente con los **dos criterios** de Funtowicz y Ravetz (incertidumbre epistemológica alta/no testeable + mucho en juego con valores en conflicto) si el caso encaja. La respuesta defendible es que **no** es un caso de ciencia posnormal, con matices.
+
+### Respuesta modelo
+
+**Cómo se desarrolla el hecho científico (Latour, 1983).** Pasteur no "descubre" pasivamente la vacuna contra el ántrax: la **fabrica** mediante tres movimientos que despliegan su laboratorio como una palanca. Primero, **capta los intereses de otros**: traduce la epidemia de ántrax que preocupa a granjeros, veterinarios y agrónomos de la campiña francesa a un problema que su laboratorio de la École Normale puede resolver —aislar y cultivar el bacilo—; antes de esa traducción, "nada de lo que ocurre en un laboratorio de París tiene que ver con una granja en Beauce". Segundo, **desplaza el punto de apoyo de una posición débil a una fuerte**: lleva el microbio al laboratorio, donde puede purificarlo, cultivarlo y manipular su virulencia en condiciones controladas; al cambiar de escala se **invierte la relación de fuerzas** —fuera del laboratorio el bacilo invisible es más fuerte que el hombre, dentro el científico es más fuerte que el microbio—. Tercero, **mueve el mundo con la palanca**: organiza el experimento público de **Pouilly-le-Fort**, una vacunación demostrativa ante periodistas y ganaderos, y luego, apoyándose en las estadísticas estatales que registran la caída de la mortandad por ántrax donde se aplica la vacuna, logra que toda la agricultura francesa "compruebe" un producto salido de su laboratorio. La fuerza de ese hecho científico no reside en ninguna cualidad moral o cognitiva especial de Pasteur, sino en los **artefactos de inscripción**: instrumentos que transforman el fenómeno —invisible, disperso, letal— en trazos escritos simples (tasas de mortalidad, curvas, tablas) acumulables y oponibles a cualquier escéptico.
+
+**¿Es un caso para la ciencia posnormal?** Hay que aplicar los dos criterios que Funtowicz y Ravetz (2000) usan para decidir cuándo la ciencia normal deja de alcanzar: **incertidumbre epistemológica alta** (irreducible, no testeable experimentalmente) y **mucho en juego** con **valores en conflicto** que la ciencia no puede resolver por sí sola.
+
+El caso Pasteur cumple **parcialmente** el segundo criterio —había mucho en juego: la economía ganadera francesa, la credibilidad de la medicina experimental, la confianza pública en una intervención nueva sobre animales y, después, sobre personas—, pero **no cumple el primero**, que es el decisivo. A diferencia de los problemas que ocupan a Funtowicz y Ravetz (residuos radiactivos, cambio climático, Chernobyl), la incertidumbre en el caso del ántrax era manejable **dentro** del laboratorio y **testeable experimentalmente**: Pasteur podía reproducir el experimento y controlar variables, y Pouilly-le-Fort ofrecía un criterio de éxito/fracaso claro y verificable en semanas (ovejas vacunadas sobreviven, no vacunadas mueren), no en generaciones. No hay aquí la "ignorancia de la ignorancia" ni los datos "radicalmente inadecuados" que describen Funtowicz y Ravetz para el riesgo ambiental global; al contrario, es un ejemplo casi paradigmático de **ciencia normal funcionando con éxito**, extendiendo su autoridad mediante el método experimental clásico.
+
+De hecho, Funtowicz y Ravetz usan la propia metáfora del laboratorio de Latour —el laboratorio que se extiende hacia el campo, como en Pouilly-le-Fort— para marcar por **contraste** en qué consiste la ciencia posnormal: en los riesgos ambientales globales ocurre exactamente lo **inverso**, "lo salvaje ha penetrado en el laboratorio" —los "experimentos" (Chernobyl, Bhopal, Exxon Valdez) no son controlables, repetibles ni detenibles a voluntad, y no hay forma de aislarlos para testearlos antes de sufrir sus consecuencias—. El caso Pasteur es justamente el tipo de situación en la que el laboratorio **sí** logra imponer sus condiciones al mundo exterior; por eso no es un caso de ciencia posnormal, sino el ejemplo por antonomasia del poder de la ciencia normal cuando el laboratorio puede controlar la incertidumbre.
+
+### Errores que bajan nota
+
+- Contar los tres movimientos sin conectarlos con el desarrollo *del hecho científico* (qué prueba cada paso sobre cómo se construye un hecho).
+- Responder "sí, es ciencia posnormal" solo porque "había mucho en juego", sin evaluar el criterio de la **incertidumbre irreducible/no testeable**, que es el que decide.
+- No justificar la respuesta con los **dos** criterios explícitos de Funtowicz y Ravetz. Un "sí" o "no" sin ese doble chequeo vale poco.
+
+---
+
+## Consigna 4
+
+> Explicar en qué consiste la propuesta de Sábato-Botana (1970), describiendo fundamentos y objetivos para implementarla y explicar objetivos y estrategias propuestos para cada centro de convergencia.
+
+### Cómo se llega a esta respuesta
+
+Molde A ampliado. "Centro de convergencia" es el término que usan los propios Sábato y Botana para cada vértice del triángulo ("cada vértice constituye un centro de convergencia de múltiples instituciones, unidades de decisión y de producción"). Estructura: (1) fundamentos —diagnóstico + objetivo estratégico—; (2) en qué consiste el modelo —los tres vértices como "centros de convergencia" y su definición por función—; (3) para cada centro de convergencia, su **objetivo** (rol) y su **estrategia** (cómo logra su capacidad propia); (4) las relaciones entre centros como parte de la estrategia de implementación.
+
+### Respuesta modelo
+
+**Fundamentos.** Sábato y Botana (1968) parten de un diagnóstico: superar el subdesarrollo latinoamericano exige insertar deliberadamente la ciencia y la tecnología en la trama misma del proceso de desarrollo, y no tratarlas como un "lujo" reservado a los países centrales ni limitarse a comprar patentes y pagar *royalties*. El **objetivo estratégico** de la propuesta es lograr **capacidad técnico-científica de decisión propia**, para que América Latina pase de un rol **pasivo de espectador** a uno **activo de protagonista** del desarrollo científico-tecnológico mundial. Un fundamento central es distinguir **investigación** de **innovación**: la innovación es "la incorporación del conocimiento —propio o ajeno— con el objetivo de generar un proceso productivo", y una infraestructura científica sólida por sí sola **no garantiza** capacidad innovadora (contrastan el caso de Gran Bretaña, con altísima investigación pero innovación pobre, y Japón, a la inversa).
+
+**En qué consiste la propuesta para implementarla.** La innovación es resultado de la **acción coordinada de tres vértices**, cada uno de los cuales es, en palabras de los autores, un **"centro de convergencia"** de múltiples instituciones, unidades de decisión y de producción: el **Gobierno**, la **infraestructura científico-tecnológica** y la **estructura productiva**. Un punto clave para implementarla: los tres centros se definen por su **función**, no por su propiedad legal (una empresa estatal que produce acero pertenece al centro de convergencia de la estructura productiva, no al del gobierno; el laboratorio de una empresa privada pertenece al de infraestructura científico-tecnológica).
+
+**Objetivos y estrategias propuestos para cada centro de convergencia:**
+
+- **Gobierno.** *Objetivo*: formular y conducir la política científico-tecnológica, y asignar los recursos hacia ella. *Estrategia*/capacidad que debe desarrollar: la **capacidad de acción deliberada** —traducir las necesidades de desarrollo en demandas explícitas hacia los otros dos centros—. Los autores ilustran esto con Estados Unidos, donde la Segunda Guerra Mundial convirtió al gobierno en el gran promotor de la innovación (radar, avión a reacción, bomba atómica), consolidando el sistema de relaciones.
+- **Infraestructura científico-tecnológica.** *Objetivo*: producir conocimiento y formar los recursos humanos que sustentan la innovación —integra el sistema educativo, los laboratorios e institutos, los organismos de planificación y promoción (Consejos de Investigación, Academias), el marco jurídico-administrativo y los recursos económicos—. *Estrategia*/capacidad que debe desarrollar: la **capacidad creadora**, que los autores subrayan como un atributo de las **personas** y no del equipamiento: "un laboratorio no vale tanto por las dimensiones del edificio que ocupa… sino por la calidad y la cantidad de inteligencia de los hombres que lo integran". La estrategia de implementación exige, entonces, cuidar la calidad y la libertad de los investigadores por sobre la inversión edilicia.
+- **Estructura productiva.** *Objetivo*: proveer los bienes y servicios que la sociedad demanda, incorporando la innovación al aparato productivo. *Estrategia*/capacidad que debe desarrollar: la **capacidad empresarial**, definida siguiendo a Schumpeter como la función de "reformar o revolucionar el sistema de producción explotando un invento… para producir una mercancía nueva o una mercancía antigua por un método nuevo".
+
+Además de la capacidad propia de cada centro (**intra-relaciones**), la estrategia de implementación exige desarrollar las **inter-relaciones** —flujos de demandas verticales (gobierno↔infraestructura, gobierno↔estructura productiva) y horizontales (infraestructura↔estructura productiva) entre los tres centros— y atender las **extra-relaciones** con el contorno externo, cuya ausencia produce el síntoma típico latinoamericano del **éxodo de talentos**. Como no existe, ni siquiera en los países más desarrollados de la región, un triángulo pleno a escala de toda la sociedad, la **estrategia realista** que proponen para implementar el modelo es constituir triángulos de relaciones en **unidades limitadas** —instituciones particulares o conglomerados industriales públicos o privados— que sirvan como modelos replicables; citan como experiencias reales el **INTA** (sector agropecuario) y el **SATI** (asistencia técnica a la industria).
+
+### Errores que bajan nota
+
+- Explicar el triángulo sin usar el término "centro de convergencia" (la consigna lo pide explícitamente) ni asignar **objetivo + estrategia** por separado a cada uno.
+- Mezclar objetivo/estrategia de un centro con el de otro (por ejemplo, atribuirle "capacidad creadora" al gobierno).
+- Omitir los fundamentos (diagnóstico + objetivo estratégico + distinción investigación/innovación), que la consigna pide explícitamente ("describiendo fundamentos y objetivos para implementarla").
