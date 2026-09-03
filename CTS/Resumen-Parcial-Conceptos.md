@@ -8,6 +8,20 @@ Complementa a [Resumenes-unidad-1.md](Resumenes-unidad-1.md), [Resumenes-unidad-
 
 ---
 
+# Qué tema toca cada autor (índice rápido)
+
+- **Kuhn (1962)** ⭐ — paradigma, ciencia normal, comunidad de pares cerrada, restricción productiva de la visión ("anteojeras"), anomalía-crisis-revolución, inconmensurabilidad.
+- **Massarini y Schnek (2015)** ⭐ — ciencia no neutral ni autónoma; problema científico (teórico/general/simple) vs. problemática social compleja (práctica/particular/compleja); "ciencia entre todxs" y democratización del conocimiento.
+- **Funtowicz y Ravetz (2000)** ⭐ — ciencia posnormal; por qué la ciencia normal no alcanza ante riesgos globales; tres niveles de incertidumbre; comunidad de pares extendida; "lo salvaje penetró en el laboratorio".
+- **Knorr-Cetina** ⭐ — constructivismo: el hecho se fabrica, no se descubre; carga de decisiones; "ciencia hecha" vs. "ciencia mientras se hace"; etnografía de laboratorio.
+- **Latour (1983 / 2010)** ⭐ — caso Pasteur/ántrax (traducir intereses, laboratorio como palanca, invertir la relación de fuerzas); artefactos de inscripción; actor-red; el paradigma como práctica, no como "visión del mundo".
+- **López Cerezo (2017)** — origen del campo CTS; modelo lineal de desarrollo; 5 mitos del I+D (Sarewitz); quiebre de confianza (Sputnik, Silent Spring, Mayo del 68); silogismo CTS; evaluación y control social.
+- **Sábato y Botana (1968)** ⭐ — Triángulo de Sábato: 3 vértices (gobierno / infraestructura CyT / estructura productiva), 3 capacidades, intra/inter/extra-relaciones; investigación ≠ innovación; fuga de cerebros; INTA.
+- **Mazzucato (2013)** — Estado emprendedor: del "corrector de fallas" al que dinamiza y asume el riesgo; incertidumbre knightiana; iPhone / DARPA / BNDES; batalla discursiva.
+- **Merton / Bourdieu / Knorr-Cetina vía Kreimer (2009)** — ethos científico y efecto Mateo (Merton); campo científico y capital científico (Bourdieu); arenas transepistémicas (Knorr-Cetina).
+
+---
+
 # UNIDAD 1
 
 ## 1. López Cerezo — *Ciencia, tecnología y sociedad* (2017)
