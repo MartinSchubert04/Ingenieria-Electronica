@@ -1,6 +1,16 @@
 # Parciales CTS — resueltos y comentados
 
-Resolución de los **tres parciales reales tomados bajo el programa actual**: los dos parciales de 1er cuatrimestre 2026 (`Parciales/2026_1C.jpg` — Comisión Miércoles, Tema 1; `Parciales/2026_1C_2.jpeg` — Comisión C1B) y el **recuperatorio de 2°C 2025, Comisión Jueves** (`Parciales/2025.png`), agregado después y resuelto con el mismo criterio. Para cada consigna hay tres bloques:
+Resolución de los **cinco parciales reales tomados bajo el programa actual**:
+
+1. **1er cuatrimestre 2026, Comisión Miércoles, Tema 1** (`Parciales/2026_1C.jpg`).
+2. **1er cuatrimestre 2026, Comisión C1B** (`Parciales/2026_1C_2.jpeg`).
+3. **Recuperatorio de 2°C 2025, Comisión Jueves** (`Parciales/2025.png`).
+4. **Comisión Martes (turno noche), 2026** (`Parciales/2026.jpeg`) — agregado después.
+5. **Primer parcial de 2°C 2025, Comisión Jueves** (`Parciales/2025_2C.jpeg`) — agregado después.
+
+Los parciales 4 y 5 introducen **dos pedidos que no cubrían los resúmenes** (marcados con ⭐ en [Resumen-Parcial-Conceptos.md](Resumen-Parcial-Conceptos.md)): la **definición de técnica y tecnología** y el **tercer contexto (de aplicación)** en Massarini y Schnek; el **ethos de Merton**; y un **autor nuevo, Lundvall y Freeman (Sistemas Nacionales de Innovación)**, que no figura en la bibliografía confirmada por los otros parciales — ver la advertencia en la Consigna 4 del Parcial 5.
+
+Para cada consigna hay tres bloques:
 
 - **Cómo se llega a esta respuesta** — el razonamiento previo: qué te está pidiendo la consigna, qué autor y qué concepto, qué estructura conviene.
 - **Respuesta modelo** — redactada como la entregarías, con citas y desarrollo de las ideas del autor. Lo marcado como *(ampliación)* es lo que sumás si te sobra espacio; el resto es el piso.
@@ -402,3 +412,345 @@ Además de la capacidad propia de cada centro (**intra-relaciones**), la estrate
 - Explicar el triángulo sin usar el término "centro de convergencia" (la consigna lo pide explícitamente) ni asignar **objetivo + estrategia** por separado a cada uno.
 - Mezclar objetivo/estrategia de un centro con el de otro (por ejemplo, atribuirle "capacidad creadora" al gobierno).
 - Omitir los fundamentos (diagnóstico + objetivo estratégico + distinción investigación/innovación), que la consigna pide explícitamente ("describiendo fundamentos y objetivos para implementarla").
+
+---
+
+# PARCIAL 4 — Comisión Martes (turno noche), 2026
+
+*6 consignas (1a, 1b, 2a, 2b, 3, 4), sin texto periodístico. Mismo encabezado y mismas formalidades que los parciales 2026. Confirma la bibliografía de base y agrega dos pedidos puntuales de Massarini y Schnek —los **tres contextos** y la definición de **técnica y tecnología**— que los resúmenes cubrían solo a medias.*
+
+---
+
+## Consigna 1a
+
+> En el marco de la ciencia racional, Massarini y Schnek (2015) plantean 3 contextos. Explicarlos brevemente. ¿Cómo definen las autoras técnica y tecnología?
+
+### Cómo se llega a esta respuesta
+
+Dos preguntas encadenadas, ambas de molde A (exponer). (1) Los "tres contextos" amplían la distinción de Reichenbach que las autoras retoman: **descubrimiento** y **justificación** —los dos clásicos— más el **contexto de aplicación** (qué se hace con el conocimiento, para qué y para quién), que es el que la epistemología tradicional dejaba afuera y que a Massarini y Schnek les interesa recuperar. (2) La definición de **técnica** y **tecnología**: la técnica es anterior a la ciencia y se transmite por tradición/oficio; la tecnología es la técnica que incorpora conocimiento científico y queda ligada a la tecnociencia. Conviene cerrar mostrando para qué usan las autoras estas distinciones: para sostener que la ciencia no es neutral (el contexto de aplicación siempre está) ni separable de la técnica.
+
+### Respuesta modelo
+
+Massarini y Schnek (2015) discuten la imagen de la "ciencia racional" —autónoma y neutral— retomando y ampliando la distinción de **Hans Reichenbach** entre contextos:
+
+- **Contexto de descubrimiento:** la atmósfera cultural, social, económica y psicológica en la que surgen las ideas y las preguntas de investigación —qué se considera un problema digno de estudio, quién lo financia, qué intereses lo impulsan—.
+- **Contexto de justificación:** la instancia de validación del conocimiento mediante demostraciones, contrastación empírica y revisión de la comunidad científica. La epistemología clásica sostiene que **solo este contexto es relevante** para juzgar la ciencia, y que por eso la ciencia puede pensarse como neutral.
+- **Contexto de aplicación:** qué se hace con el conocimiento producido, con qué fines, a beneficio de quién y con qué consecuencias sociales y ambientales. Es el contexto que la imagen clásica dejaba fuera del análisis epistemológico y que las autoras reincorporan: las decisiones sobre aplicación no son un "después" ajeno a la ciencia, sino que retroactúan sobre qué se investiga y cómo se legitima.
+
+El punto de las autoras es que los tres contextos están **entremezclados**: también la "justificación" ocurre mediante decisiones y negociaciones situadas, y el contexto de aplicación condiciona el de descubrimiento. Por eso la separación tajante que exige la imagen de la ciencia autónoma no se sostiene.
+
+En cuanto a **técnica y tecnología**, las autoras las distinguen así:
+
+- **Técnica:** el conjunto de procedimientos y habilidades prácticas —el "saber hacer"— que la humanidad desarrolló para resolver problemas concretos y transformar su entorno. Es **muy anterior a la ciencia moderna**, se aprende y se transmite por la **práctica, la tradición y el oficio**, y no requiere una teoría científica que la fundamente (la metalurgia, la agricultura o la navegación funcionaron durante milenios sin física ni química).
+- **Tecnología:** la técnica que **incorpora conocimiento científico** de manera sistemática. Surge cuando ciencia y técnica se articulan, y se vuelve dominante con la **tecnociencia** (Hottois) posterior a la Segunda Guerra Mundial, cuando la producción de conocimiento y su aplicación técnica quedan fundidas y atadas a fuertes inversiones e intereses económicos y militares (la "Gran ciencia").
+
+*(ampliación)* Las dos distinciones apuntan a lo mismo: si se admite que existe un contexto de aplicación con peso propio y que la ciencia actual es inseparable de la tecnología (tecnociencia), entonces la idea de una ciencia "pura", neutral y autónoma deja de ser sostenible.
+
+### Errores que bajan nota
+
+- Dar solo los dos contextos de Reichenbach (descubrimiento y justificación) y omitir el **tercero (aplicación)**, que es el que la consigna busca y el que las autoras aportan.
+- Definir técnica y tecnología como sinónimos, o invertirlas. La clave es: técnica = anterior a la ciencia, por tradición/oficio; tecnología = técnica con base científica, ligada a la tecnociencia.
+- Quedarse en las definiciones sin decir **para qué** las usan las autoras (sostener la no-neutralidad y la no-autonomía de la ciencia).
+
+---
+
+## Consigna 1b
+
+> Massarini y Schnek diferencian problemas científicos de problemáticas sociales. Explicar estas diferencias a partir de sus características.
+
+### Cómo se llega a esta respuesta
+
+Molde A, la distinción central de Massarini y Schnek. No piden ejemplo propio ni vínculo: piden el contraste **rasgo por rasgo**. Estructura: los tres rasgos del problema científico (teórico / general / simple) contra los tres de la problemática social compleja (práctica / particular / compleja), explicando cada par, y cerrar con la consecuencia (la ciencia como "una voz más").
+
+### Respuesta modelo
+
+Para Massarini y Schnek (2015), los **problemas de las ciencias naturales** y las **problemáticas sociales complejas** se distinguen por tres pares de características opuestas:
+
+| | Problema científico | Problemática social compleja |
+|---|---|---|
+| Finalidad | **Teórico**: se formula dentro de un marco teórico que define de antemano qué variables son relevantes. | **Práctica**: no busca una ley sino decidir e intervenir sobre una situación concreta, y hacerlo ya. |
+| Alcance | **General**: busca leyes universales, en la tradición de Galileo ("el universo está escrito en lenguaje matemático"). | **Particular**: está situada en una comunidad y un ambiente determinados, aunque conectada con procesos globales. |
+| Estructura | **Simple**: se construye recortando y aislando un número acotado de variables (ligado al **reduccionismo**). | **Compleja**: siguiendo a **Rolando García (1994)**, la complejidad no depende de la cantidad ni de la heterogeneidad de los elementos, sino de su **interdefinibilidad y mutua dependencia funcional** — no se pueden aislar sin destruir el problema. |
+
+La consecuencia es metodológica y política: frente a una problemática social, el conocimiento científico-natural no puede ser el punto de partida ni la autoridad que la resuelve "racionalmente" (eso es la **posición dominante**, que invisibiliza las relaciones de poder). Es **un aporte parcial más**, "una voz más, no totalizante"; hay que partir de la problemática, identificar a los actores y sus discursos —incluidas las relaciones de poder entre ellos— y solo entonces ver qué puede aportar cada saber.
+
+*(ampliación)* Por eso una problemática social compleja se aborda con el método de cuatro pasos de las autoras (identificar actores → interpretar sus discursos → analizar cómo se relacionan → comprensión general en términos de estilo de desarrollo y sustentabilidad), y no aplicando sin más el método de una disciplina natural.
+
+### Errores que bajan nota
+
+- Enunciar los seis rasgos como una lista sin **contrastarlos por pares**: la consigna pide "las diferencias".
+- Explicar "compleja" como "tiene muchos elementos". El punto de Rolando García es la **interdefinibilidad**, no la cantidad.
+- No cerrar con la consecuencia (la ciencia como aporte parcial / crítica a la posición dominante).
+
+---
+
+## Consigna 2a
+
+> Según Kuhn (1969) ¿cuál es la definición de paradigma? ¿Cuál es su relación con la ciencia normal y las revoluciones científicas?
+
+### Cómo se llega a esta respuesta
+
+Molde A. Tres piezas: (1) definición de paradigma con sus dos rasgos; (2) cómo el paradigma **funda** la ciencia normal (trabajo de articulación, restricción productiva de la mirada); (3) cómo entra en crisis y es reemplazado en una **revolución científica**. Conviene dar el circuito completo y cerrar con la inconmensurabilidad (la ciencia no progresa acumulando verdades de forma lineal).
+
+### Respuesta modelo
+
+En *La estructura de las revoluciones científicas* (1962; la consigna lo data en 1969), Kuhn llama **paradigma** a las **realizaciones científicas pasadas** que una comunidad científica reconoce, durante un tiempo, como **fundamento de su práctica posterior** (hoy transmitidas por los manuales). Un paradigma tiene dos rasgos: es lo bastante **sin precedentes** como para atraer a un grupo duradero de partidarios, apartándolos de formas rivales de actividad, y lo bastante **abierto e incompleto** como para dejarles muchos problemas por resolver.
+
+**Relación con la ciencia normal.** El paradigma es lo que hace posible la **ciencia normal**: la investigación basada firmemente en él, entendida como un trabajo de **"limpieza" (mopping-up)** —articular y precisar la promesa del paradigma: determinar constantes, extender leyes, ajustar predicciones al experimento—. La ciencia normal **no busca novedades**; más aún, **tiende a no ver** lo que no encaja en el paradigma. Esa restricción de la mirada (las "anteojeras") no es un defecto: es lo que permite investigar la naturaleza con un detalle y una profundidad imposibles sin ella. Antes de tener un paradigma, una ciencia está en etapa **pre-paradigmática**: escuelas que discuten entre sí, sin criterio compartido para decidir qué hechos importan.
+
+**Relación con las revoluciones científicas.** Al hacer ciencia normal aparecen **anomalías**: fenómenos que el paradigma no logra encajar. Aisladas se toleran; **acumuladas** producen una **crisis**. En la crisis compiten paradigmas alternativos, hasta que la comunidad adopta uno nuevo: eso es una **revolución científica**. El nuevo paradigma **no es continuo ni comparable** con el anterior (**inconmensurabilidad**): son formas distintas de ver el mundo. Circuito completo: ciencia normal → anomalías → acumulación → crisis → competencia de paradigmas → revolución → nuevo paradigma → nueva ciencia normal.
+
+*(ampliación)* De ahí la tesis de fondo: la ciencia **no "progresa" acumulando verdades** sobre un mundo transparente de manera lineal; el conocimiento se acumula solo **dentro** de un paradigma, y cada revolución reinicia ese proceso sobre bases nuevas.
+
+### Errores que bajan nota
+
+- Definir "paradigma" como "una teoría" o "un modelo" sin los **dos rasgos** (sin precedentes / abierto).
+- Explicar la ciencia normal y las revoluciones como etapas sueltas, sin el **circuito** que las liga (anomalía → crisis → revolución).
+- Olvidar la **inconmensurabilidad**: es la palabra que la cátedra suele buscar.
+
+---
+
+## Consigna 2b
+
+> ¿Qué piensa Knorr-Cetina (2005) sobre la autonomía de la ciencia?
+
+### Cómo se llega a esta respuesta
+
+Molde A breve. La respuesta es directa: para Knorr-Cetina la autonomía de la ciencia es **una ficción**. Hay que fundamentarlo con dos conceptos del texto: la **carga de decisiones** (la práctica científica está orientada por selecciones contingentes, no por "la naturaleza") y las **arenas transepistémicas** (la ciencia se hace en relación con actores no científicos). Conviene contrastar con Merton (autonomía normativa de la comunidad) para mostrar contra qué discute.
+
+### Respuesta modelo
+
+Para Knorr-Cetina (*La fabricación del conocimiento*, 1981; ed. cit. 2005), la **autonomía de la ciencia es "una ficción, una idealización"**. La ciencia no se autorregula al margen de la sociedad ni sigue una lógica puramente interna, y esto se ve apenas se observa la práctica de laboratorio en detalle.
+
+Dos argumentos del texto lo sostienen:
+
+1. **La carga de decisiones (*decision-ladenness*).** En cada paso de la investigación —qué medir, con qué instrumento, qué contar como dato y qué descartar como ruido— el científico elige entre alternativas que podrían haberse resuelto de otro modo. Esas decisiones **no las dicta "la naturaleza"** ni son arbitrarias: están orientadas por selecciones **situacionalmente contingentes** (recursos disponibles, tradición del laboratorio, intereses en juego, lo que es publicable o financiable). El resultado científico lleva inscriptas esas decisiones contextuales, de modo que no puede entenderse como reflejo autónomo de un orden natural.
+
+2. **Las arenas transepistémicas de investigación.** Knorr-Cetina describe la organización social de la ciencia no como una "comunidad" autónoma (Merton) ni como un "campo" cerrado (Bourdieu), sino como **arenas transepistémicas**: espacios —cambiantes— donde los científicos entretejen **relaciones de recursos** con actores **no científicos** (agencias que financian, proveedores de equipos e insumos, empresas, autoridades). Esos actores participan en las discusiones técnicas y condicionan qué decisiones de investigación se toman. Lo "epistémico" y lo "no epistémico" están mezclados desde el interior de la práctica.
+
+Frente a Merton —para quien la comunidad científica es autónoma porque se rige por un ethos propio (universalismo, comunalismo, desinterés, escepticismo organizado)—, Knorr-Cetina sostiene que esa autonomía normativa no describe lo que efectivamente pasa en el laboratorio: el científico es un **razonador práctico** (un "bricoleur") que trabaja con los recursos y restricciones a mano, no un sujeto aislado que aplica un método puro.
+
+*(ampliación)* Esta posición es coherente con la interpretación **constructivista**: si los hechos se **fabrican** mediante decisiones contingentes y en relación con actores externos, entonces la ciencia no es una esfera autónoma sino una práctica social situada. Enlaza con Massarini y Schnek (la ciencia no es neutral ni autónoma) y con Latour (el laboratorio no está "aislado" del mundo: lo fabrica).
+
+### Errores que bajan nota
+
+- Responder solo "no es autónoma" sin fundamentarlo con **carga de decisiones** y **arenas transepistémicas**.
+- Confundir la posición de Knorr-Cetina con la de Merton (atribuirle a ella la "autonomía normativa de la comunidad").
+- Decir que para Knorr-Cetina la ciencia es "pura política" o "invento": sostiene que se fabrica mediante decisiones contingentes, no que sea arbitraria.
+
+---
+
+## Consigna 3
+
+> Explicar los movimientos que realiza el científico según Latour (1983). ¿Qué ocurre con las escalas y la dicotomía "adentro/afuera"?
+
+### Cómo se llega a esta respuesta
+
+Molde A + B: los **tres movimientos** de Pasteur y, explícitamente, la conclusión sobre **escalas** y **dicotomía adentro/afuera**. Es la misma materia que la consigna U1C del Parcial 2, pero acá el eje no es "qué aportó" sino "qué ocurre con las escalas": hay que rematar mostrando que la diferencia micro/macro y dentro/fuera **no es una diferencia real de escala**, sino un efecto que el laboratorio produce.
+
+### Respuesta modelo
+
+En "Dadme un laboratorio y levantaré el mundo" (1983), Latour muestra —con el caso de **Pasteur y la vacuna contra el ántrax**— que el científico gana poder mediante **tres movimientos**:
+
+1. **Captar los intereses de otros.** Pasteur **traduce** un problema ajeno —la epidemia de ántrax que preocupa a granjeros, veterinarios y agrónomos— a un problema que su laboratorio puede resolver: aislar y cultivar el bacilo. "Antes de esto, nada de lo que ocurre en un laboratorio de París tiene que ver con una granja en Beauce."
+2. **Desplazar el punto de apoyo de una posición débil a una fuerte.** Lleva el microbio a su laboratorio de la École Normale, donde puede cultivarlo aislado, purificarlo y manipular su virulencia en condiciones controladas. **Al cambiar de escala se invierte la relación de fuerzas**: fuera del laboratorio el bacilo invisible es más fuerte que el hombre; dentro, el científico es más fuerte que el microbio.
+3. **Mover el mundo con la palanca.** Con el dominio demostrado en el laboratorio, organiza el experimento público de campo de **Pouilly-le-Fort** (una vacunación teatral ante prensa y ganaderos) y, mediante las **estadísticas estatales** que registran la caída del ántrax donde llega la vacuna, logra que toda la agricultura francesa "compruebe" un producto salido de su laboratorio.
+
+**Qué ocurre con las escalas y con la dicotomía "adentro/afuera".** La lectura habitual opone un "adentro" del laboratorio —micro, técnico, sin importancia política— a un "afuera" —macro: economía, instituciones, Estado—. Latour sostiene que esa oposición **no es una diferencia real de escala**: es un **efecto que los laboratorios producen y explotan**. El laboratorio funciona como una **palanca** (parodia de Arquímedes): permite trabajar a **escala reducida**, multiplicar ensayos y errores lejos del escrutinio público, invertir bajo control la jerarquía de fuerzas entre actores (microbio/granja, científico/veterinario) y recién entonces "salir" y proyectar esa inversión sobre el mundo. Así, lo que parecía "micro" (unos cultivos en París) se vuelve la fuente de lo "macro" (toda la política sanitaria y agrícola francesa). La dicotomía adentro/afuera se **disuelve**: no hay un laboratorio aislado por un lado y una sociedad por el otro, sino una red continua por la que circula lo que el laboratorio fabrica. Lo que permite ese pasaje son los **artefactos de inscripción** (*inscription devices*): instrumentos que convierten fenómenos invisibles en **trazos escritos simples** (curvas, tablas, cifras) acumulables y oponibles a cualquier contraargumento.
+
+*(ampliación)* De ahí la fórmula de cierre: "la ciencia es política ejercida por otros medios" (Latour, 1983) — medios nuevos, los desplazamientos de escala vía laboratorio. Y la consecuencia metodológica: el analista no debe encerrarse "tímidamente" en el nivel del laboratorio, sino **seguir al hecho científico a través de todas sus transformaciones**, también hacia el macronivel.
+
+### Errores que bajan nota
+
+- Contar los tres movimientos y **no responder la segunda pregunta** (escalas / dicotomía adentro-afuera), que es la mitad de la consigna.
+- Decir que Latour "estudia el adentro del laboratorio": justamente sostiene lo contrario, que el laboratorio **no** es un adentro aislado.
+- Omitir los **artefactos de inscripción**, que son el mecanismo concreto del pasaje de escala.
+
+---
+
+## Consigna 4
+
+> Explicar las características de la ciencia posnormal según Funtowicz y Ravetz (2000) y relacionarla con la ciencia normal de Kuhn (1969).
+
+### Cómo se llega a esta respuesta
+
+Molde C sin ejemplo: autor 1 (Funtowicz y Ravetz, las características) + vínculo explícito con autor 2 (Kuhn, ciencia normal), **por contraste**. Estructura: (1) qué es la ciencia posnormal y cuándo aplica (dos condiciones); (2) sus rasgos (incertidumbre irreducible, modelos no testeables, valores en conflicto, comunidad de pares extendida, "lo salvaje penetró en el laboratorio"); (3) el contraste punto por punto con la ciencia normal kuhniana (comunidad cerrada vs. extendida; certeza dentro del paradigma vs. incertidumbre irreducible; el modelo de Kuhn como el que se declara insuficiente).
+
+### Respuesta modelo
+
+**La ciencia posnormal (Funtowicz y Ravetz, 2000)** es una forma de práctica científica para los problemas en que **la incertidumbre es alta** y **hay mucho en juego** (decisiones con fuerte carga de valores), típicamente el **riesgo ambiental global** y la equidad entre los pueblos. Sus características:
+
+- Los problemas son de **escala global y larga duración**, con datos **radicalmente inadecuados** (a veces sin línea de base), complejos, novedosos y variables.
+- La ciencia rara vez puede ofrecer teorías comprobadas experimentalmente: en el mejor caso, **modelos y simulaciones no testeables**, que dan "ilusión de objetividad" sin ser mejores que las corazonadas de los expertos que los alimentan.
+- La incertidumbre no es solo **técnica** (inexactitud, tratable con estadística estándar): hay incertidumbre **metodológica** (no confiabilidad; exige juicio experto) y **epistemológica** (el "límite con la ignorancia", incluida la "ignorancia de la ignorancia"). "La variabilidad aleatoria tradicional suele ser pequeña frente a otras incertidumbres."
+- Aplicada a decisiones políticas, la ciencia **no puede dar certeza ni resolver los valores en conflicto**, y esos valores no pueden ignorarse ni al plantear el problema.
+- Asegurar la **calidad** ya no puede limitarse a evaluar los productos por la revisión entre especialistas: hay que evaluar también el proceso y a las personas ("calidad p al cubo"), lo que exige una **comunidad de pares extendida** — incorporar al diálogo a ciudadanos y actores afectados, que aportan saberes locales y ponen sobre la mesa los valores.
+- Invierte la metáfora del laboratorio de Latour: "El laboratorio no avanza hacia el campo; antes bien lo salvaje ha penetrado en el laboratorio". Los "experimentos" de escala regional —Chernobyl, Bhopal, Exxon Valdez— no son aislados, ni repetibles, ni se pueden detener a voluntad.
+
+**Relación con la ciencia normal de Kuhn.** La ciencia posnormal se define, en buena medida, **por contraste** con el modelo kuhniano, al que Funtowicz y Ravetz declaran **insuficiente** para estos problemas:
+
+| | Ciencia normal (Kuhn) | Ciencia posnormal (Funtowicz y Ravetz) |
+|---|---|---|
+| Quién evalúa la calidad | **Comunidad de pares cerrada**: los especialistas que comparten el paradigma. | **Comunidad de pares extendida**: se suman ciudadanos y actores afectados. |
+| Estado de la incertidumbre | Se investiga **dentro** de un paradigma que da criterios y certezas; las anomalías son la excepción. | Incertidumbre **irreducible y central**; no hay paradigma que la cierre. |
+| Rol de los valores | Quedan fuera del trabajo técnico rutinario. | Están **en el planteo mismo** del problema y en conflicto. |
+| Tarea | "Limpieza" (*mopping-up*): articular la promesa del paradigma, no buscar novedades. | Gestionar la impredictibilidad, el control incompleto y la pluralidad de perspectivas legítimas. |
+
+Es decir: lo que Kuhn describe como el funcionamiento **normal y exitoso** de la ciencia —una comunidad cerrada que trabaja con certezas dentro de un paradigma— es, para Funtowicz y Ravetz, precisamente **lo que deja de alcanzar** cuando el problema tiene alta incertidumbre y mucho en juego. La brecha entre el experto y el público lego que Kuhn describe como consecuencia natural de la profesionalización es la que la comunidad de pares extendida viene a corregir.
+
+*(ampliación)* El planteo se integra con la **"ciencia entre todxs"** de Massarini y Schnek y con el **silogismo CTS** de López Cerezo: los tres sostienen que, en cuestiones científico-tecnológicas de interés público con valores en juego, la evaluación legítima requiere participación social y no solo pericia técnica.
+
+### Errores que bajan nota
+
+- Enumerar las características de la ciencia posnormal y **no construir el contraste** con Kuhn, que es lo que pide "relacionarla con la ciencia normal".
+- Explicar la ciencia posnormal sin las **dos condiciones** que la activan (alta incertidumbre + mucho en juego).
+- Presentar la ciencia posnormal como "lo que viene después" de Kuhn en una línea de progreso: no es una etapa posterior, es una respuesta a un **tipo de problema** que el modelo de ciencia normal no puede procesar.
+
+---
+
+# PARCIAL 5 — Primer parcial, Comisión Jueves, 2°C 2025
+
+*4 consignas, sin texto periodístico. Repite el estilo de los parciales 2026. La Consigna 4 introduce un **autor que no aparece en ningún otro parcial ni en los resúmenes**: Lundvall y Freeman (Sistemas Nacionales de Innovación). Ver la advertencia al final.*
+
+---
+
+## Consigna 1
+
+> Explicar por qué el conocimiento científico está "situado geográfica e históricamente" y por qué la ciencia es entendida como una práctica social (Massarini y Schnek, 2015).
+
+### Cómo se llega a esta respuesta
+
+Molde A. Dos afirmaciones que apuntan a lo mismo: contra la imagen de un conocimiento universal, atemporal y neutral. (1) "Situado geográfica e históricamente": el conocimiento depende del contexto —época, lugar, recursos, intereses— en que se produce y se legitima. (2) "Práctica social": la ciencia es una actividad hecha por comunidades, con reglas, financiamiento y relaciones de poder, no la aplicación aséptica de un método. Conviene apoyarse en tecnociencia / Gran ciencia, en los contextos de descubrimiento-justificación-aplicación entremezclados, y cerrar con la consecuencia (la ciencia como "una voz más").
+
+### Respuesta modelo
+
+Massarini y Schnek (2015) rechazan la imagen de la ciencia como un saber **universal, atemporal y neutral** y proponen entenderla como un conocimiento **situado** y como una **práctica social**.
+
+**Situado geográfica e históricamente** significa que qué se investiga, con qué recursos, con qué preguntas y cómo se valida el resultado depende del **contexto concreto** —la época, el país, el sistema económico, los intereses en juego—. Las autoras lo muestran con la etapa de la **tecnociencia** (Hottois): desde la Segunda Guerra Mundial ciencia y tecnología quedan fundidas, y la investigación pasa a organizarse como **"Gran ciencia" (Big Science)** —gran escala, fuertes inversiones, lógica de eficiencia y rentabilidad, financiamiento estatal y militar—. En ese marco, la agenda de investigación de un laboratorio del norte global y la de uno latinoamericano no son las mismas, ni lo son las de 1750, 1950 y hoy: el conocimiento lleva la marca del lugar y del momento en que se produjo. A esto se suma que los **contextos de descubrimiento, justificación y aplicación** están **entremezclados** (no hay una "justificación" pura, ajena a decisiones situadas), de modo que ni siquiera la validación del conocimiento escapa al contexto.
+
+**Práctica social** significa que la ciencia es una **actividad hecha por comunidades humanas** —con sus reglas de producción y validación, sus instituciones, su sistema de financiamiento y reconocimiento, y sus relaciones de poder—, y no la aplicación aséptica de un método por sujetos aislados. Producir conocimiento implica decidir (qué medir, qué publicar, qué descartar), negociar recursos y disputar autoridad. Por eso las autoras discuten la **neutralidad**: si se define la ciencia solo por su método, parece neutral; si se atiende a que es una práctica social situada, la neutralidad y la autonomía se caen.
+
+*(ampliación)* La consecuencia es que, frente a una problemática social compleja, el conocimiento científico es **un aporte parcial más** —"una voz más, no totalizante"— y no la autoridad que la resuelve "racionalmente" (posición dominante). Es la misma idea que, desde la sociología del conocimiento, sostienen Knorr-Cetina (los hechos se fabrican mediante decisiones contingentes) y Latour (el laboratorio fabrica poder social).
+
+### Errores que bajan nota
+
+- Explicar "situado" y "práctica social" como si fueran dos temas distintos: son dos formas de decir que la ciencia **no es universal ni neutral**.
+- Afirmarlo en abstracto ("la ciencia tiene contexto") sin anclarlo en **tecnociencia / Gran ciencia** y en los **contextos** de Reichenbach entremezclados.
+- No cerrar con la consecuencia (crítica a la neutralidad / la ciencia como "una voz más").
+
+---
+
+## Consigna 2
+
+> Explicar el proceso de una revolución científica (Kuhn, 1962) y por qué, para la concepción clásica, la ciencia es escindible de lo social (Merton).
+
+### Cómo se llega a esta respuesta
+
+Consigna de dos partes. (1) El **circuito completo** de la revolución científica de Kuhn. (2) Por qué la **concepción clásica** —representada acá por **Merton**— sostiene que la ciencia se puede **separar ("escindir") de lo social**: el ethos mertoniano es externalista, explica las condiciones institucionales del avance pero **no el contenido** del conocimiento, que quedaría gobernado por factores epistémicos internos. El vínculo entre las dos partes: Kuhn abre la puerta a discutir esa escisión (el paradigma es también social), pero la consigna pide exponer la posición clásica, no refutarla.
+
+### Respuesta modelo
+
+**El proceso de una revolución científica (Kuhn, 1962).** La ciencia madura trabaja bajo un **paradigma**: una realización científica que la comunidad reconoce como fundamento de su práctica. Sobre él se hace **ciencia normal**, un trabajo de articulación y precisión ("limpieza"/*mopping-up*) que no busca novedades. En ese trabajo aparecen **anomalías**: fenómenos que el paradigma no logra encajar. Mientras son pocas se toleran; cuando **se acumulan** y afectan a problemas centrales, se abre una **crisis**: la comunidad pierde confianza en el paradigma y proliferan versiones alternativas y debates sobre fundamentos. De la crisis surge la **competencia entre paradigmas**, hasta que la comunidad **adopta uno nuevo**: eso es la **revolución científica**. El paradigma nuevo es **inconmensurable** con el viejo —no es continuo ni comparable, redefine qué son los hechos y los problemas—. Después la comunidad vuelve a un período de **ciencia normal** bajo el nuevo paradigma, y el ciclo puede recomenzar. Circuito: ciencia normal → anomalías → acumulación → crisis → competencia de paradigmas → revolución → nuevo paradigma → nueva ciencia normal.
+
+**Por qué, para la concepción clásica (Merton), la ciencia es escindible de lo social.** La sociología funcionalista de la ciencia de **Merton** es **externalista**: estudia las **condiciones institucionales** que permiten el avance del conocimiento, pero deja el **contenido** del conocimiento fuera del análisis social, gobernado por factores epistémicos internos (evidencia y razonamiento). Merton describe un **ethos científico**: un conjunto de normas que la comunidad interioriza —**universalismo** (las afirmaciones se juzgan por criterios impersonales, no por la nacionalidad o raza de quien las hace), **comunalismo/comunismo** (los resultados son patrimonio común, se publican), **desinterés** (se actúa por el avance del conocimiento, no por beneficio propio) y **escepticismo organizado** (todo enunciado se somete a escrutinio crítico)—. Si la comunidad respeta ese ethos, la ciencia se **autorregula** y produce conocimiento objetivo con independencia del contexto social: lo social aparece solo como **condición externa** (favorable o desfavorable), nunca como algo que penetre el contenido de las teorías. En esa imagen, entonces, "lo social" y "lo científico" son dos planos **separables**: se puede explicar sociológicamente por qué la ciencia florece en una época y no en otra sin que eso diga nada sobre la **verdad** de sus resultados. Cuando el conocimiento resulta falso o sesgado, la explicación clásica lo atribuye a una **interferencia social externa** que rompió el ethos (asimetría que después el Programa Fuerte critica con el principio de simetría).
+
+*(ampliación)* Kuhn tensiona esa escisión: si el paradigma es también una **práctica** compartida por una comunidad (instrumentos, instituciones, formación, "colegas"), entonces lo cognitivo y lo social del colectivo científico son **indisociables**, y la historia de la ciencia no se puede contar como pura acumulación de verdades ajena a la comunidad que la produce. Pero la posición que la consigna pide exponer —la clásica— es la que sí separa ambos planos.
+
+### Errores que bajan nota
+
+- Contar la revolución científica como "cambian las teorías" sin el **circuito** (anomalía → crisis → competencia → revolución) ni la **inconmensurabilidad**.
+- Explicar a Merton sin nombrar el **ethos** (las cuatro normas) o sin decir que es **externalista** (condiciones sí, contenido no): ahí está el "por qué" de la escisión.
+- Mezclar las dos partes: la consigna no pide refutar a Merton con Kuhn, pide exponer el proceso kuhniano **y** la tesis clásica de la escisión.
+
+> **Nota sobre bibliografía:** el **ethos de Merton** no está desarrollado en los resúmenes de base (quedó como texto complementario, vía Kreimer, *El científico también es un ser humano*, cap. 3). Está agregado "de mínima" en [Resumen-Parcial-Conceptos.md](Resumen-Parcial-Conceptos.md) porque apareció en este parcial y en el recuperatorio 2°C 2025.
+
+---
+
+## Consigna 3
+
+> Explicar la noción de "incertidumbre" y de "Ciencia Posnormal" (Funtowicz y Ravetz, 2000).
+
+### Cómo se llega a esta respuesta
+
+Molde A. Dos conceptos ligados: primero **incertidumbre** con sus **tres niveles** (técnico / metodológico / epistemológico), después **ciencia posnormal** (cuándo aplica y qué propone). El orden natural es incertidumbre → posnormal, porque la segunda se define por el tipo de incertidumbre que enfrenta.
+
+### Respuesta modelo
+
+**Incertidumbre (Funtowicz y Ravetz, 2000).** No toda incertidumbre es igual; los autores distinguen **tres niveles**:
+
+- **Técnico:** la **inexactitud** de una medición o un dato. Se maneja con **rutinas estadísticas estándar** (márgenes de error, intervalos de confianza).
+- **Metodológico:** la **no confiabilidad** de un procedimiento o un modelo. No se resuelve con más cálculo, sino con **juicio experto** de alto nivel, un "arte aprendido" (como en la medicina o la ingeniería).
+- **Epistemológico:** el **límite con la ignorancia**. La incertidumbre es **irremediable** y central al problema; incluye la "ignorancia de la ignorancia" ("ignorancia al cuadrado"): no sabemos qué es lo que no sabemos.
+
+El punto de fondo es que **la incertidumbre no puede eliminarse de la ciencia**, y que en los problemas ambientales globales la variabilidad aleatoria tradicional (nivel técnico) suele ser **pequeña** frente a las incertidumbres metodológica y epistemológica, que son las que deciden. Para comunicarlas de forma transparente proponen la notación **NUSAP** (Numeral, Unit, Spread, Assessment, Pedigree).
+
+**Ciencia posnormal.** Es la forma de práctica científica adecuada cuando **la incertidumbre es alta** (del tipo epistemológico) y **hay mucho en juego** (decisiones con fuerte carga de valores) — típicamente el riesgo ambiental global. Sus rasgos:
+
+- Los problemas son de **escala global y larga duración**, con datos **radicalmente inadecuados**, complejos y novedosos.
+- La ciencia solo puede ofrecer **modelos y simulaciones no testeables**, no teorías comprobadas experimentalmente.
+- Aplicada a lo político, **no da certeza ni resuelve los valores en conflicto**, que están en el planteo mismo del problema.
+- "Lo salvaje ha penetrado en el laboratorio": los "experimentos" de escala regional (Chernobyl, Bhopal, Exxon Valdez) no son aislados, ni repetibles, ni detenibles a voluntad.
+- Evaluar la **calidad** exige mirar producto, proceso y personas ("p al cubo") e incorporar una **comunidad de pares extendida** —ciudadanos y actores afectados— porque la revisión entre especialistas ya no alcanza.
+- Cambia la meta de la ciencia: ya no "alcanzar la Verdad y conquistar la naturaleza", sino una **relación armoniosa entre humanidad y naturaleza**, admitiendo otras formas de conocimiento.
+
+*(ampliación)* Contraste con Kuhn: la ciencia posnormal no es una etapa posterior a la ciencia normal, sino la respuesta a un tipo de problema en el que la **comunidad de pares cerrada** y las certezas del paradigma se vuelven insuficientes. Enlaza con la "ciencia entre todxs" (Massarini y Schnek) y el silogismo CTS (López Cerezo).
+
+### Errores que bajan nota
+
+- Hablar de "incertidumbre" en general sin los **tres niveles**, sobre todo el **epistemológico**, que es el que justifica la ciencia posnormal.
+- Explicar la ciencia posnormal sin las **dos condiciones** que la activan (alta incertidumbre + mucho en juego).
+- No conectar los dos conceptos: la ciencia posnormal se define por el **tipo de incertidumbre** (epistemológica) que enfrenta.
+
+---
+
+## Consigna 4
+
+> Explicar las características de los SNI atribuidas por Lundvall y Freeman (2009) y establecer diferencias y similitudes con la propuesta de Sábato-Botana (1970).
+
+### Cómo se llega a esta respuesta
+
+Molde D: exponer un marco y compararlo con otro. Primero las características de los **Sistemas Nacionales de Innovación (SNI)** de Lundvall y Freeman; después el cuadro de **similitudes y diferencias** con el Triángulo de Sábato. El eje de comparación: ambos son enfoques **sistémicos** de la innovación (contra el modelo lineal), pero difieren en época, propósito (analítico vs. estratégico-normativo), en qué ponen el centro (aprendizaje interactivo vs. capacidades de los vértices) y en el contexto para el que fueron pensados (países ya industrializados vs. América Latina dependiente).
+
+> ⚠️ **Advertencia de bibliografía.** Lundvall y Freeman **no aparecen en `Contenidos/`, ni en los resúmenes, ni en ningún otro de los cinco parciales**. Esta respuesta se apoya en la formulación estándar del concepto de SNI (Freeman, *Technology Policy and Economic Performance: Lessons from Japan*, 1987; Lundvall, *National Systems of Innovation*, 1992), no en un texto de cátedra confirmado. **Verificá con tu programa y tus apuntes** si este autor entra en tu comisión antes de estudiarlo a fondo.
+
+### Respuesta modelo
+
+**Características de los Sistemas Nacionales de Innovación (SNI).** El concepto lo acuña **Christopher Freeman** (1987), estudiando el éxito industrial de Japón, y lo sistematiza **Bengt-Åke Lundvall** (1992). Un SNI es la **red de instituciones —públicas y privadas— cuyas actividades e interacciones producen, importan, modifican y difunden nuevas tecnologías** dentro de un país. Rasgos centrales:
+
+- **Enfoque sistémico, no lineal.** La innovación no es una cadena que va "de la investigación básica al producto": surge de **interacciones** entre muchos actores (empresas, universidades, institutos tecnológicos, agencias estatales, sistema financiero, sistema educativo, organismos de normalización). El desempeño innovador de un país depende de **cómo se relacionan** esos actores, no de cuánto invierte cada uno por separado.
+- **El aprendizaje interactivo como núcleo** (Lundvall). El recurso más importante es el **conocimiento** y el proceso más importante es el **aprendizaje**, que es **interactivo** y **socialmente enraizado**. Caso paradigmático: las **relaciones usuario-productor**, donde el que fabrica y el que usa una tecnología intercambian información y van mejorando el producto. Buena parte de ese conocimiento es **tácito** (no codificable, se transmite en la práctica y en la cercanía).
+- **Peso de las instituciones.** Reglas, normas, rutinas, hábitos, marcos legales, sistema de formación profesional, sistema financiero: todo eso configura qué y cómo se aprende. Por eso los SNI son **nacionales** —cada país tiene su historia, su cultura, su lengua, su entramado institucional— y no se pueden trasplantar sin más.
+- **Innovación incremental y acumulativa.** No se reduce a los grandes saltos: es sobre todo un flujo continuo de **mejoras pequeñas**, dependiente de la trayectoria previa (*path dependence*).
+- **Definición estrecha vs. amplia** (Lundvall): la *estrecha* incluye solo las organizaciones de I+D; la *amplia* abarca toda la estructura económica y el entramado institucional que afecta al aprendizaje. Lundvall privilegia la amplia.
+
+**Similitudes con Sábato y Botana.**
+
+- Ambos son enfoques **sistémicos/relacionales** de la innovación: lo decisivo no es cada actor aislado sino las **relaciones** entre ellos (las **inter-relaciones** del triángulo ≈ las **interacciones** del SNI; las relaciones usuario-productor de Lundvall ≈ la inter-relación horizontal infraestructura↔estructura productiva de Sábato).
+- Los dos **rechazan el modelo lineal** (`+ciencia = +tecnología = +riqueza`): tener buena investigación no garantiza innovar.
+- Los dos distinguen **investigación de innovación** y dan a la innovación un carácter **institucional y contextual** (Sábato: depende de valores, tradición, comercialización; Lundvall/Freeman: depende de las instituciones nacionales).
+- En ambos el **Estado y las políticas** tienen un rol de articulación (Freeman analiza el papel del MITI japonés; Sábato, el vértice-gobierno con "capacidad de acción deliberada").
+
+**Diferencias.**
+
+| | Sábato y Botana (1968/70) | Lundvall y Freeman (SNI, 1987/92) |
+|---|---|---|
+| Tipo de planteo | **Normativo y estratégico**: una propuesta para *construir* una capacidad que América Latina **no tiene**. | **Analítico-descriptivo**: una herramienta para *explicar y comparar* el desempeño de países **ya industrializados** (Japón, OCDE). |
+| Contexto | América Latina **dependiente**: rol de "espectador", compra de patentes, **fuga de cerebros**. | Economías centrales que compiten entre sí en la "economía del aprendizaje". |
+| Qué está en el centro | Las **tres capacidades** (de acción deliberada, creadora, empresarial) y la **geometría del triángulo** (3 vértices, intra/inter/extra-relaciones). | El **aprendizaje interactivo**, el conocimiento **tácito** y las **instituciones** que lo condicionan. |
+| Actores | **Tres** vértices definidos por función (gobierno, infraestructura científico-tecnológica, estructura productiva). | Red **abierta** y más amplia (se suman explícitamente sistema financiero, sistema educativo/formación, usuarios, normalización). |
+| Estrategia | Implantar triángulos en **unidades limitadas** (INTA, SATI) como modelos replicables. | No hay "receta": cada SNI es histórico y nacional; las políticas deben adaptarse a él. |
+
+*(ampliación)* Puede sumarse que ambos anticipan o comparten el diagnóstico de **Mazzucato**: el Estado no se limita a corregir fallas de mercado, sino que **coordina y orienta** el sistema de innovación (el MITI en Freeman, el vértice-gobierno en Sábato, el "Estado que dinamiza" en Mazzucato).
+
+### Errores que bajan nota
+
+- Describir los SNI como "el país que más invierte en I+D innova más": es justamente el **modelo lineal** que el enfoque de sistemas **niega**. El centro es la **interacción** y el **aprendizaje**.
+- Hacer solo la lista de un autor y del otro sin el cuadro de **similitudes y diferencias**, que es lo que la consigna pide.
+- Igualar sin más el triángulo de Sábato con el SNI: comparten el enfoque sistémico, pero difieren en propósito (estratégico vs. analítico) y en contexto (periferia vs. centro).
+
+---
+
+## Aviso general sobre estos dos parciales
+
+- **Parcial 4** confirma la bibliografía de base y agrega, dentro de Massarini y Schnek, dos pedidos que conviene tener listos: los **tres contextos** (descubrimiento, justificación y **aplicación**) y la definición de **técnica vs. tecnología**. Ambos están ahora en [Resumen-Parcial-Conceptos.md](Resumen-Parcial-Conceptos.md) marcados con ⭐.
+- **Parcial 5** agrega el **ethos de Merton** (que estaba solo como complementario) y, sobre todo, **Lundvall y Freeman (SNI)**, que **no está en el material de la cátedra que tenemos**. Si tu comisión no dio ese texto, es probable que esa consigna corresponda a otro programa o a otra comisión — confirmalo antes de dedicarle tiempo.

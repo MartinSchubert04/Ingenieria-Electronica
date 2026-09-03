@@ -1,6 +1,6 @@
 # Resumen para el parcial — todos los conceptos por texto
 
-Diccionario de conceptos de **la bibliografía de base de `Contenidos/`** (Unidad 1 y 2), desarrollados "de mínima": cada entrada tiene una definición y una explicación breve suficiente para responder en el parcial. Marcado con ⭐ lo que **salió en los parciales de 2026** o está directamente conectado. (Los textos de las carpetas `Complementarios/`/`Complementaria/` quedan fuera: no son obligatorios para este parcial.)
+Diccionario de conceptos de **la bibliografía de base de `Contenidos/`** (Unidad 1 y 2), desarrollados "de mínima": cada entrada tiene una definición y una explicación breve suficiente para responder en el parcial. Marcado con ⭐ lo que **salió en los parciales reales de 2025–2026** o está directamente conectado. (Los textos de las carpetas `Complementarios/`/`Complementaria/` quedan fuera: no son obligatorios para este parcial, salvo el **ethos de Merton**, agregado abajo porque apareció en parciales 2025.)
 
 Complementa a [Resumenes-unidad-1.md](Resumenes-unidad-1.md), [Resumenes-unidad-2.md](Resumenes-unidad-2.md), la [Guia-Estudio-Parcial-1.md](Guia-Estudio-Parcial-1.md) y los [Parciales-Resueltos.md](Parciales-Resueltos.md).
 
@@ -11,14 +11,16 @@ Complementa a [Resumenes-unidad-1.md](Resumenes-unidad-1.md), [Resumenes-unidad-
 # Qué tema toca cada autor (índice rápido)
 
 - **Kuhn (1962)** ⭐ — paradigma, ciencia normal, comunidad de pares cerrada, restricción productiva de la visión ("anteojeras"), anomalía-crisis-revolución, inconmensurabilidad.
-- **Massarini y Schnek (2015)** ⭐ — ciencia no neutral ni autónoma; problema científico (teórico/general/simple) vs. problemática social compleja (práctica/particular/compleja); "ciencia entre todxs" y democratización del conocimiento.
+- **Massarini y Schnek (2015)** ⭐ — ciencia no neutral ni autónoma; conocimiento situado / ciencia como práctica social; **3 contextos** (descubrimiento, justificación, aplicación) ⭐; **técnica vs. tecnología** ⭐; problema científico (teórico/general/simple) vs. problemática social compleja (práctica/particular/compleja); "ciencia entre todxs" y democratización del conocimiento.
 - **Funtowicz y Ravetz (2000)** ⭐ — ciencia posnormal; por qué la ciencia normal no alcanza ante riesgos globales; tres niveles de incertidumbre; comunidad de pares extendida; "lo salvaje penetró en el laboratorio".
-- **Knorr-Cetina** ⭐ — constructivismo: el hecho se fabrica, no se descubre; carga de decisiones; "ciencia hecha" vs. "ciencia mientras se hace"; etnografía de laboratorio.
+- **Knorr-Cetina** ⭐ — constructivismo: el hecho se fabrica, no se descubre; carga de decisiones; "ciencia hecha" vs. "ciencia mientras se hace"; etnografía de laboratorio; **la autonomía de la ciencia como "ficción"** ⭐; arenas transepistémicas.
 - **Latour (1983 / 2010)** ⭐ — caso Pasteur/ántrax (traducir intereses, laboratorio como palanca, invertir la relación de fuerzas); artefactos de inscripción; actor-red; el paradigma como práctica, no como "visión del mundo".
 - **López Cerezo (2017)** — origen del campo CTS; modelo lineal de desarrollo; 5 mitos del I+D (Sarewitz); quiebre de confianza (Sputnik, Silent Spring, Mayo del 68); silogismo CTS; evaluación y control social.
 - **Sábato y Botana (1968)** ⭐ — Triángulo de Sábato: 3 vértices (gobierno / infraestructura CyT / estructura productiva), 3 capacidades, intra/inter/extra-relaciones; investigación ≠ innovación; fuga de cerebros; INTA.
 - **Mazzucato (2013)** — Estado emprendedor: del "corrector de fallas" al que dinamiza y asume el riesgo; incertidumbre knightiana; iPhone / DARPA / BNDES; batalla discursiva.
-- **Merton / Bourdieu / Knorr-Cetina vía Kreimer (2009)** — ethos científico y efecto Mateo (Merton); campo científico y capital científico (Bourdieu); arenas transepistémicas (Knorr-Cetina).
+- **Merton** ⭐ — ethos científico (universalismo, comunalismo, desinterés, escepticismo organizado); externalismo: la ciencia es "escindible de lo social"; efecto Mateo. *(Complementario, vía Kreimer; salió en parciales 2025.)*
+- **Lundvall y Freeman (SNI)** ⭐ — Sistemas Nacionales de Innovación: enfoque sistémico y no lineal; aprendizaje interactivo; instituciones nacionales. *(No está en `Contenidos/`; apareció en un parcial 2°C 2025 — ver advertencia.)*
+- **Bourdieu vía Kreimer (2009)** — campo científico, capital científico, dominantes/dominados, habitus. *(Complementario, no salió.)*
 
 ---
 
@@ -89,10 +91,19 @@ Concepto de Hottois: fusión íntima entre ciencia y tecnología a partir de la 
 ### Gran ciencia (Big Science)
 Investigación a gran escala, intensiva en capital, con fuertes inversiones y lógica de "eficiencia"/"rentabilidad"; orientada a resultados específicos, con poco margen para la investigación "libre". Efecto social señalado (Lelas, 2000): profundiza la **inequidad**.
 
-### Contexto de descubrimiento / contexto de justificación (Reichenbach)
-- **Descubrimiento**: la atmósfera cultural, social y psicológica donde surgen las ideas.
-- **Justificación**: la validación mediante demostraciones y experimentos.
-La imagen clásica dice que solo el segundo importa epistemológicamente. Massarini y Schnek (y Knorr-Cetina) sostienen que ambos están **entremezclados**: también la "justificación" ocurre mediante decisiones y negociaciones situadas.
+### ⭐ Los tres contextos (descubrimiento / justificación / aplicación)
+Ampliación de la distinción de **Reichenbach** que las autoras retoman:
+- **Contexto de descubrimiento**: la atmósfera cultural, social, económica y psicológica donde surgen las ideas y las preguntas (qué se considera un problema, quién lo financia, qué intereses lo impulsan).
+- **Contexto de justificación**: la validación del conocimiento mediante demostraciones, contrastación empírica y revisión de la comunidad. La imagen clásica dice que **solo este** importa epistemológicamente (y por eso la ciencia parecería neutral).
+- **Contexto de aplicación**: qué se hace con el conocimiento, con qué fines, a beneficio de quién y con qué consecuencias sociales y ambientales. Es el que la epistemología tradicional dejaba afuera y el que las autoras **reincorporan**: no es un "después" ajeno a la ciencia, retroactúa sobre qué se investiga y cómo se legitima.
+
+Massarini y Schnek (y Knorr-Cetina) sostienen que los tres están **entremezclados**: también la "justificación" ocurre mediante decisiones y negociaciones situadas, y la aplicación condiciona el descubrimiento. Por eso la separación tajante que exige la imagen de la ciencia autónoma no se sostiene. *(Salió en el Parcial Comisión Martes 2026, consigna 1a.)*
+
+### ⭐ Técnica y tecnología (cómo las definen las autoras)
+- **Técnica**: el conjunto de procedimientos y habilidades prácticas —el "saber hacer"— para resolver problemas concretos y transformar el entorno. Es **muy anterior a la ciencia moderna**, se transmite por **práctica, tradición y oficio**, y no necesita una teoría científica que la fundamente (metalurgia, agricultura, navegación funcionaron milenios sin física ni química).
+- **Tecnología**: la técnica que **incorpora conocimiento científico** de forma sistemática. Se vuelve dominante con la **tecnociencia** (Hottois) posterior a la 2ª Guerra, cuando producción de conocimiento y aplicación técnica quedan fundidas y atadas a inversiones e intereses económicos y militares.
+
+Para qué lo usan: si hay un contexto de aplicación con peso propio y la ciencia actual es inseparable de la tecnología, la idea de una ciencia "pura", neutral y autónoma **cae**. *(Salió en el Parcial Comisión Martes 2026, consigna 1a.)*
 
 ### ⭐ Problema de las ciencias naturales vs. problemática social compleja
 - **Problema científico (ciencias naturales)**: **teórico** (se formula dentro de un marco teórico que define qué es relevante), **general** (busca leyes universales; Galileo: el universo "escrito en lenguaje matemático") y **simple** (recorta y aísla un número acotado de variables; ligado al **reduccionismo**).
@@ -222,6 +233,9 @@ Es la única de las tres perspectivas que incorpora **explícitamente a actores 
 ### Relaciones de recursos
 Lo que los científicos necesitan para hacer ciencia y que va más allá del dinero: relaciones interpersonales, materiales, institucionales (con autoridades, agencias de financiamiento, proveedores de equipos, empresas). La **autonomía** del científico es, desde esta mirada, "una ficción, una idealización".
 
+### ⭐ Qué piensa Knorr-Cetina sobre la autonomía de la ciencia
+Que es **una ficción**. La ciencia no se autorregula al margen de la sociedad ni sigue una lógica puramente interna. Dos argumentos: (1) la **carga de decisiones** — cada paso de la investigación se resuelve por selecciones *situacionalmente contingentes* (recursos, tradición del laboratorio, intereses, lo publicable/financiable), no por "la naturaleza"; (2) las **arenas transepistémicas** — la práctica científica se teje con actores **no científicos** (agencias, proveedores, empresas, autoridades) que participan en las decisiones técnicas. Contra Merton (autonomía normativa de la comunidad): el científico es un **razonador práctico / "bricoleur"**, no un sujeto que aplica un método puro. *(Salió en el Parcial Comisión Martes 2026, consigna 2b.)*
+
 ### Origen: de Merton a Edimburgo (estudio preliminar de Kreimer)
 Merton explicaba la ciencia "verdadera" por la autonomía normativa de la comunidad, y el conocimiento "falso" por factores sociales externos. Bloor le reprocha esa **asimetría** y propone el **principio de simetría**. Con el "recurso histórico" marcado por Kuhn, emerge la corriente **constructivista**. A fines de los 70, "descubrimiento simultáneo" de los **estudios de laboratorio**: Latour y Woolgar, *Laboratory Life* (1979); Knorr-Cetina (1981); Lynch (1982) — etnografía de la práctica científica *in situ*.
 
@@ -255,6 +269,28 @@ Cierre (sobre el lema de Clausewitz): la ciencia hace política con **medios nue
 
 ### Conclusión metodológica
 Los sociólogos de la ciencia no deben restringirse tímidamente al "nivel" del laboratorio: deben **perseguir al hecho científico a través de todas sus transformaciones**, incluso hacia el macronivel, porque es en los laboratorios donde se generan hoy las nuevas fuentes de poder social.
+
+---
+
+## 7. Merton — ethos científico *(complementario, vía Kreimer, 2009)*
+
+⭐ **No está en la bibliografía de base, pero apareció en los parciales de 2°C 2025** (recuperatorio y primer parcial). Sirve para las consignas que piden "la concepción clásica" o comparar con Knorr-Cetina / Kuhn.
+
+### ⭐ Ethos científico (las cuatro normas / "CUDOS")
+Conjunto de normas que la comunidad científica interioriza y que, si se respetan, permiten que la ciencia se **autorregule** y produzca conocimiento objetivo:
+- **Universalismo**: las afirmaciones se juzgan por criterios impersonales, no por la nacionalidad, raza, religión o prestigio de quien las hace.
+- **Comunalismo / comunismo (communism)**: los resultados son patrimonio común de la comunidad; se publican, no se guardan como secreto (a cambio, se recibe **reconocimiento**).
+- **Desinterés**: se actúa por el avance del conocimiento, no por beneficio personal; el control por pares lo hace cumplir.
+- **Escepticismo organizado**: todo enunciado se somete a escrutinio crítico antes de aceptarse; nada queda exento de examen.
+
+### ⭐ Externalismo: por qué la ciencia sería "escindible de lo social"
+La sociología funcionalista de Merton es **externalista**: explica las **condiciones institucionales** que permiten (o frenan) el avance del conocimiento, pero deja el **contenido** del conocimiento fuera del análisis social, gobernado por factores epistémicos internos. Lo social es **condición externa**, no algo que penetre las teorías. Si el conocimiento resulta falso o sesgado, se lo atribuye a una **interferencia social externa** que rompió el ethos → **asimetría** (verdad = autonomía de la comunidad; error = causas sociales) que el **Programa Fuerte** (Bloor) critica con el **principio de simetría**.
+
+### Sistema de recompensas / efecto Mateo
+La ciencia funciona como un intercambio: el científico entrega conocimiento a la comunidad y recibe **reconocimiento** (eponimia: leyes, unidades y efectos con nombre propio). **Efecto Mateo**: el reconocimiento tiende a acumularse en los ya famosos ("al que tiene se le dará"), en desmedro de los menos conocidos que hicieron aportes equivalentes.
+
+### Conciliable con Kuhn y Knorr-Cetina (nivel de análisis distinto)
+Merton describe el marco **normativo-institucional** (macro); Kuhn, el nivel **cognitivo-paradigmático**; Knorr-Cetina, el nivel **micro-práctico** del laboratorio. No son teorías rivales sobre lo mismo: son **capas entremezcladas** de un mismo proceso (esto es lo que pide la consigna 2 del recuperatorio 2°C 2025).
 
 ---
 
@@ -342,6 +378,26 @@ El Estado no solo **incentiva** la inversión privada (argumento keynesiano corr
 
 ### ⭐ Puente con Sábato y Botana
 El vértice-**gobierno con "capacidad de acción deliberada"** de Sábato es prácticamente el **"Estado que dinamiza"** de Mazzucato: dirige activamente la inversión hacia áreas estratégicas de alto riesgo. El **BNDES** es una realización tardía del tipo de institución que Sábato imaginaba con el **INTA**. Ambos critican el **modelo lineal** de López Cerezo: el desarrollo no se sigue automáticamente ni de "más ciencia" ni de "más mercado libre".
+
+---
+
+## 3. Lundvall y Freeman — Sistemas Nacionales de Innovación (SNI)
+
+⭐ **Apareció en el primer parcial de 2°C 2025 (Comisión Jueves), pero NO está en `Contenidos/` ni en ningún otro parcial.** Esta entrada se basa en la formulación estándar del concepto (Freeman, 1987; Lundvall, 1992), no en un texto de cátedra confirmado. **Verificá con tu programa** si tu comisión lo dio.
+
+### Qué es un SNI
+La **red de instituciones —públicas y privadas— cuyas actividades e interacciones producen, importan, modifican y difunden nuevas tecnologías** dentro de un país. El concepto lo acuña **Christopher Freeman** (1987) estudiando el éxito industrial de Japón (rol del MITI); lo sistematiza **Bengt-Åke Lundvall** (1992).
+
+### Características
+- **Sistémico, no lineal**: la innovación no va "de la investigación básica al producto", surge de **interacciones** entre muchos actores (empresas, universidades, institutos, agencias estatales, sistema financiero, sistema educativo). Importa **cómo se relacionan**, no cuánto invierte cada uno por separado.
+- **Aprendizaje interactivo como núcleo** (Lundvall): el recurso clave es el **conocimiento** y el proceso clave es el **aprendizaje**, interactivo y socialmente enraizado. Caso típico: las **relaciones usuario-productor**. Mucho conocimiento es **tácito** (no codificable).
+- **Instituciones**: reglas, normas, rutinas, marcos legales, formación profesional, sistema financiero configuran qué y cómo se aprende. Por eso los SNI son **nacionales** (historia, cultura, lengua) y no se trasplantan.
+- **Innovación incremental y acumulativa**: sobre todo mejoras pequeñas, dependientes de la trayectoria previa (*path dependence*).
+- **Definición estrecha vs. amplia**: estrecha = solo organizaciones de I+D; amplia = toda la estructura económica e institucional que afecta al aprendizaje (Lundvall prefiere la amplia).
+
+### Similitudes y diferencias con Sábato y Botana
+- **Similitudes**: los dos son **sistémicos/relacionales** (lo decisivo son las relaciones entre actores); los dos **rechazan el modelo lineal**; los dos distinguen **investigación de innovación** y le dan a esta carácter institucional; en los dos el Estado articula.
+- **Diferencias**: Sábato es **normativo-estratégico** (construir una capacidad que A.L. no tiene, contexto de dependencia, fuga de cerebros); SNI es **analítico-descriptivo** (explicar y comparar países ya industrializados). Sábato pone el centro en las **3 capacidades** y la **geometría del triángulo** (3 vértices); SNI, en el **aprendizaje**, el conocimiento **tácito** y las **instituciones**, con una red de actores **más amplia y abierta** (suma sistema financiero, educativo, usuarios).
 
 ---
 
