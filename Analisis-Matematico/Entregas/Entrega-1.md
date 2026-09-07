@@ -8,6 +8,7 @@ d = diametro de la circunferencia
 r = radio de la circunferencia
 P = perimetro
 C = circunferencia
+S = superficie
 
 Ahora sabiendo que la relacion del perimetro y el diametro es $\pi$, para hallar el perimetro de un circulo y un cuadrado planteo lo siguiente
 
@@ -28,6 +29,18 @@ $P = 2a + 2b - b + \frac{b\pi}{2}$
 $P = 2a + b + \frac{b\pi}{2}$
 
 Se le resta a porque solo se suman los cuatros lados rectos y para el lado que seria una semiesfera se calcula con la formula de C y se divide por dos ya que es la mitad del circulo
+
+Superficie de la ventana:
+
+La superficie es la suma del area del rectangulo mas el area del semicirculo
+
+$S = S_{rectangulo} + \frac{S_{circulo}}{2}$  
+$S = a*b + \frac{\pi r^2}{2}$
+
+Como $r = \frac{b}{2}$, reemplazo:
+
+$S = ab + \frac{\pi \left(\frac{b}{2}\right)^2}{2}$  
+$S = ab + \frac{\pi b^2}{8}$
 
 2.
 
@@ -59,14 +72,21 @@ $a = \frac{350cm - b - \frac{b\pi}{2}}{2}$
 
 5.
 
-Planteo lo mismo que en el 4 pero despejo $b$ esta vez en funcion de $a$
+Ahora reemplazo el valor de $a$ hallado en el punto 4 dentro de la formula de la superficie del punto 1, para dejar $S$ en funcion unicamente de $b$
 
-$P = 2a + b + \frac{b\pi}{2}$  
-$b = P - 2a - \frac{b\pi}{2}$  
-$b + \frac{b\pi}{2}= P - 2a$  
-$b(2+\pi) = 2P - 4a$  
-$b = \frac{2P - 4a}{2+\pi}$  
-$b = \frac{2*350cm - 4a}{2+\pi}$
+$S = ab + \frac{\pi b^2}{8}$
+
+$S(b) = b*\frac{350cm - b - \frac{b\pi}{2}}{2} + \frac{\pi b^2}{8}$
+
+Distribuyo:
+
+$S(b) = \frac{350cm*b - b^2 - \frac{\pi b^2}{2}}{2} + \frac{\pi b^2}{8}$  
+$S(b) = 175cm*b - \frac{b^2}{2} - \frac{\pi b^2}{4} + \frac{\pi b^2}{8}$
+
+Agrupo los terminos con $b^2$ ($-\frac{\pi}{4} + \frac{\pi}{8} = -\frac{\pi}{8}$):
+
+$S(b) = 175cm*b - \frac{b^2}{2} - \frac{\pi b^2}{8}$  
+$S(b) = 175cm*b - \left(\frac{4+\pi}{8}\right)b^2$
 
 6.
 
