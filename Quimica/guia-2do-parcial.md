@@ -65,7 +65,7 @@ Cuatro problemas de 25 puntos, y siempre los mismos cuatro temas:
       y el de 2022 (motor, 60%). Ese "solo un X% del calor se aprovecha" cae siempre.
 - [ ] **14** — Friopack de NH₄NO₃: ΔH de disolución por calorimetría, en kJ/mol.
       Calcado al P3a de 2025 (HNO₃ en calorímetro).
-- [ ] **4** — Barra de hierro + agua + recipiente de 100 J/K. Equilibrio térmico con
+- [x] **4** — Barra de hierro + agua + recipiente de 100 J/K. Equilibrio térmico con
       calorímetro **no** ideal. Es el P3b de 2023 y el P3b de 2025 (constante del calorímetro).
 - [ ] **7** — Butadieno vs metil-vinil éter. Entalpías de disociación de enlace,
       comparación de combustibles y poder calorífico por cm³ con gases ideales. Es el P3c de 2022.
@@ -91,7 +91,7 @@ Son solo 8 problemas, así que casi todos valen. En orden de prioridad:
 
 - [ ] **7** — Oxidación del hierro. **El más importante de la serie.** ΔS° desde entropías
       absolutas, ΔH°, y ΔG° a 25 °C. Es el esqueleto exacto del P4 de 2022 y 2024.
-- [ ] **2** — Signo de ΔS sin calcular, 4 casos. El P4c de 2025 pide textualmente
+- [x] **2** — Signo de ΔS sin calcular, 4 casos. El P4c de 2025 pide textualmente
       "predecir el signo de ΔS sin cálculos, justificar". Cinco minutos, puntaje regalado.
 - [ ] **3** — ΔS°r con tabla, racionalizando el signo. La versión con números del anterior.
 - [ ] **8** — ΔS del universo en la solidificación a −10 °C. El más exigente: obliga a
