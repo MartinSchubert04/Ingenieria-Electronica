@@ -48,8 +48,9 @@ va a `Parciales/2ª Parcial/Resueltos/`. Las resoluciones de otros quedaron en
       ΔG, adiabático, temperatura de inversión). Sin resolución.
 - [ ] **3. `2ndo parcial quimicagral cuatrimestre22024.pdf`** — 2C 2024, el último del
       mismo cuatrimestre que el tuyo. Paracetamol, tanques + densidad en **torr sin
-      equivalencia**, calorímetro + ΔU + Hess, acetona con ΔG vs T. Tiene anotaciones a
-      mano de otro alumno encima; taparlas. Sin resolución.
+      equivalencia**, calorímetro + ΔU + Hess, acetona con ΔG vs T. **Es un examen
+      corregido** (75 puntos): la resolución del alumno está escrita sobre la consigna,
+      con los tildes del docente. Taparla al resolver y usarla después como clave.
 - [ ] **4. `Copia de 2P 2C2022.pdf`** — 04/10/2022. Ca₃P₂, mezcla + válvula, octano con
       ΔH°f y entalpías de enlace, ΔS/ΔG. **Tiene resolución:** `../Copia de resolucion 2P.pdf`.
       Es el mejor para autocorregirse.
