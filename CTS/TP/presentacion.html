@@ -1,0 +1,562 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Megacentros de datos en la Patagonia — TPF CTS</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a1c26;
+    --surface: #11303d;
+    --line: #2a5566;
+    --text: #eef3f1;
+    --muted: #a3bac0;
+    --water: #56c8cc;
+    --arid: #e6ab5a;
+    --alert: #ec7b5e;
+    --serif: "Fraunces", Georgia, "Times New Roman", serif;
+    --sans: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { height: 100%; background: #050e13; color: var(--text); font-family: var(--sans); overflow: hidden; }
+
+  .deck { position: fixed; inset: 0; }
+  .slide {
+    position: absolute; top: 50%; left: 50%;
+    width: 1280px; height: 720px;
+    transform: translate(-50%, -50%) scale(var(--s, 1));
+    background: var(--bg);
+    padding: 56px 72px 64px;
+    display: flex; flex-direction: column;
+    opacity: 0; visibility: hidden; transition: opacity .45s ease, visibility 0s .45s;
+    overflow: hidden;
+  }
+  .slide.active { opacity: 1; visibility: visible; transition: opacity .45s ease; }
+
+  .kicker { font-size: 15px; font-weight: 600; letter-spacing: .16em; text-transform: uppercase; color: var(--water); margin-bottom: 14px; }
+  .kicker b { color: var(--arid); font-weight: 700; margin-right: 10px; }
+  h1 { font-family: var(--serif); font-weight: 700; font-size: 68px; line-height: 1.04; letter-spacing: -.01em; }
+  h2 { font-family: var(--serif); font-weight: 700; font-size: 44px; line-height: 1.1; margin-bottom: 28px; max-width: 1040px; }
+  h3 { font-size: 21px; font-weight: 700; margin-bottom: 8px; }
+  p, li { font-size: 23px; line-height: 1.42; }
+  .muted { color: var(--muted); }
+  .water { color: var(--water); } .arid { color: var(--arid); } .alert { color: var(--alert); }
+  em.term { font-style: normal; font-weight: 600; color: var(--arid); }
+  ul { list-style: none; }
+  ul.dots li { position: relative; padding-left: 26px; margin-bottom: 12px; }
+  ul.dots li::before { content: ""; position: absolute; left: 0; top: .62em; width: 10px; height: 10px; border-radius: 50%; background: var(--water); }
+  .body { flex: 1; min-height: 0; display: flex; flex-direction: column; justify-content: center; }
+  .cols { display: grid; gap: 28px; align-items: stretch; }
+  .c2 { grid-template-columns: 1fr 1fr; } .c3 { grid-template-columns: repeat(3, 1fr); }
+  .c-img { grid-template-columns: 1.15fr 1fr; align-items: center; }
+
+  .card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 24px 26px; }
+  .card p, .card li { font-size: 20px; }
+  .card .tag { font-size: 13px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin-bottom: 10px; }
+  .card.w { border-top: 4px solid var(--water); } .card.a { border-top: 4px solid var(--arid); } .card.r { border-top: 4px solid var(--alert); }
+
+  .stat .n { font-family: var(--serif); font-weight: 700; font-size: 62px; line-height: 1; margin-bottom: 10px; font-variant-numeric: tabular-nums; }
+  .stat p { font-size: 19px; color: var(--muted); }
+
+  blockquote { font-family: var(--serif); font-size: 31px; line-height: 1.3; border-left: 4px solid var(--arid); padding-left: 24px; }
+  cite { display: block; font-style: normal; font-size: 17px; color: var(--muted); margin-top: 12px; padding-left: 28px; }
+
+  figure { position: relative; border-radius: 14px; overflow: hidden; background: var(--surface); height: 100%; min-height: 0; }
+  figure img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  figcaption { position: absolute; left: 0; right: 0; bottom: 0; padding: 22px 14px 8px; font-size: 13px; color: #dfe9e7; background: linear-gradient(transparent, rgba(4,14,19,.85)); }
+
+  .src { position: absolute; left: 72px; right: 150px; bottom: 22px; font-size: 13.5px; color: var(--muted); }
+  .num { position: absolute; right: 72px; bottom: 20px; font-size: 14px; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+  /* fichas de postura, con las categorías de la cátedra */
+  dl.ficha { display: grid; grid-template-columns: 178px 1fr; column-gap: 20px; }
+  dl.ficha dt, dl.ficha dd { padding: 9px 0; border-bottom: 1px solid var(--line); font-size: 19px; line-height: 1.34; }
+  dl.ficha dt { font-size: 13px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); padding-top: 13px; }
+  .pro dl.ficha dt { color: var(--water); } .con dl.ficha dt { color: var(--arid); }
+  .badge { display: inline-block; font-family: var(--sans); font-size: 14px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; padding: 5px 12px; border-radius: 99px; vertical-align: middle; margin-right: 14px; position: relative; top: -6px; }
+  .badge.w { background: var(--water); color: #06222b; } .badge.a { background: var(--arid); color: #2b1c05; }
+
+  /* portada */
+  .cover { padding: 0; justify-content: flex-end; }
+  .cover > img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .cover.active > img { animation: kenburns 24s ease-out both; }
+  .cover::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(10,28,38,.15) 0%, rgba(10,28,38,.72) 48%, rgba(10,28,38,.97) 100%); }
+  .cover .inner { position: relative; z-index: 1; padding: 0 72px 60px; }
+  .cover .sub { font-size: 27px; color: var(--arid); font-weight: 500; margin-top: 16px; }
+  .cover .meta { margin-top: 30px; font-size: 17px; color: var(--muted); line-height: 1.5; }
+  .cover .credit { position: absolute; z-index: 1; right: 24px; bottom: 18px; font-size: 12px; color: rgba(255,255,255,.75); }
+
+  .big-q { font-family: var(--serif); font-size: 40px; line-height: 1.22; max-width: 1060px; }
+  .hyp { margin-top: 34px; padding: 22px 28px; background: var(--surface); border-left: 4px solid var(--water); border-radius: 0 14px 14px 0; font-size: 23px; max-width: 1060px; }
+
+  .timeline { display: grid; grid-template-columns: repeat(5, 1fr); position: relative; margin-top: 6px; }
+  .timeline::before { content: ""; position: absolute; left: 0; right: 0; top: 9px; height: 2px; background: var(--line); transform-origin: left; }
+  .timeline div { position: relative; padding: 30px 16px 0 0; }
+  .timeline div::before { content: ""; position: absolute; left: 0; top: 0; width: 20px; height: 20px; border-radius: 50%; background: var(--bg); border: 3px solid var(--water); }
+  .timeline div.now::before { border-color: var(--alert); background: var(--alert); }
+  .timeline time { display: block; font-size: 14px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--arid); margin-bottom: 6px; }
+  .timeline p { font-size: 17.5px; line-height: 1.34; }
+
+  .refs { columns: 2; column-gap: 40px; }
+  .refs p { font-size: 12.6px; line-height: 1.34; margin-bottom: 6px; break-inside: avoid; color: #d5e0de; }
+  .refs h3 { font-size: 13px; letter-spacing: .12em; text-transform: uppercase; color: var(--water); margin: 0 0 8px; }
+
+  .bar { position: fixed; left: 0; bottom: 0; height: 4px; background: var(--water); width: 0; transition: width .4s ease; z-index: 5; }
+  .hint { position: fixed; right: 14px; top: 10px; font-size: 12px; color: rgba(255,255,255,.35); z-index: 5; }
+
+  /* animaciones */
+  @keyframes up { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }
+  @keyframes kenburns { from { transform: scale(1); } to { transform: scale(1.09); } }
+  @keyframes draw { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  @keyframes pulse { 0%, 100% { box-shadow: 0 0 0 0 rgba(236,123,94,.55); } 60% { box-shadow: 0 0 0 14px rgba(236,123,94,0); } }
+  .slide.active .an { animation: up .6s cubic-bezier(.2,.7,.2,1) both; animation-delay: calc(var(--i, 0) * 85ms + 120ms); }
+  .slide.active .timeline::before { animation: draw 1.4s ease-out both .3s; }
+  .slide.active .timeline div.now::before { animation: pulse 2s ease-out infinite 1.6s; }
+  .frag { opacity: 0; transform: translateY(18px); transition: opacity .55s ease, transform .55s cubic-bezier(.2,.7,.2,1); }
+  .frag.on { opacity: 1; transform: none; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .slide, .frag { transition: none; }
+    .slide.active .an, .cover.active > img, .slide.active .timeline::before, .slide.active .timeline div.now::before { animation: none; }
+  }
+  @media print {
+    @page { size: 1280px 720px; margin: 0; }
+    html, body { overflow: visible; height: auto; background: none; }
+    .deck { position: static; }
+    .slide { position: relative; top: auto; left: auto; transform: none; opacity: 1; visibility: visible; page-break-after: always; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .slide .an, .cover > img, .timeline::before { animation: none !important; }
+    .frag { opacity: 1; transform: none; }
+    .bar, .hint { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="deck" id="deck">
+
+  <!-- 1 -->
+  <section class="slide cover">
+    <img src="img/dcd-neuquen.jpg" alt="Paisaje de la provincia de Neuquén con un lago y araucarias">
+    <span class="credit">Foto: DatacenterDynamics</span>
+    <div class="inner">
+      <div class="kicker">Ciencia, Tecnología y Sociedad · Trabajo Práctico Final</div>
+      <h1>Megacentros de datos para IA en la Patagonia</h1>
+      <p class="sub">Incentivos a la inversión en un contexto de crisis hídrica</p>
+      <p class="meta">Integrantes: [completar] · Comisión: [completar]<br>UNSAM · Escuela de Ciencia y Tecnología · 2.º cuatrimestre 2026</p>
+    </div>
+  </section>
+
+  <!-- 2 -->
+  <section class="slide">
+    <div class="kicker"><b>01</b>El caso</div>
+    <h2>Una industria que consume agua y energía, promovida en una región en emergencia hídrica</h2>
+    <div class="body">
+      <div class="cols c3">
+        <div class="card w stat"><div class="n water" data-to="500" data-suf=" MW">500 MW</div><p>y hasta USD 25.000 millones: la carta de intención de Stargate Argentina (OpenAI y Sur Energy)</p></div>
+        <div class="card a stat"><div class="n arid" data-to="30" data-suf=" años">30 años</div><p>de estabilidad fiscal que ofrece el Súper RIGI a inversiones de más de USD 1.000 millones</p></div>
+        <div class="card r stat"><div class="n alert" data-to="77" data-pre="−" data-suf=" %">−77 %</div><p>cayó el caudal del río Chubut en la estación Los Altares, antes de la emergencia de 2026</p></div>
+      </div>
+    </div>
+    <div class="src">Fuentes: DatacenterDynamics (2025); Tarricone, Chequeado (2026); Iglesias, La Izquierda Diario (2026).</div>
+  </section>
+
+  <!-- 3 -->
+  <section class="slide">
+    <div class="kicker"><b>01</b>El caso</div>
+    <h2>Dos megaproyectos anunciados, ninguno en construcción</h2>
+    <div class="body">
+      <div class="cols c3">
+        <div class="card w">
+          <div class="tag">Neuquén · oct. 2025</div><h3>Stargate Argentina</h3>
+          <p>OpenAI y Sur Energy. Carta de intención para "explorar" un centro de hasta 500 MW cerca del río Limay.</p>
+        </div>
+        <div class="card a">
+          <div class="tag">Chubut · jul. 2026</div><h3>Atlas GigaHub</h3>
+          <p>Green Capital (Polonia), en la Zona Franca de Trelew. 300 MW en 2029 y unos 3.000 MW en 2033.</p>
+        </div>
+        <div class="card stat">
+          <div class="tag">Para comparar</div>
+          <div class="n" data-to="32" data-suf=" MW">32 MW</div>
+          <p>suman hoy los 13 centros de datos que tiene Argentina.</p>
+        </div>
+      </div>
+    </div>
+    <div class="src">Fuentes: DatacenterDynamics (2025); EQSnotas (2026); Acero y Roca (2026).</div>
+  </section>
+
+  <!-- 4 -->
+  <section class="slide">
+    <div class="kicker"><b>01</b>El caso</div>
+    <h2>El Súper RIGI: qué pide y qué da</h2>
+    <div class="body">
+      <div class="cols c-img">
+        <div>
+          <ul class="dots">
+            <li>Inversión mínima de <strong>USD 1.000 millones</strong> por proyecto; apunta a los centros de datos de IA.</li>
+            <li>Ganancias al <strong>15 %</strong> (la alícuota general es 35 %).</li>
+            <li>Exención total de derechos de importación.</li>
+            <li>Beneficios garantizados por <strong>30 años</strong>.</li>
+            <li>Las provincias que adhieran no pueden cobrar más de 0,5 % de Ingresos Brutos.</li>
+          </ul>
+          <p class="arid" style="margin-top:14px">Media sanción en Diputados (24/6/2026, 130 a 106). Trabado en el Senado.</p>
+        </div>
+        <figure style="height:380px"><img src="img/iprof-senado.jpg" alt="Ilustración periodística con el Congreso Nacional, Patricia Bullrich y Javier Milei"><figcaption>Ilustración: iProfesional</figcaption></figure>
+      </div>
+    </div>
+    <div class="src">Fuentes: Tarricone, Chequeado (2026); Sieira, iProfesional (2026).</div>
+  </section>
+
+  <!-- 5 -->
+  <section class="slide">
+    <div class="kicker"><b>01</b>El caso</div>
+    <h2>Mientras tanto, falta agua</h2>
+    <div class="body">
+      <div class="cols c2" style="height:400px">
+        <figure><img src="img/nqn-emergencia.webp" alt="Crianceros arreando chivas en un campo seco de Neuquén"><figcaption><strong>Neuquén.</strong> Emergencia Hídrica, Social y Productiva desde octubre de 2025, prorrogada 180 días en agosto de 2026. Foto: Noticias NQN</figcaption></figure>
+        <figure><img src="img/lid-trelew.jpg" style="object-position:22% center" alt="El río Chubut con poco caudal y la firma del acuerdo con Green Capital"><figcaption><strong>Chubut.</strong> Emergencia hídrica desde agosto de 2026. Las cuencas del Chubut y el Senguer abastecen a más del 70 % de la provincia. Foto: La Izquierda Diario</figcaption></figure>
+      </div>
+    </div>
+    <div class="src">Fuentes: Noticias NQN (2026); Iglesias, La Izquierda Diario (2026).</div>
+  </section>
+
+  <!-- 6 -->
+  <section class="slide">
+    <div class="kicker"><b>01</b>El caso</div>
+    <h2>Lo que nadie informó: cuánta agua y de dónde</h2>
+    <div class="body">
+      <div class="cols c2">
+        <div>
+          <blockquote>"Las cifras precisas de consumo para cada etapa y las fuentes específicas de abastecimiento todavía están siendo definidas."</blockquote>
+          <cite>Green Capital, sobre el Atlas GigaHub (EQSnotas, 2026)</cite>
+        </div>
+        <div>
+          <blockquote style="border-color:var(--water)">"De momento, no hay normativas específicas."</blockquote>
+          <cite>Secretaría de Ambiente y Recursos Naturales de Neuquén (La Nación, 2026)</cite>
+        </div>
+      </div>
+    </div>
+    <div class="src">Fuentes: EQSnotas (2026); Viano y Calmels, La Nación (2026).</div>
+  </section>
+
+  <!-- 7 -->
+  <section class="slide">
+    <div class="kicker"><b>02</b>Pregunta e hipótesis</div>
+    <div class="body">
+      <p class="big-q">¿Quién define, y con qué conocimiento, si es aceptable promover esta industria en una región en emergencia hídrica?</p>
+      <p class="hyp frag"><strong class="water">Hipótesis.</strong> No es un asunto técnico que puedan resolver los especialistas por su cuenta. Es una <strong>controversia sociotécnica</strong>: se disputan a la vez datos, valores y un modelo de desarrollo.</p>
+    </div>
+  </section>
+
+  <!-- 8 -->
+  <section class="slide">
+    <div class="kicker"><b>03</b>Skill y Grinberg</div>
+    <h2>Los cuatro elementos de una controversia sociotécnica, en el caso</h2>
+    <div class="body">
+      <div class="cols c2" style="gap:18px">
+        <div class="card w frag"><div class="tag">1 · Disputa entre actores</div><p>Gobiernos y empresas frente a comunidades mapuche, organizaciones e investigadoras. En el medio, senadores y cámaras que apoyan con condiciones.</p></div>
+        <div class="card w frag"><div class="tag">2 · Incertidumbre científica y técnica</div><p>La empresa promete "más del 90 %" de ahorro de agua sin dar volúmenes. Las estimaciones externas hablan de millones de litros diarios.</p></div>
+        <div class="card a frag"><div class="tag">3 · Incertidumbre social</div><p>Frontera porosa: ¿el agua es un problema de ingeniería o de prioridades? ¿El empleo son "50 o 60 personas" o 500 a 700?</p></div>
+        <div class="card a frag"><div class="tag">4 · Riesgos según cada actor</div><p>Perder la inversión, no tener seguridad jurídica, dejar afuera a la industria local o quedarse sin agua y sin territorio.</p></div>
+      </div>
+    </div>
+    <div class="src">Fuentes: EQSnotas (2026); Viano y Calmels, La Nación (2026); Iglesias, La Izquierda Diario (2026).</div>
+  </section>
+
+  <!-- 9 -->
+  <section class="slide pro">
+    <div class="kicker"><b>04</b>Posturas · Skill y Grinberg</div>
+    <h2><span class="badge w">A favor</span>Postura pragmática</h2>
+    <div class="body">
+      <dl class="ficha">
+        <dt>Actores</dt><dd>Gobierno nacional, gobiernos de Neuquén y Chubut, Sur Energy, Green Capital, voces del sector tecnológico.</dd>
+        <dt>Argumento</dt><dd>Con la tecnología adecuada el impacto es bajo. "El esquema atraerá industrias que hoy no existen en el país" (Caputo).</dd>
+        <dt>Evidencia</dt><dd>No hay daño demostrado; los consumos se definirán en los estudios de impacto ambiental.</dd>
+        <dt>Conocimiento</dt><dd>Técnico y empresarial: datos de las propias empresas y de consultoras.</dd>
+        <dt>Tiempo del riesgo</dt><dd>Corto plazo, proyecto por proyecto.</dd>
+        <dt>Modelo de desarrollo</dt><dd>Inserción global con grandes inversiones, apoyada en energía, clima y territorio.</dd>
+        <dt>Discurso</dt><dd>Economía del conocimiento y seguridad jurídica: "la tecnología avanza mucho más rápido que la regulación" (Etcheverry).</dd>
+      </dl>
+    </div>
+    <div class="src">Fuentes: Ruido, Chequeado (2026); Miranda, Infobae (2026); El Madrynense (2026); Viano y Calmels, La Nación (2026).</div>
+  </section>
+
+  <!-- 10 -->
+  <section class="slide con">
+    <div class="kicker"><b>04</b>Posturas · Skill y Grinberg</div>
+    <h2><span class="badge a">En contra</span>Postura precautoria</h2>
+    <div class="body">
+      <dl class="ficha">
+        <dt>Actores</dt><dd>Comunidades mapuche, FARN, Fundación Vía Libre, Observatorio Petrolero Sur, investigadoras del CONICET, legisladores opositores.</dd>
+        <dt>Argumento</dt><dd>En emergencia hídrica y sin información, no se avanza. "El agua podría ser considerada un simple insumo por los inversores" (FARN).</dd>
+        <dt>Evidencia</dt><dd>Caída medida de los caudales, emergencias declaradas, antecedentes de Uruguay y Chile.</dd>
+        <dt>Conocimiento</dt><dd>Plural: ciencia independiente, organizaciones y saber territorial. "Ya no nos queda territorio" (lonko Liliana Romero).</dd>
+        <dt>Tiempo del riesgo</dt><dd>Largo plazo y acumulativo: 30 años, cambio climático, suma con riego y <i>fracking</i>.</dd>
+        <dt>Modelo de desarrollo</dt><dd>Decisión local sobre bienes comunes; el régimen "se entrega sin contrapartidas productivas".</dd>
+        <dt>Discurso</dt><dd>Bien común, "terricidio", principio precautorio y consulta previa (Convenio 169 de la OIT).</dd>
+      </dl>
+    </div>
+    <div class="src">Fuentes: Seguel, Indymedia (2026); Viano y Calmels, La Nación (2026); Tellez Tejada, TeleSemana (2026).</div>
+  </section>
+
+  <!-- 11 -->
+  <section class="slide">
+    <div class="kicker"><b>04</b>Posturas</div>
+    <h2>No son bloques: también hay un "sí, pero con condiciones"</h2>
+    <div class="body">
+      <div class="cols c3">
+        <div class="card"><div class="tag">Senado</div><h3>Bloques aliados</h3><p>Aceptan el régimen si exige generación eléctrica propia y un piso de proveedores nacionales.</p></div>
+        <div class="card"><div class="tag">Derecho tributario</div><h3>Diego Fraga (U. Austral)</h3><p>Cumplir la normativa ambiental vigente, sin usarla como excusa para bloquear inversiones.</p></div>
+        <div class="card w"><div class="tag">Otro modelo</div><h3>Brasil: régimen Redata</h3><p>Beneficios fiscales a cambio de energía 100 % renovable, eficiencia hídrica e inversión en I+D.</p></div>
+      </div>
+      <p class="frag" style="margin-top:28px">La pragmática usa la incertidumbre para <span class="water">postergar</span> ("se verá en el estudio"). La precautoria la usa para <span class="arid">exigir que se actúe antes</span>.</p>
+    </div>
+    <div class="src">Fuentes: Sieira, iProfesional (2026); Ruido, Chequeado (2026).</div>
+  </section>
+
+  <!-- 12 -->
+  <section class="slide">
+    <div class="kicker"><b>05</b>Quién define el riesgo · Beck</div>
+    <h2>Riesgos que dependen del conocimiento de otros</h2>
+    <div class="body">
+      <div class="cols c-img">
+        <div>
+          <ul class="dots">
+            <li>Los afectados pierden su <em class="term">soberanía cognitiva</em>: un vecino no puede medir cuánta agua usará el proyecto.</li>
+            <li>El dato solo lo puede producir quien tiene interés en que se apruebe.</li>
+            <li><em class="term">Rechazo causal</em>: mientras el riesgo no esté probado, se actúa como si no existiera.</li>
+            <li>Un "90 % de ahorro" sin valor de base funciona como <em class="term">tranquilizante simbólico</em>.</li>
+          </ul>
+        </div>
+        <figure style="height:420px"><img src="img/commons-chubut.jpg" alt="Vista aérea del río Chubut en la zona de Trelew"><figcaption>Río Chubut, zona de Trelew. Foto: Gastón Cuello, CC BY-SA 4.0 (Wikimedia Commons)</figcaption></figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- 13 -->
+  <section class="slide">
+    <div class="kicker"><b>05</b>Quién define el riesgo · Sunstein</div>
+    <h2>Una objeción que conviene tomar en serio</h2>
+    <div class="body">
+      <div class="cols c2">
+        <div class="card r">
+          <div class="tag">La objeción</div>
+          <p>Evaluamos mal los riesgos por la <em class="term">heurística de disponibilidad</em>. En Chubut la eficiencia de riego es menor al 30 %: quizás el problema del agua está en otro lado. Lo racional es un <em class="term">análisis de costo-beneficio</em>.</p>
+        </div>
+        <div class="card w frag">
+          <div class="tag">Nuestra respuesta</div>
+          <p>Aun con ese criterio, el caso no lo cumple. No se conocen los <strong>costos</strong> (consumo y fuente de agua) y los <strong>beneficios</strong> son una carta de intención y cifras de empleo en disputa. Falta información, no racionalidad.</p>
+        </div>
+      </div>
+      <p class="frag" style="margin-top:26px">Y como dice Beck, todo enunciado sobre riesgos contiene un <span class="arid">"así queremos vivir"</span> que ningún cálculo reemplaza.</p>
+    </div>
+    <div class="src">Fuente del dato de riego: Iglesias, La Izquierda Diario (2026).</div>
+  </section>
+
+  <!-- 14 -->
+  <section class="slide">
+    <div class="kicker"><b>06</b>La escala · Latour</div>
+    <h2>La "nube" tiene dirección postal</h2>
+    <div class="body">
+      <div class="cols c-img">
+        <div>
+          <ul class="dots">
+            <li>Nadie ve "lo global": <em class="term">solo existen visiones locales</em>. Una consulta a una IA se procesa en un edificio que toma agua de una cuenca concreta.</li>
+            <li>Mapear la controversia: ¿qué mundo ensambla cada actor y con qué entes propone vivir?</li>
+          </ul>
+          <div class="card frag" style="margin-top:18px">
+            <div class="tag">Cuando los afectados intervienen, el diseño cambia</div>
+            <p><strong>Uruguay:</strong> Google preveía 7.600 m³ diarios de agua potable; lo rediseñó con enfriamiento por aire.<br><strong>Chile:</strong> el Tribunal Ambiental ordenó rehacer la evaluación en Cerrillos.</p>
+          </div>
+        </div>
+        <figure style="height:400px"><img src="img/observador-google.webp" alt="Logo de Google frente a un edificio de la empresa"><figcaption>Foto: El Observador (Uruguay)</figcaption></figure>
+      </div>
+    </div>
+    <div class="src">Fuentes: El Observador (2023); Cooperativa (2024).</div>
+  </section>
+
+  <!-- 15 -->
+  <section class="slide">
+    <div class="kicker"><b>07</b>Kreimer y Zabala · Pedace, Schleider y Balmaceda · Yuk Hui</div>
+    <h2>¿Quién define el problema y para quién es la mejora?</h2>
+    <div class="body">
+      <div class="cols c-img">
+        <div>
+          <ul class="dots">
+            <li>El problema se definió como una <strong>carrera por inversiones</strong>. El agua quedó como dato secundario: en el Senado no figura entre los cambios discutidos.</li>
+          </ul>
+          <div class="cols c3" style="gap:14px;margin:8px 0 20px">
+            <div class="card"><div class="tag">¿Mejora para quién?</div><p>Usuarios y empresas de otros países</p></div>
+            <div class="card"><div class="tag">¿Quién se beneficia?</div><p>Los inversores, por 30 años</p></div>
+            <div class="card"><div class="tag">¿Quién evalúa?</div><p>Provincias sin normas</p></div>
+          </div>
+          <ul class="dots">
+            <li class="frag"><em class="term">Pharmakon</em>: remedio y veneno a la vez. La salida es <strong>abrir la caja negra</strong>, no rechazar la técnica.</li>
+          </ul>
+        </div>
+        <figure style="height:430px"><img src="img/commons-datacenter.jpg" alt="Pasillo de servidores dentro de un centro de datos"><figcaption>Interior de un centro de datos. Foto: BalticServers, CC BY-SA 3.0 (Wikimedia Commons)</figcaption></figure>
+      </div>
+    </div>
+    <div class="src">Fuente: Sieira, iProfesional (2026).</div>
+  </section>
+
+  <!-- 16 -->
+  <section class="slide">
+    <div class="kicker"><b>08</b>Estado de situación · octubre de 2026</div>
+    <h2>Una controversia abierta</h2>
+    <div class="body">
+      <div class="timeline">
+        <div><time>Oct. 2025</time><p>Carta de intención de Stargate. Neuquén declara la emergencia hídrica.</p></div>
+        <div><time>Jun. 2026</time><p>Diputados da media sanción al Súper RIGI.</p></div>
+        <div><time>Jul.–ago. 2026</time><p>Se anuncia Atlas GigaHub. Chubut declara la emergencia hídrica.</p></div>
+        <div><time>Sep. 2026</time><p>El Senado no logra dictamen. Si se aprueba con cambios, vuelve a Diputados.</p></div>
+        <div class="now"><time>Hoy</time><p>Sin contrato, sin obras, sin datos de agua y sin regulación específica.</p></div>
+      </div>
+      <blockquote style="margin-top:40px;font-size:27px">"La realidad concreta es que no avanzamos todavía de la carta de intención a un contrato firme."</blockquote>
+      <cite>Emiliano Kargieman, fundador de Sur Energy (Letra P, 10/10/2026)</cite>
+    </div>
+    <div class="src">Fuentes: Sternik, Letra P (2026); Sieira, iProfesional (2026); Noticias NQN (2026).</div>
+  </section>
+
+  <!-- 17 -->
+  <section class="slide">
+    <div class="kicker"><b>09</b>Conclusión</div>
+    <h2>No discuten un número: discuten qué conocimiento vale y qué desarrollo se quiere</h2>
+    <div class="body">
+      <div class="cols c3" style="gap:18px">
+        <div class="card w"><h3>Información pública</h3><p>Consumo y fuentes de agua, antes de otorgar beneficios.</p></div>
+        <div class="card w"><h3>Evaluación por cuenca</h3><p>Acumulativa y con los otros usos del agua.</p></div>
+        <div class="card a"><h3>Participación</h3><p>De las comunidades afectadas, con consulta previa.</p></div>
+      </div>
+      <p class="frag" style="margin-top:30px;font-family:var(--serif);font-size:26px">¿Podrá un Estado que compromete su capacidad fiscal y regulatoria por treinta años corregir el rumbo cuando cambie lo que sabemos sobre las cuencas?</p>
+    </div>
+  </section>
+
+  <!-- 18 -->
+  <section class="slide">
+    <div class="kicker"><b>10</b>Fuentes</div>
+    <div class="refs">
+      <h3>Bibliografía de la materia</h3>
+      <p>Beck, U. (1998). <i>La sociedad del riesgo</i>. Paidós.</p>
+      <p>Hui, Y. (2023). Anders, Simondon y el devenir de lo poshumano. <i>Pensar Jusbaires</i>.</p>
+      <p>Kreimer, P. y Zabala, J. P. (2006). ¿Qué conocimiento y para quién? <i>Redes, 12</i>(23).</p>
+      <p>Latour, B. (2011). Esperando a Gaia. <i>Cuadernos de Otra Parte</i>.</p>
+      <p>Pedace, K., Schleider, T. y Balmaceda, T. (2023). Inteligencia artificial y sesgos. <i>Revista CTS, 18</i>(53).</p>
+      <p>Skill, K. y Grinberg, E. (2013). Controversias sociotécnicas en torno a las fumigaciones con glifosato en Argentina. En G. Merlinsky (comp.), <i>Cartografías del conflicto ambiental en Argentina</i>. CICCUS.</p>
+      <p>Sunstein, C. R. (2006). <i>Riesgo y razón</i>. Katz.</p>
+      <h3 style="margin-top:12px">Fuentes sobre el caso</h3>
+      <p>Acero y Roca (2026, 8 de agosto). Guerra de recursos: el megaproyecto de OpenAI por US$ 25.000M.</p>
+      <p>Cooperativa (2024, 27 de febrero). Tribunal Ambiental frenó proyecto de data center de Google en Cerrillos.</p>
+      <p>DatacenterDynamics (2025). OpenAI y Sur Energy preparan un proyecto de centro de datos en Argentina.</p>
+      <p>El Madrynense (2026, julio). Torres promocionó a Chubut como futuro centro de infraestructura digital.</p>
+      <p>El Observador (2023, 22 de noviembre). Los detalles del proyecto de Google en Uruguay.</p>
+      <p>EQSnotas (2026, 20 de septiembre). Green Capital reveló cómo será el data center que proyecta en Chubut.</p>
+      <p>Iglesias, A. (2026, 18 de agosto). Agua para quién: crisis hídrica, RIGI y el mega data center de Trelew. <i>La Izquierda Diario</i>.</p>
+      <p>Miranda, N. (2026, 28 de junio). Data centers: energía, conectividad y la oportunidad del Super RIGI. <i>Infobae</i>.</p>
+      <p>Noticias NQN (2026, 10 de agosto). Neuquén extiende la Emergencia Hídrica por otros 180 días.</p>
+      <p>Ruido (2026, 2 de junio). Mega data centers de IA: qué propone el "Súper RIGI". <i>Chequeado</i>.</p>
+      <p>Seguel, A. (2026, 21 de septiembre). Defensoras del agua en la Patagonia. <i>Indymedia Argentina</i>.</p>
+      <p>Sieira, P. (2026, 2 de septiembre). El Súper RIGI vuelve a trabarse en el Senado. <i>iProfesional</i>.</p>
+      <p>Sternik, I. (2026, 10 de octubre). Stargate cumple un año. <i>Letra P</i>.</p>
+      <p>Tarricone, M. (2026, 24 de junio). "Súper RIGI": las 3 claves del proyecto. <i>Chequeado</i>.</p>
+      <p>Tellez Tejada, N. (2026, 30 de junio). El Súper RIGI y el dilema digital. <i>TeleSemana</i>.</p>
+      <p>Viano, L. y Calmels, J. (2026, 31 de marzo). Mega data centers en la Patagonia. <i>La Nación</i>.</p>
+      <p>Leyes 25.675 (General del Ambiente) y 24.071 (Convenio 169 de la OIT).</p>
+      <h3 style="margin-top:12px">Imágenes</h3>
+      <p>DatacenterDynamics, iProfesional, Noticias NQN, La Izquierda Diario y El Observador (tomadas de las notas citadas). Wikimedia Commons: Gastón Cuello (CC BY-SA 4.0) y BalticServers (CC BY-SA 3.0).</p>
+    </div>
+  </section>
+
+</div>
+<div class="bar" id="bar"></div>
+<div class="hint">← → para avanzar · F pantalla completa</div>
+
+<script>
+(function () {
+  var slides = Array.prototype.slice.call(document.querySelectorAll('.slide'));
+  var bar = document.getElementById('bar');
+  var hint = document.querySelector('.hint');
+  var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var showAll = /[?&]all\b/.test(location.search);
+  var i = -1;
+
+  var SEL = '.kicker, h1, h2, .sub, .meta, .big-q, .card, figure, blockquote, cite, ul.dots > li, dl.ficha > *, .timeline > div, .body > p, .body > div > p, .refs';
+  slides.forEach(function (s, n) {
+    var k = 0;
+    Array.prototype.forEach.call(s.querySelectorAll(SEL), function (el) {
+      if (el.classList.contains('frag') || el.closest('.frag')) return;
+      if (el.parentElement.closest('.an')) return;
+      el.classList.add('an');
+      // en las fichas, término y definición entran juntos
+      if (el.tagName === 'DD') k--;
+      el.style.setProperty('--i', k++);
+    });
+    if (n > 0) {
+      var num = document.createElement('div');
+      num.className = 'num';
+      num.textContent = (n + 1) + ' / ' + slides.length;
+      s.appendChild(num);
+    }
+    if (showAll) Array.prototype.forEach.call(s.querySelectorAll('.frag'), function (f) { f.classList.add('on'); });
+  });
+
+  function countUp(el) {
+    var to = +el.dataset.to, pre = el.dataset.pre || '', suf = el.dataset.suf || '';
+    if (reduce || showAll) { el.textContent = pre + to + suf; return; }
+    var t0 = null, dur = 1100;
+    function step(t) {
+      if (t0 === null) t0 = t;
+      var p = Math.min(1, (t - t0) / dur);
+      el.textContent = pre + Math.round(to * (1 - Math.pow(1 - p, 3))) + suf;
+      if (p < 1) requestAnimationFrame(step);
+    }
+    requestAnimationFrame(step);
+  }
+
+  function fit() {
+    var s = Math.min(window.innerWidth / 1280, window.innerHeight / 720);
+    document.documentElement.style.setProperty('--s', s);
+  }
+  function show(n, fromBack) {
+    n = Math.max(0, Math.min(slides.length - 1, n));
+    if (n === i) return;
+    i = n;
+    slides.forEach(function (s, k) { s.classList.toggle('active', k === i); });
+    var frags = slides[i].querySelectorAll('.frag');
+    Array.prototype.forEach.call(frags, function (f) { f.classList.toggle('on', !!fromBack || showAll); });
+    Array.prototype.forEach.call(slides[i].querySelectorAll('[data-to]'), countUp);
+    bar.style.width = ((i + 1) / slides.length * 100) + '%';
+    hint.style.display = i === 0 ? '' : 'none';
+    history.replaceState(null, '', location.search + '#' + (i + 1));
+  }
+  function next() {
+    var f = slides[i].querySelector('.frag:not(.on)');
+    if (f) f.classList.add('on'); else show(i + 1);
+  }
+  function prev() {
+    var on = slides[i].querySelectorAll('.frag.on');
+    if (on.length && !showAll) on[on.length - 1].classList.remove('on'); else show(i - 1, true);
+  }
+
+  document.addEventListener('keydown', function (e) {
+    if (['ArrowRight', 'ArrowDown', 'PageDown', ' ', 'Enter'].indexOf(e.key) > -1) { e.preventDefault(); next(); }
+    else if (['ArrowLeft', 'ArrowUp', 'PageUp', 'Backspace'].indexOf(e.key) > -1) { e.preventDefault(); prev(); }
+    else if (e.key === 'Home') show(0);
+    else if (e.key === 'End') show(slides.length - 1, true);
+    else if (e.key === 'f' || e.key === 'F') {
+      if (document.fullscreenElement) document.exitFullscreen();
+      else document.documentElement.requestFullscreen();
+    }
+  });
+  document.addEventListener('click', function (e) {
+    if (e.clientX < window.innerWidth * 0.3) prev(); else next();
+  });
+
+  window.addEventListener('resize', fit);
+  fit();
+  show((parseInt(location.hash.slice(1), 10) || 1) - 1);
+})();
+</script>
+</body>
+</html>
