@@ -1,4 +1,4 @@
-1.
+## 1. Función área
 
 Dom = (0,2)
 
@@ -29,6 +29,58 @@ $a= 10\cos\alpha$
 
 $A(\alpha) = B \cdot b + a \cdot b = 10 \cdot 10\operatorname{sen}\alpha + 10\cos\alpha \cdot 10\operatorname{sen}\alpha$
 
-$A(\alpha) = 1000(10\operatorname{sen}\alpha + \cos\alpha \cdot \operatorname{sen}\alpha)$
+$A(\alpha) = 100(\operatorname{sen}\alpha + \cos\alpha \cdot \operatorname{sen}\alpha)$
 
-Ahora hallo $A´(x)$ para encontrar los minimos y los maximos locales (el maximo nos interesa, donde el area es maxima)
+## 2. Máximo
+
+### Derivada
+
+$$A(\alpha) = 100(\operatorname{sen}\alpha + \operatorname{sen}\alpha\cos\alpha)$$
+
+Usando la regla del producto en $\operatorname{sen}\alpha\cos\alpha$:
+
+$$A'(\alpha) = 100\left(\cos\alpha + \cos\alpha \cdot \cos\alpha + \operatorname{sen}\alpha \cdot (-\operatorname{sen}\alpha)\right)$$
+
+$$A'(\alpha) = 100\left(\cos\alpha + \cos^2\alpha - \operatorname{sen}^2\alpha\right)$$
+
+Reemplazo $\operatorname{sen}^2\alpha = 1 - \cos^2\alpha$:
+
+$$A'(\alpha) = 100\left(\cos\alpha + \cos^2\alpha - 1 + \cos^2\alpha\right) = 100\left(2\cos^2\alpha + \cos\alpha - 1\right)$$
+
+Hallo los ceros de la derivada
+
+$$2\cos^2\alpha + \cos\alpha - 1 = 0$$
+
+Con $u = \cos\alpha$ queda $2u^2 + u - 1 = 0$:
+
+$$u = \frac{-1 \pm \sqrt{1 + 8}}{4} = \frac{-1 \pm 3}{4}$$
+
+- $u = \frac{1}{2} \Rightarrow \cos\alpha = \frac{1}{2} \Rightarrow \alpha = \frac{\pi}{3}$ ✔ (está en el dominio)
+- $u = -1 \Rightarrow \cos\alpha = -1 \Rightarrow \alpha = \pi$ ✘ (fuera del dominio)
+
+Único punto crítico: $\alpha = \dfrac{\pi}{3}$
+
+Verificación del máximo
+
+Factorizando:
+
+$$A'(\alpha) = 100\,(2\cos\alpha - 1)(\cos\alpha + 1)$$
+
+En el dominio, $\cos\alpha + 1 > 0$ siempre, así que el signo de $A'$ depende solo de $2\cos\alpha - 1$:
+
+| Intervalo        | $\cos\alpha$ | $2\cos\alpha - 1$ | $A'$ | $A$     |
+| ---------------- | ------------ | ----------------- | ---- | ------- |
+| $(0, \pi/3)$     | $> 1/2$      | $> 0$             | $+$  | crece   |
+| $(\pi/3, \pi/2]$ | $< 1/2$      | $< 0$             | $-$  | decrece |
+
+$A$ crece hasta $\pi/3$ y después decrece, por lo tanto en $\alpha = \pi/3$ hay un **máximo**.
+
+### Área máxima
+
+$$A\left(\tfrac{\pi}{3}\right) = 100 \cdot \operatorname{sen}\tfrac{\pi}{3}\left(1 + \cos\tfrac{\pi}{3}\right) = 100 \cdot \frac{\sqrt{3}}{2} \cdot \frac{3}{2} = 75\sqrt{3} \approx 129{,}9 \text{ cm}^2$$
+
+Comparando con el extremo $\alpha = \pi/2$ (rectángulo): $A(\pi/2) = 100 \cdot 1 \cdot 1 = 100 \text{ cm}^2 < 75\sqrt{3}$ ✔
+
+### Conclusión
+
+El área de la sección es máxima cuando $\alpha = \dfrac{\pi}{3}$ (60°, $\approx 1{,}047$ rad), y vale $75\sqrt{3} \approx 129{,}9$ cm².
