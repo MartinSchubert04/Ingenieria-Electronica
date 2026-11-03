@@ -107,62 +107,110 @@ para poder hacerlo sin ver la resolución. Son exámenes corregidos: tienen las 
 docente y, en algún caso, anotaciones chicas del alumno en el margen.
 
 El orden sigue el parecido con los parciales de la comisión N1 (turno noche) y, a igual
-parecido, la fecha: primero los N1, después los que usan la misma plantilla y al final los
-de M1.
+parecido, la fecha: primero los N1 y TN, después los que usan la misma plantilla y al final
+los de M1.
 
-### Prioridad alta — comisión N1, del más difícil al más fácil
+### Prioridad alta — comisión N1 / turno noche, del más difícil al más fácil
 
-- [ ] **1. `2024-06-03 - 2do Parcial - IAM.pdf`** — N1, 4 ejercicios (se aprueba con 5 de 10).
+Los TN (Ma-Ju) tienen siempre la misma estructura: 5 ejercicios de 20 puntos (límites,
+función partida, recta tangente, estudio de función y optimización). Se aprueba con 50
+puntos, con subítems calificados B, B- o B= y "usando correctamente la regla de la cadena".
+Varios traen 5 puntos extra con una restricción de dominio en la optimización o un Bolzano
+en el estudio.
+
+- [ ] **1. `2026-06-09 TN Parcial 2 Tema 1.jpg`** — el más difícil y el más reciente. Límites
+      $x\operatorname{sen}(\pi + 1/x)$ en $-\infty$ y un $1^\infty$ con logaritmos, partida
+      con $(e^{x-2}-1)/(x-2)$ (continua y derivable con $q$ y $k$), tangente de
+      $\ln(f(2x+2))$ conociendo la de $f$, estudio de $4 - x^2 - 2/x$ y una caja de madera
+      con máximo **y** mínimo de material en un intervalo cerrado. Corregido (nota 5).
+- [ ] **2. `2024-06-03 - 2do Parcial - IAM.pdf`** — N1, 4 ejercicios (se aprueba con 5 de 10).
       Recta normal a $h(x) = f(\sqrt{x^2+9})/x$ conociendo solo la tangente de $f$ (cociente y
       regla de la cadena "a ciegas"), continuidad en $x = 6$ con constantes $A$ y $B$ (un
       $\infty - \infty$ por derecha y un $0^0$ por izquierda), asíntotas de $x/(e^x - 1)$ y
       estudio completo de $(3x^4+3)/x^3$. La consigna tiene las notas de un alumno (5,5).
       `../otros/2024-06-03 - 2do Parcial - IAM(1).pdf` es el mismo examen de otro alumno
       (nota 7), con 6 páginas más que no revisé: deberían ser su resolución.
-- [ ] **2. `2ParcialIAM1C2021.pdf`** — N1, 23/06/2021, virtual: dos de opción múltiple (un
+- [ ] **3. `2025-06-05 TN Parcial 2 Tema 2.jpg`** — límite $0/0$ con $\cos(\pi x)$ y un
+      $\infty^0$, partida con $(e^{x-3}-1)/(x-3)$ (derivabilidad con $k$), tangente con $k$
+      de una potencia sexta, estudio de $1 - e^{x^4-2x^2}$ (inflexiones a partir del gráfico
+      y extra de Bolzano sobre $f''$), alambrado y reja con costo mínimo y restricción.
+- [ ] **4. `2025-10-30 TN Parcial 2 Tema 2.jpg`** — límite $0/0$ doble con $x^4e^{x-1}$,
+      partida $k\ln x/(x-1)$ con $q$ y $k$ (continua y derivable en 1), tangente de
+      $(f(x)-x)^2 + k^2x + k$ con $k$, estudio de $\ln(x-2) + 1/(x-2)$ con imagen, tanque
+      cilíndrico de $16\pi$ m³ con superficie mínima y extra con altura máxima. Corregido
+      (insuficiente), con marcas del docente.
+- [ ] **5. `2024-11-06 TN Parcial 2 Tema 1.jpg`** — límites $x^2 + x - e^x$ y un $0^0$,
+      partida con $x^2\operatorname{sen}(1/x)$ (derivable y tangente paralela a una recta),
+      tangente de $g(x^2\cos(x-2) - g(x))$ conociendo **dos** tangentes de $g$, estudio de
+      $x^2\ln x - x^2/2$ con extra de Bolzano y rectángulo bajo $e^{-x^2}$ con intervalos
+      restringidos.
+- [ ] **6. `2023-11-07 TN Parcial 2 Tema 1.jpg`** — límites con $\ln^2 x$ y con
+      $\sqrt{x-3}$, partida con $x^{3/2}\cos(1/x)$ y $q^2$, tangente de $f(f(x) + x^2e^{x-1}+1)$
+      (composición anidada), estudio de $x^2/(x^2-1)$ **con $f'$ y $f''$ dadas** y punto de
+      $y = 4/x$ más cercano al origen, también en dominios restringidos.
+- [ ] **7. `2026-06-25 TN Recuperatorio 2.jpg`** — límite $0/0$ con $e^{x-2}$ y un $0^0$,
+      decidir si una partida continua es derivable en 1, tangente con $k$ (cuidado con $k$ y
+      $x$), estudio de $e^{-x^2}$ y pileta circular de $4\pi$ m³ con costo mínimo, y costos
+      máximo y mínimo con la altura acotada. Corregido (insuficiente).
+- [ ] **8. `2025-11-20 TN Recuperatorio 2.jpg`** — límites $\infty^0$ y $0/0$ con
+      $\cos(\pi x)$, probar por definición que $|x-1|(x^2+x)+2$ **no** es derivable en 1,
+      tangente de $g \circ f$ y de $f(x)e^{x^3-x^2-2x+2}$, estudio de $x^2/(x^2-1)$ desde la
+      fórmula, triángulos rectángulos de hipotenusa 10 (área máxima y mínima, si existen).
+- [ ] **9. `2023-07-11 TN Recuperatorio 2.jpg`** — límites $x - \ln(4x)$ y un $0^0$, partida
+      $(xe^{x-1}-1)/(x-1)$ con $k$ (continuidad y derivabilidad), tangente y normal de
+      $3x + \ln(x^2 - x + 1)$ (sin parámetros), estudio de $(x+1)/e^x$ y corral con tres
+      compartimentos. Corregido (nota 9).
+- [ ] **10. `2022-06-03 TN Parcial 2.jpg`** — límites $0/0$ con $\cos(\pi x)$ y un
+      $\infty^0$, partida con $(x-2)^2\operatorname{sen}(1/(x-2))$, tangente con $k$ de una
+      potencia quinta, estudio de $xe^{-x^2}$ **con $f'$ y $f''$ dadas** y tanque cilíndrico
+      con presupuesto (volumen máximo y extra con base acotada).
+- [ ] **11. `2ParcialIAM1C2021.pdf`** — N1, 23/06/2021, virtual: dos de opción múltiple (un
       límite con la tangente de $f$, intervalos de continuidad) y tres a desarrollar
       (rectángulo bajo $2x + 3y = 6$, que es el 29 de la práctica 8; implícita
       $\operatorname{sen}(x+y) = y^2\cos(x)$, que es el 32 f de la práctica 7; $m$ y $b$ para
       que una partida sea derivable en 0). El parámetro $k$ sale del DNI: elegí uno. Sin
       resolución.
-- [ ] **3. `2025-06-04 N1 - consigna.pdf`** — N1, 5 ejercicios, el más directo de los tres:
-      raíz real con Bolzano, derivabilidad en 0 de una partida, tangente de
+- [ ] **12. `2022-11-24 TN Recuperatorio 2.jpg`** — límites $1/(x-4) + \ln(x-4)$ y
+      $\cos(\pi x/6)/(x-3)$, partida $kx$ / $e^x + q$, tangente con $k$ de
+      $\operatorname{sen}(k^2x^2 - 9k^2) - 3k^2x + k$, estudio de $xe^{-(x-1)}$ y tanque de base
+      cuadrada sin tapa de 32 m³ (con la base acotada). Corregido (nota 8).
+- [ ] **13. `2025-06-04 N1 - consigna.pdf`** — N1, 5 ejercicios, el más directo: raíz real
+      con Bolzano, derivabilidad en 0 de una partida, tangente de
       $f(x) = g(2x^2+x) + \cos(x+1)$ conociendo la de $g$, estudio de $x^3 - 12x$ y rectángulo
-      bajo la parábola $y = 12 - x^2$. Como es el N1 más reciente, sirve de simulacro con
-      reloj. Resolución (nota 10): `../otros/2do Parcial Resuelto - 1er Cuatri - 2025.pdf`.
+      bajo la parábola $y = 12 - x^2$. Resolución (nota 10):
+      `../otros/2do Parcial Resuelto - 1er Cuatri - 2025.pdf`.
 
 ### Prioridad media — misma plantilla que N1, sin comisión indicada
 
-Los de 2017 y 2018 usan la misma hoja que el N1 de 2025 (recuadro "Tema", 5 ejercicios,
+Los de 2017 y 2018 usan la misma hoja que los TN (recuadro "Tema", 5 ejercicios,
 "JUSTIFICAR TODAS LAS RESPUESTAS") y toman los mismos temas: límites, partida con
 parámetro, tangente o normal de una composición, estudio completo y optimización.
 
-- [ ] **4. `2024-06-07 - 2do Parcial - IAM.jpg`** — "Tema π", de la misma semana que el N1
+- [ ] **14. `2024-06-07 - 2do Parcial - IAM.jpg`** — "Tema π", de la misma semana que el N1
       de 2024. 4 ejercicios: tangente de $g(x) = \sqrt[3]{x \cdot f(x-1)}$ a partir de la
       **normal** de $f$, derivada de $(\cos x)^{\operatorname{sen} x}$, límite $0^0$ de
       $(\sqrt{x})^{\operatorname{sen} x}$ y rectángulo bajo $y = -\tfrac{1}{2}x + 4$. Sin
       resolución.
-- [ ] **5. `2018-06-27 Tema 2 - consigna.pdf`** — casi el mismo esquema que el N1 de 2025:
-      partida con $k$ (continua y derivable en 0), probar que $0 \in \operatorname{Im}(f)$,
-      tangente de $f(2x+6)$ conociendo la de $f$, estudio de $2\ln(3x^2+6)$ y extremos
-      absolutos en un intervalo cerrado. Resolución:
-      `../otros/2018 C1 - Segundo Parcial RESUELTO IAM.pdf`.
-- [ ] **6. `2018-06-28 Tema 3 - consigna.pdf`** — límites (uno con parámetro), partida con
+- [ ] **15. `2018-06-27 Tema 2 - consigna.pdf`** — partida con $k$ (continua y derivable en
+      0), probar que $0 \in \operatorname{Im}(f)$, tangente de $f(2x+6)$ conociendo la de
+      $f$, estudio de $2\ln(3x^2+6)$ y extremos absolutos en un intervalo cerrado.
+      Resolución: `../otros/2018 C1 - Segundo Parcial RESUELTO IAM.pdf`.
+- [ ] **16. `2018-06-28 Tema 3 - consigna.pdf`** — límites (uno con parámetro), partida con
       $a$ (continua y derivable en 1), normal de $1/(f(x)+3)$, estudio completo con "para qué
       $k$ la ecuación $f(x) = k$ tiene una única solución" y máximo de $xy^2$ con $x + y = 9$.
       Resolución: `../otros/2018 C1 - IAM Segundo Parcial.pdf`.
-- [ ] **7. `2017-11-16 Tema 2 - consigna.pdf`** — límites, partida con $a$, tangente a la
+- [ ] **17. `2017-11-16 Tema 2 - consigna.pdf`** — límites, partida con $a$, tangente a la
       lemniscata (implícita), estudio completo con cantidad de soluciones de una ecuación y
       punto de $y = \sqrt{x}$ más cercano a $(4, 0)$. Resolución:
       `../otros/2017-11-16 2do T2 RESUELTO.pdf`.
-- [ ] **8. `2017-21-6 T2.jpg`** (22/06/2017) — límites, partida con $a$ y $b$ (continua y
+- [ ] **18. `2017-21-6 T2.jpg`** (22/06/2017) — límites, partida con $a$ y $b$ (continua y
       derivable en $\mathbb{R}$), tangente de $g \circ h$ conociendo las dos tangentes, estudio
       de $(x-1)e^{-(x-1)}$ y triángulo de área máxima.
-- [ ] **9. `2017-21-6 T1.jpg`** (21/06/2017) — partida continua y derivable en 3, límites (uno
+- [ ] **19. `2017-21-6 T1.jpg`** (21/06/2017) — partida continua y derivable en 3, límites (uno
       $1^\infty$), tangente con $k$ de una composición, estudio de $x(\ln x - 2)^2 - 2$ y
       triángulo rectángulo de hipotenusa 10.
 
-  Los 8 y 9 no tienen resolución propia; hay resueltos de 2017 en `../otros/2017 resueltoo/`
+  Los 18 y 19 no tienen resolución propia; hay resueltos de 2017 en `../otros/2017 resueltoo/`
   y `../otros/resuelto 2017/`.
 
 ### Prioridad baja — formato M1 (6 ejercicios, te dan $f'$ y $f''$)
@@ -170,15 +218,15 @@ parámetro, tangente o normal de una composición, estudio completo y optimizaci
 Otro formato, pero sirven para practicar Bolzano, derivabilidad por definición, tangente con
 parámetro, implícita y asíntotas.
 
-- [ ] **10. `2023-11-06 M1 Tema 2 - consigna.pdf`** — $f(c) = -20$ con
+- [ ] **20. `2023-11-06 M1 Tema 2 - consigna.pdf`** — $f(c) = -20$ con
       $\operatorname{sen}(x)\ln(x^2)$, tangente $y = 15x - 9$ con $k$, implícita, asíntotas,
       estudio con $f'$ y $f''$ dadas, tubería de la refinería.
       Resolución: `../otros/2023-11-06 2º Parcial RESUELTO .pdf`.
-- [ ] **11. `2022-11-07 M1 Tema 1 - consigna.pdf`** — partida con
+- [ ] **21. `2022-11-07 M1 Tema 1 - consigna.pdf`** — partida con
       $\operatorname{sen}(x)e^{1/x}$, recta **normal** con $k$, implícita con $\ln(f(x))$,
       asíntota oblicua en $-\infty$, caja de 768 cm³ con lado entre 12 y 16. Trae un bonus
       de derivación implícita respecto de $t$. Resolución: `../otros/2022 2C SEGUNDO PARCIAL IAM.pdf`.
-- [ ] **12. `Sin fecha - formato M1 (1000064303).png`** — $(x-2)\ln|x-2|$, tangente
+- [ ] **22. `Sin fecha - formato M1 (1000064303).png`** — $(x-2)\ln|x-2|$, tangente
       paralela y tangente dada, implícita, asíntotas, estudio con $f'$ y $f''$ dadas en
       $\mathbb{R} \setminus \{1\}$, caja sin tapa con presupuesto. Sin resolución.
 
@@ -204,7 +252,9 @@ Más de lo mismo, por si hace falta más práctica de algún tema puntual:
 2. Resto de práctica 7 (18–20, 25–28, 32) → tangentes de composiciones, implícita y
    derivada logarítmica.
 3. Práctica 8 a medida que se da en clase (L'Hôpital y asíntotas recién el 15 y 20 de octubre).
-4. Parciales 1 y 2 (N1) completos, con la resolución para corregirte cuando la haya.
-5. Parciales 4 a 9 para practicar la misma plantilla.
-6. Parcial 3 (N1 2025) como simulacro, en la última semana.
-7. Parciales 10 a 12 (M1) solo si sobra tiempo.
+4. Parciales 1 a 12 en orden, de a uno por ejercicio si hace falta: arrancan por los más
+   difíciles, así lo que queda al final se siente fácil.
+5. Parcial 13 (N1 2025) como simulacro con reloj en la última semana: tiene resolución con
+   nota 10 para corregirte.
+6. Parciales 14 a 19 si querés más práctica del mismo formato, y 20 a 22 (M1) solo si sobra
+   tiempo.
