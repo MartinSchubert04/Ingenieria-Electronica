@@ -23,14 +23,14 @@ según lo que realmente se toma.
 Los parciales de la comisión M1 (2022, 2023 y uno sin fecha con el mismo formato) tienen
 **6 ejercicios, siempre los mismos seis temas y en el mismo orden**:
 
-| #   | Tema                                                                 | Puntos | Práctica |
-| --- | -------------------------------------------------------------------- | ------ | -------- |
-| 1   | (a) Probar que existe $c$ con $f(c) = \text{valor}$ (Bolzano / valores intermedios) · (b) decidir si $f$ es derivable en un punto, por definición | 20 | 6 y 7 |
-| 2   | Recta tangente o normal con un parámetro $k$ a encontrar              | 20     | 7        |
-| 3   | Derivación implícita: calcular $f'(x_0)$ a partir de una ecuación     | 10     | 7        |
-| 4   | Asíntotas: (a) vertical u horizontal, (b) oblicua                     | 15     | 8        |
-| 5   | Te dan $f'$ y $f''$ ya calculadas: crecimiento, concavidad, gráfico e imagen | 20 | 8      |
-| 6   | Optimización con el dominio restringido a un intervalo cerrado        | 15     | 8        |
+| #   | Tema                                                                                                                                              | Puntos | Práctica |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------- |
+| 1   | (a) Probar que existe $c$ con $f(c) = \text{valor}$ (Bolzano / valores intermedios) · (b) decidir si $f$ es derivable en un punto, por definición | 20     | 6 y 7    |
+| 2   | Recta tangente o normal con un parámetro $k$ a encontrar                                                                                          | 20     | 7        |
+| 3   | Derivación implícita: calcular $f'(x_0)$ a partir de una ecuación                                                                                 | 10     | 7        |
+| 4   | Asíntotas: (a) vertical u horizontal, (b) oblicua                                                                                                 | 15     | 8        |
+| 5   | Te dan $f'$ y $f''$ ya calculadas: crecimiento, concavidad, gráfico e imagen                                                                      | 20     | 8        |
+| 6   | Optimización con el dominio restringido a un intervalo cerrado                                                                                    | 15     | 8        |
 
 **Se aprueba con 50 puntos** y con al menos un ejercicio calificado B= o mejor.
 Los ejercicios 1 y 2 solos suman 40: son los que no se pueden regalar.
@@ -118,7 +118,7 @@ puntos, con subítems calificados B, B- o B= y "usando correctamente la regla de
 Varios traen 5 puntos extra con una restricción de dominio en la optimización o un Bolzano
 en el estudio.
 
-- [ ] **1. `2026-06-09 TN Parcial 2 Tema 1.jpg`** — el más difícil y el más reciente. Límites
+- [x] **1. `2026-06-09 TN Parcial 2 Tema 1.jpg`** — el más difícil y el más reciente. Límites
       $x\operatorname{sen}(\pi + 1/x)$ en $-\infty$ y un $1^\infty$ con logaritmos, partida
       con $(e^{x-2}-1)/(x-2)$ (continua y derivable con $q$ y $k$), tangente de
       $\ln(f(2x+2))$ conociendo la de $f$, estudio de $4 - x^2 - 2/x$ y una caja de madera
@@ -130,7 +130,7 @@ en el estudio.
       estudio completo de $(3x^4+3)/x^3$. La consigna tiene las notas de un alumno (5,5).
       `../otros/2024-06-03 - 2do Parcial - IAM(1).pdf` es el mismo examen de otro alumno
       (nota 7), con 6 páginas más que no revisé: deberían ser su resolución.
-- [ ] **3. `2025-06-05 TN Parcial 2 Tema 2.jpg`** — límite $0/0$ con $\cos(\pi x)$ y un
+- [x] **3. `2025-06-05 TN Parcial 2 Tema 2.jpg`** — límite $0/0$ con $\cos(\pi x)$ y un
       $\infty^0$, partida con $(e^{x-3}-1)/(x-3)$ (derivabilidad con $k$), tangente con $k$
       de una potencia sexta, estudio de $1 - e^{x^4-2x^2}$ (inflexiones a partir del gráfico
       y extra de Bolzano sobre $f''$), alambrado y reja con costo mínimo y restricción.

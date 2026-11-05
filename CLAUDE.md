@@ -29,6 +29,17 @@ estudiar: cuando pido resolver algo, quiero aprender a hacerlo como lo pide la c
 6. **Formato:** español rioplatense (voseo, como las consignas). LaTeX se ve renderizado
    con KaTeX: nunca subíndices ni superíndices dentro de `\text{}`; fórmulas químicas en
    `\mathrm{}` (`\text{g de } \mathrm{KO_2}`, no `\text{g de KO_2}`).
+   El panel de Claude Code filtra lo que parece plata y deja crudas (con los `$` a la
+   vista) las fórmulas que no pasan:
+   - `$...$` en línea de **más de 60 caracteres** no se dibuja. Los límites largos
+     (`\displaystyle\lim ... \left( ... \right)^{...}`) van en un bloque `$$` en su
+     propia línea.
+   - Un número solo entre `$` (`$0$`, `$1$`, `$36$`) se toma como precio, y un signo solo
+     (`$+$`, `$-$`) o algo que termina en `+`, `-` o `*` se descarta. Escribirlos como
+     texto común, sin `$`: en tablas de signos, `+` y `−`; en listas de valores,
+     `$x = -1$, $x = 0$ y $x = 1$` o "en −1, 0 y 1".
+   - Un `$$` dentro de una viñeta o lista numerada va en su propia línea **con sangría**
+     (3 espacios); pegado al margen izquierdo no se dibuja.
 
 ## Dónde está el material de cada materia
 
