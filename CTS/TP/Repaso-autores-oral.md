@@ -341,7 +341,7 @@ La pregunta de la unidad: **¿qué papel tiene que tener el Estado para que la c
 - El Súper RIGI **incentiva sin misión ni condiciones**: da beneficios fiscales por 30 años y no pide nada a cambio en materia de agua.
 - Es el riesgo de **captura** que advierte Mazzucato.
 - El riesgo hídrico queda en la región y los beneficios se van a inversores de afuera: **socialización del riesgo y privatización de los beneficios**.
-- Contraste: Brasil, con su régimen Redata, da beneficios **con condiciones** (energía renovable, eficiencia en el uso del agua, inversión en I+D).
+- Contraste: Brasil, con su régimen Redata, da beneficios fiscales para comprar e importar equipos tecnológicos, pero **con condiciones**: energía 100 % renovable, eficiencia hídrica e inversión en I+D. El Súper RIGI "no incluye exigencias ambientales, como en otros países de la región" (Ruido, *Chequeado*, 2 de junio de 2026).
 
 ---
 
