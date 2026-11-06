@@ -12,11 +12,17 @@
 
 Consejo: no lo lean de corrido. Usen las **palabras clave** de cada parte como ayuda-memoria y practiquen con cronómetro.
 
+Cada parte (menos la 4, que compara autores ya vistos) arranca con un recuadro **"El texto en un párrafo"**: qué dice el texto del autor y qué significa, armado con los resúmenes de la materia. No se lee en el oral; sirve para entender al autor y para responder si preguntan algo que no está en el guion.
+
 ---
 
 ## Parte 1 — Kreimer y Zabala: quién define el problema
 
 **Palabras clave:** problemas sociales construidos · hablar en nombre de · "traducidas" · carrera de inversiones · el agua no está en la mesa
+
+> **El texto en un párrafo** (para estudiar, no se lee en el oral) — Kreimer y Zabala, "¿Qué conocimiento y para quién?" (2006).
+>
+> El texto sostiene que los problemas sociales no son algo dado: existen porque ciertos actores los definen como tales, y la ciencia participa en esa definición. En el Chagas, una enfermedad de la pobreza y "negada" porque no es rentable para los laboratorios, los enfermos nunca se organizaron y sus necesidades siempre fueron "traducidas" por otros: el Estado, los científicos y los organismos internacionales. Según quién la definía, la enfermedad fue un problema de salud pública (el foco en el enfermo), un problema social nacional (la vinchuca) y finalmente un objeto científico (el parásito, al que apunta la mitad de los papers). La investigación argentina es de buen nivel, pero sigue agendas fijadas en los países centrales ("integración subordinada") y produce "conocimiento aplicable no aplicado": no salió ninguna vacuna ni ningún medicamento nuevo. **Qué significa:** que un conocimiento se declare "socialmente relevante" no garantiza que les sirva a los afectados. Hay que preguntar quién define el problema y para quién se produce el conocimiento, porque cuando cada actor busca su propia legitimidad, la intervención se vuelve retórica y el problema se perpetúa.
 
 Nuestra problemática es esta: el Estado promueve, con beneficios fiscales de largo plazo, megacentros de datos para inteligencia artificial en la Patagonia. Es una actividad que consume mucha agua y energía, en una región en emergencia hídrica, sin regulación y sin información pública sobre cuánto van a consumir. Vamos a mostrar cómo se relaciona con los autores de la materia, y yo arranco con Kreimer y Zabala.
 
@@ -38,6 +44,10 @@ Y esto abre la pregunta que sigue: si el agua es lo que está en juego, ¿por qu
 
 **Palabras clave:** la gente evalúa mal · heurística de disponibilidad · costo-beneficio · el dato lo tiene la empresa · "si el público recibe la información"
 
+> **El texto en un párrafo** (para estudiar, no se lee en el oral) — Sunstein, *Riesgo y razón*.
+>
+> El texto sostiene que la gente común evalúa mal los riesgos por sesgos cognitivos: la heurística de disponibilidad (se sobrestima lo vívido o lo que salió en las noticias), la "toxicología intuitiva" (el riesgo es todo o nada, la naturaleza es benévola, se exige riesgo cero) y las cascadas sociales (se cree que algo es peligroso porque otros lo creen). Como los gobiernos siguen esos juicios, asignan mal sus recursos: regulan riesgos chicos e ignoran otros grandes. Por eso propone el análisis de costo-beneficio como un "freno tecnocrático": evaluar todas las consecuencias, frenar a los grupos de interés y ver los riesgos que una regulación crea al reemplazar a otra (como el DDT y sus sustitutos). Aclara que no es antidemocrático: si el público, ya informado, quiere seguir adelante, puede hacerlo. Y reconoce sus límites: la ciencia no resuelve cuestiones normativas, el análisis es "un punto de partida, no de llegada" y comparar riesgos es un juicio político. **Qué significa:** que las decisiones sobre riesgos deberían apoyarse en datos y no en temores, pero que la decisión final sigue siendo democrática y supone que la información está a la vista del público.
+
 Sunstein, en *Riesgo y razón*, parte de una idea: la gente evalúa mal los riesgos. Habla de la heurística de disponibilidad: le damos más probabilidad a lo que recordamos o a lo que vimos en las noticias. Y habla de las cascadas sociales: muchas personas creen que algo es peligroso porque otros lo creen. Por eso, para él, las decisiones sobre riesgos no deberían basarse en temores, sino en un análisis de costo-beneficio, es decir, en una evaluación de las consecuencias con datos.
 
 Si aplicamos esto a nuestra problemática, desde Sunstein se podría dar una respuesta favorable a la inversión. Se podría decir que el miedo a que los centros de datos se queden con el agua es exagerado, y que hay beneficios concretos: inversión, empleo, infraestructura. Para saber si el riesgo es real, diría Sunstein, hay que medirlo.
@@ -57,6 +67,10 @@ O sea, incluso desde el autor más favorable a la inversión, la conclusión es 
 ## Parte 3 — Beck: por qué falta la información
 
 **Palabras clave:** riesgos invisibles · conocimiento experto · "soberanía cognitiva" · vecino de Trelew · "rechazo causal" · "se verá en el estudio de impacto"
+
+> **El texto en un párrafo** (para estudiar, no se lee en el oral) — Beck, *La sociedad del riesgo*, cap. 2.
+>
+> El texto sostiene que la modernización produce peligros (contaminación, químicos, radiación) que, a diferencia de la miseria obrera del siglo XIX, no se ven: solo existen a través del conocimiento científico. Por eso, en los riesgos "la conciencia determina el Ser", y los afectados pierden "soberanía cognitiva": quien encuentra DDT en su té depende de un experto para saber si está afectado. Beck critica el "monopolio de la racionalidad" de la ciencia, que separa el "riesgo real" que fijan los expertos de la "percepción irracional" de la población. Todo enunciado sobre riesgos incluye un "así queremos vivir", y que la gente no acepte la definición experta no es ignorancia, sino rechazo de esos supuestos. Muestra además cómo la ciencia termina negando riesgos: por ceguera económica, tratando los daños como "efectos secundarios", exigiendo pruebas causales estrictas ("rechazo causal") y fijando valores límite ("quien limita la polución también la consiente"). Y concluye que la naturaleza ya es sociedad: los problemas ambientales son problemas sociales. **Qué significa:** definir un riesgo es una decisión política que reparte quién queda afectado. Quien tiene el conocimiento tiene poder, y la voz de los afectados también es una forma legítima de saber.
 
 Beck, en *La sociedad del riesgo*, explica por qué falta esa información. Su idea central es que los peligros de la modernización, como la contaminación o los químicos, no se ven. No se pueden tocar ni oler. Solo existen a través del conocimiento experto: la química, la medicina, la biología.
 
@@ -99,6 +113,10 @@ Hasta acá hablamos del agua. Pero la problemática se justifica en nombre de un
 ## Parte 5 — Pedace, Schleider y Balmaceda: la IA no es neutral (+ cierre)
 
 **Palabras clave:** Salta y Microsoft · decisiones humanas en cada etapa · sin las adolescentes · dos momentos · para quién, quién se beneficia, quién evalúa · UNC · costo material y social
+
+> **El texto en un párrafo** (para estudiar, no se lee en el oral) — Pedace, Schleider y Balmaceda, "Inteligencia artificial y sesgos" (2023).
+>
+> El texto sostiene que es imposible una IA neutral en valores, y muestra una paradoja: aplicada a políticas públicas, la IA no combate las desigualdades sino que las consolida, con una apariencia de imparcialidad que además impide apelar o pedir explicaciones. Un sistema de IA no es solo un algoritmo: son los datos, el algoritmo y el modelo que resulta, y en cada etapa hay decisiones humanas. Los datos son una construcción cultural, y los sesgos aparecen al definir el problema, al diseñar el algoritmo, al elegir los datos y al probarlo. El caso de Salta es un "catálogo" de errores: datos tomados solo en barrios pobres, un modelo evaluado con los mismos datos con que se entrenó, encuestas sobre el presente usadas para "predecir" el futuro (más una "premonición" que una predicción), un problema planteado solo desde las niñas y sin decir nunca qué se haría con las listas, con el riesgo de estigmatizarlas. **Qué significa:** la tecnología no es neutral ni objetiva por ser tecnología. Hay que preguntar para quién es una mejora, quién se beneficia y quién evalúa, y la IA necesita supervisión humana calificada y debate público más allá de los expertos.
 
 Pedace, Schleider y Balmaceda analizan un caso argentino: en 2017, el gobierno de Salta firmó un convenio con Microsoft para usar inteligencia artificial que "predijera" qué adolescentes iban a quedar embarazadas. El gobernador decía que se podía saber, con nombre, apellido y domicilio, qué niña estaba "predestinada" a un embarazo adolescente.
 
