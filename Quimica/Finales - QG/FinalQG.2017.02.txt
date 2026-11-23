@@ -1,0 +1,78 @@
+Este final fue múltiple choice. Una vez que terminaron de corregirlos nos llamaron y los que tuvieron más del 50% de las preguntas correctas tenían que dar un oral sobre las preguntas que respondieron mal.
+
+1. La presión de un líquido puede ser mayor a la presión atmosférica.
+Falso
+
+2. Números cuánticos de un electrón en el orbital 3s.
+n= 3
+l= 0,1,2
+m= -3,-2, -1, 0, 1, 2, 3
+
+3. En qué circunstancias una reacción es espontánea a cualquiera temperatura.
+AH<0 y AS>0
+
+3. Qué valores de AH, AG y AS tendrá la reacción espóntanea del agua pasando a un estado sólido.
+AH, AG y AS son negativos.
+
+4. ¿Qué átomo tiene mayor energía de ionización?
+[x]He
+[ ]Ne
+[ ]F
+[ ]Si
+
+5. ¿Cuál es el pH de una neutralización entre un ácido débil y una base fuerte?
+Mayor a 7 (básico)
+
+6. Si se diluye en agua un ácido (Ka=4,86), ¿cuál será su pH?
+Tiende a pH=7
+
+7. ¿Cuál es la geometría molecular de una molécula formada por un átomo central unido a 2 átomos y 1 par de electrones libre?
+Angular
+
+8. Según TREPEV, cuál de estas afirmaciones es cierta.
+[ ]4 enlaces químicos dan una geometría molecular tetraedrica
+[x]Los pares de electrones libres ocupan más lugar en el espacio que los electrones de enlace.
+
+9. ¿Cuáles son las fuerzas moleculares más fuertes del BF3?
+Fuerzas de London. (porque es no polar)
+
+10. Cuál de estas moléculas NO tiene una estructura molecular tetraédrica. (Sólo te dan el dato del grupo al que pertenece cada elemento)
+[x] SF4
+[ ] CH4
+[ ] NH4+
+[ ] BeCl4^-2
+[ ] SiBr4
+
+11. ¿Cuál afirmación es cierta según el principio de Paulie?
+[x]Dos electrones no pueden tener los mismos números cúanticos
+[ ]Dos electrones no pueden tener el mismo spin
+[ ]Dos electrones no pueden compartir el mismo orbital
+
+12. ¿Qué solución dentrá la temperatura de fusión más baja? (Propiedades coligativas)
+
+[x]MgI2   0,01M	 Van't Hoff=3
+[ ]NaCl	  0,01M	 Van't Hoff=2
+[ ]Etano  0,01M	 Van't Hoff=1
+[ ]HAc	  0,01M	 Van't Hoff=1,5	
+
+13. En un sistema con un gas ideal la AU es aproximadamente igual al AH.
+Verdadero (El AH suele dar en Joules y el AU en KJ)
+
+14. Un átomo con la configuración electrónica 1s2 2s2 2p5 3s1
+[x]Está exitado
+[ ]No existe
+[ ]Está en su estado normal
+
+15. Una sal básica es
+Una sal que se disuelve en un catión neutro y un anión básico
+
+16. ¿Cuál es la presión parcial de las sustancias A y B si la presión total es de 2atm?
+Cualquiera que de un total de 2atm sumado.(Había varias opciones correctas.)
+
+17. En la racción C+O->C0 AH=+58, ¿qué hará que se produzca más producto? (Le Chatelier)
+Aumentar la temperatura
+
+18. ¿Cuál es el pH final de una solución neutra si se le agrega NaOH 1x10-9M?
+[ ]5.00
+[ ]9.00
+[x]7.00 (Porque la concentración de NaOH es demasiado baja comparada a los OH- de autoionización del agua)
